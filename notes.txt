@@ -1,0 +1,18 @@
+ venv\Scripts\Activate.ps1  <-- to activate venv to isolate packages
+
+ Mistakes:
+ - tried to push venv (LOL), put it in gitignore
+
+What I did after:
+
+pip install requests pandas numpy scikit-learn xgboost <-- installing all the imports I need
+    - requests for API
+    - numpy to work with the data
+    - scikit-learn lib for ML tools
+- xgboost notes cause I've never used it before:
+    * extreme gradient  boosting
+    * combines multiple weak models to create stronger models
+    * use errors on prev test to train next tree using regularization to prevent overfitting
+    * repeat the process
+    * sequential
+
