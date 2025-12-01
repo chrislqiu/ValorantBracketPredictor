@@ -41,9 +41,25 @@ def scrape_vlr_page(page_num: int):
         t2_name = team_elements[1].select_one(".match-item-vs-team-name .text-of").text.strip()
         t2_score = team_elements[1].select_one(".match-item-vs-team-score").text.strip()
 
-        print(f"{t1_name} {t1_score} vs {t2_name} {t2_score}")
+        series_info = match.select_one(".match-item-event-series")
+        series = series_info.text.strip() if series_info else ""
 
-        break
+        event_info = match.select_one(".match-item-event")
+        event = event_info.get_text().split("\n")[3].strip() if event_info else ""
 
+        matches.append({
+            "match_id" : match_id,
+            "match_url" : match_url,
+            "team1" : t1_name,
+            "team2" : t2_name,
+            "score1" : t1_score,
+            "score2" : t2_score,
+            "winner" : t1_name if t1_score > t2_score else t2_name,
+            "event" : event,
+            "series" : series,
+        })
+    
+    return matches
 
-scrape_vlr_page(1)
+all_matches = []
+
