@@ -16,3 +16,6 @@ pip install requests pandas numpy scikit-learn xgboost <-- installing all the im
     * repeat the process
     * sequential
 
+Need Scraper to pull info from VLR.gg/matches/results
+    - need team name and score (for now)
+    - include other data like player composition (later)
