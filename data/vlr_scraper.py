@@ -61,5 +61,4 @@ def scrape_vlr_page(page_num: int):
     
     return matches
 
-all_matches = []
 
