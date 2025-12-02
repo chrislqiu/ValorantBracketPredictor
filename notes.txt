@@ -25,6 +25,8 @@ Beautiful Soup Notes:
 - .text after a .find() to obtain the text (need this to extract team name and score)
 - be wary of errors/inconsistencies in html
 - need to access each nested div, span, a, etc
-
+- soup.select() <-- allows multiple selection of class name separated by .
 
 docs here: https://beautiful-soup-4.readthedocs.io/en/latest/#
+
+pip install beautifulsoup4
