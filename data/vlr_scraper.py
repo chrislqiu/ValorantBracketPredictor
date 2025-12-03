@@ -6,7 +6,36 @@ import time
 BASE_URL = "https://www.vlr.gg"
 match_results_url = "https://www.vlr.gg/matches/results"
 
-#End on page 250
+TEAMS = {
+    "Sentinels", "LOUD", "FURIA", "NRG", "Cloud9", "Gen.G", "DRX", "T1",
+    "Paper Rex", "Team Secret", "Fnatic", "Team Liquid", "Karmine Corp",
+    "G2 Esports", "Natus Vincere", "100 Thieves", "Evil Geniuses",
+    "Bilibili Gaming", "EDward Gaming", "MIBR", "Rex Regum Qeon",
+    "Xi Lai Gaming", "GIANTX", "Team Heretics", "KRÜ Esports",
+    "LEVIATÁN", "ENVY", "BBL Esports", "FUT Esports", "Gentle Mates",
+    "Team Vitality", "DetonatioN FocusMe", "Global Esports", "ZETA DIVISION",
+    "FunPlus Phoenix", "All Gamers", "Trace Esports", "TYLOO", "Nova Esports",
+    "JDG Esports", "Titan Esports Club", "Wolves Esports", "TALON",
+    "Team Liquid Brazil", "Shopify Rebellion Gold", "MIBR GC", "KRÜ BLAZE",
+    "Karmine Corp GC", "G2 Gozen", "Nova Esports GC", "Ninetails",
+    "GIANTX GC", "Xipto Esports GC"
+}
+
+def extract_map_scores(match_url: str):
+    
+    res = requests.get(match_url)
+    soup = BeautifulSoup(res.text, "html.parser")
+
+    map_container = soup.select(".vm-stats-game")
+
+    for i, map in enumerate(map_container, 1):
+
+
+        pass
+
+    
+
+
 def scrape_vlr_page(page_num: int):
 
     matches = []
@@ -41,6 +70,10 @@ def scrape_vlr_page(page_num: int):
         t2_name = team_elements[1].select_one(".match-item-vs-team-name .text-of").text.strip()
         t2_score = team_elements[1].select_one(".match-item-vs-team-score").text.strip()
 
+        #checks if at least one team is in the list
+        if t1_name not in TEAMS and t2_name not in TEAMS:
+            continue
+
         series_info = match.select_one(".match-item-event-series")
         series = series_info.text.strip() if series_info else ""
 
@@ -62,3 +95,4 @@ def scrape_vlr_page(page_num: int):
     return matches
 
 
+print(extract_map_scores("https://www.vlr.gg/587272/rex-regum-qeon-vs-gen-g-soop-valorant-league-2025-opening-b/?game=241908&tab=overview"))
