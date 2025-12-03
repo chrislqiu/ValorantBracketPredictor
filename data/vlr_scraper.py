@@ -26,12 +26,41 @@ def extract_map_scores(match_url: str):
     res = requests.get(match_url)
     soup = BeautifulSoup(res.text, "html.parser")
 
-    map_container = soup.select(".vm-stats-game")
+    map_data = []
 
+    #finds div with class name, and looks for attribute data-game-id where it is not all
+    map_container = soup.select('div.vm-stats-game[data-game-id]:not([data-game-id="all"])')
+    
     for i, map in enumerate(map_container, 1):
 
+        # Skip hidden containers
+        style = map.get("style", "")
+        if 'display: none' in style:
+            continue
 
-        pass
+        #map name
+        map_div = map.select_one(".map")
+        map_name = map_div.get_text().split("\n")[3].strip()
+
+        # score
+        scores = map.select(".score")
+
+        if len(scores) < 2:
+            continue
+        
+        team1_score = scores[0].get_text(strip=True)
+        team2_score = scores[1].get_text(strip=True)
+        
+        map_data.append({
+            "map_num" : i,
+            "map_name" : map_name,
+            "t1_score" : team1_score,
+            "t2_score" : team2_score,
+            "winner" : "team1" if int(team1_score) > int(team2_score) else "team2"
+
+        })
+
+    return map_data
 
     
 
@@ -80,6 +109,9 @@ def scrape_vlr_page(page_num: int):
         event_info = match.select_one(".match-item-event")
         event = event_info.get_text().split("\n")[3].strip() if event_info else ""
 
+        # extract map data
+        maps = extract_map_scores(match_url)
+
         matches.append({
             "match_id" : match_id,
             "match_url" : match_url,
@@ -87,12 +119,13 @@ def scrape_vlr_page(page_num: int):
             "team2" : t2_name,
             "score1" : t1_score,
             "score2" : t2_score,
-            "winner" : t1_name if t1_score > t2_score else t2_name,
+            "winner" : t1_name if int(t1_score) > int(t2_score) else t2_name,
             "event" : event,
             "series" : series,
+            "maps" : maps
         })
     
     return matches
 
 
-print(extract_map_scores("https://www.vlr.gg/587272/rex-regum-qeon-vs-gen-g-soop-valorant-league-2025-opening-b/?game=241908&tab=overview"))
+print(scrape_vlr_page(1))
