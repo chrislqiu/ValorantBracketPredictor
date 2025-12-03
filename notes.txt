@@ -30,3 +30,7 @@ Beautiful Soup Notes:
 docs here: https://beautiful-soup-4.readthedocs.io/en/latest/#
 
 pip install beautifulsoup4
+
+ACTUAL SCRAPING STUFF:
+- need to take into account BO1
+- only take into teams that actually show up on brackets (tier 1 teams)
