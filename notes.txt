@@ -1,4 +1,5 @@
  venv\Scripts\Activate.ps1  <-- to activate venv to isolate packages
+ pip freeze > requirements.txt <-- updates environment for venv
 
  Mistakes:
  - tried to push venv (LOL), put it in gitignore
