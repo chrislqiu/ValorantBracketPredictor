@@ -112,6 +112,15 @@ def scrape_vlr_page(page_num: int):
         # extract map data
         maps = extract_map_scores(match_url)
 
+        #BO1 checker
+        if int(t1_score) + int(t2_score) > 5:
+            if int(t1_score) > int(t2_score):
+                t1_score = 1
+                t2_score = 0
+            else:
+                t1_score = 0
+                t2_score = 1
+
         matches.append({
             "match_id" : match_id,
             "match_url" : match_url,

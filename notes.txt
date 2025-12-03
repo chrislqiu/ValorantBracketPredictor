@@ -32,5 +32,5 @@ docs here: https://beautiful-soup-4.readthedocs.io/en/latest/#
 pip install beautifulsoup4
 
 ACTUAL SCRAPING STUFF:
-- need to take into account BO1
+- need to take into account BO1 --> done, check by summing the scores to see if they exceed 5 (BO5 and BO3 max is 5 and 3 respectively)
 - only take into teams that actually show up on brackets (tier 1 teams)
