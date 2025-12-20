@@ -48,15 +48,16 @@ def extract_map_scores(match_url: str):
         if len(scores) < 2:
             continue
         
-        team1_score = scores[0].get_text(strip=True)
-        team2_score = scores[1].get_text(strip=True)
+        team1_score = int(scores[0].get_text(strip=True))
+        team2_score = int(scores[1].get_text(strip=True))
         
         map_data.append({
             "map_num" : i,
             "map_name" : map_name,
             "t1_score" : team1_score,
             "t2_score" : team2_score,
-            "winner" : "team1" if int(team1_score) > int(team2_score) else "team2"
+            "round_diff" : team1_score - team2_score,
+            "winner" : 1 if team1_score > team2_score else 0
 
         })
 
@@ -94,10 +95,10 @@ def scrape_vlr_page(page_num: int):
         
         #goes into the match-item-vs-team-name div, then looks into the text-of, which contains the name of the team
         t1_name = team_elements[0].select_one(".match-item-vs-team-name .text-of").text.strip()
-        t1_score = team_elements[0].select_one(".match-item-vs-team-score").text.strip()
+        t1_score = int(team_elements[0].select_one(".match-item-vs-team-score").text.strip())
 
         t2_name = team_elements[1].select_one(".match-item-vs-team-name .text-of").text.strip()
-        t2_score = team_elements[1].select_one(".match-item-vs-team-score").text.strip()
+        t2_score = int(team_elements[1].select_one(".match-item-vs-team-score").text.strip())
 
         #checks if at least one team is in the list
         if t1_name not in TEAMS and t2_name not in TEAMS:
@@ -112,9 +113,12 @@ def scrape_vlr_page(page_num: int):
         # extract map data
         maps = extract_map_scores(match_url)
 
+        #find total round diff over all maps
+        total_rnd_differential = sum(map["round_diff"] for map in maps)
+
         #BO1 checker
-        if int(t1_score) + int(t2_score) > 5:
-            if int(t1_score) > int(t2_score):
+        if t1_score + t2_score > 5:
+            if t1_score > t2_score:
                 t1_score = 1
                 t2_score = 0
             else:
@@ -128,7 +132,8 @@ def scrape_vlr_page(page_num: int):
             "team2" : t2_name,
             "score1" : t1_score,
             "score2" : t2_score,
-            "winner" : t1_name if int(t1_score) > int(t2_score) else t2_name,
+            "total_rnd_diff" : total_rnd_differential,
+            "winner" : 1 if t1_score > t2_score else 0,
             "event" : event,
             "series" : series,
             "maps" : maps
