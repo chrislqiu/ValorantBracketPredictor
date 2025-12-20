@@ -1,0 +1,4422 @@
+[
+  {
+    "match_id": "590637",
+    "match_url": "https://www.vlr.gg/590637/funplus-phoenix-vs-paper-rex-valorant-radiant-international-invitational-sf",
+    "team1": "FunPlus Phoenix",
+    "team2": "Paper Rex",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -15,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Semifinal",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590636",
+    "match_url": "https://www.vlr.gg/590636/g2-esports-vs-paper-rex-valorant-radiant-international-invitational-qf",
+    "team1": "G2 Esports",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Quarterfinal",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590635",
+    "match_url": "https://www.vlr.gg/590635/nova-esports-vs-bilibili-gaming-valorant-radiant-international-invitational-d2",
+    "team1": "Nova Esports",
+    "team2": "Bilibili Gaming",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590634",
+    "match_url": "https://www.vlr.gg/590634/paper-rex-vs-bilibili-gaming-valorant-radiant-international-invitational-d2",
+    "team1": "Paper Rex",
+    "team2": "Bilibili Gaming",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590633",
+    "match_url": "https://www.vlr.gg/590633/paper-rex-vs-gen-g-valorant-radiant-international-invitational-d2",
+    "team1": "Paper Rex",
+    "team2": "Gen.G",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590632",
+    "match_url": "https://www.vlr.gg/590632/g2-esports-vs-gen-g-valorant-radiant-international-invitational-d2",
+    "team1": "G2 Esports",
+    "team2": "Gen.G",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590631",
+    "match_url": "https://www.vlr.gg/590631/g2-esports-vs-funplus-phoenix-valorant-radiant-international-invitational-d2",
+    "team1": "G2 Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590630",
+    "match_url": "https://www.vlr.gg/590630/nova-esports-vs-funplus-phoenix-valorant-radiant-international-invitational-d2",
+    "team1": "Nova Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -7,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590629",
+    "match_url": "https://www.vlr.gg/590629/nova-esports-vs-g2-esports-valorant-radiant-international-invitational-d1",
+    "team1": "Nova Esports",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590628",
+    "match_url": "https://www.vlr.gg/590628/bilibili-gaming-vs-g2-esports-valorant-radiant-international-invitational-d1",
+    "team1": "Bilibili Gaming",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590627",
+    "match_url": "https://www.vlr.gg/590627/bilibili-gaming-vs-gen-g-valorant-radiant-international-invitational-d1",
+    "team1": "Bilibili Gaming",
+    "team2": "Gen.G",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590626",
+    "match_url": "https://www.vlr.gg/590626/funplus-phoenix-vs-gen-g-valorant-radiant-international-invitational-d1",
+    "team1": "FunPlus Phoenix",
+    "team2": "Gen.G",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -7,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590625",
+    "match_url": "https://www.vlr.gg/590625/funplus-phoenix-vs-paper-rex-valorant-radiant-international-invitational-d1",
+    "team1": "FunPlus Phoenix",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590624",
+    "match_url": "https://www.vlr.gg/590624/nova-esports-vs-paper-rex-valorant-radiant-international-invitational-d1",
+    "team1": "Nova Esports",
+    "team2": "Paper Rex",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Day 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "595300",
+    "match_url": "https://www.vlr.gg/595300/envy-vs-furia-for-those-who-dare-2025-gf",
+    "team1": "ENVY",
+    "team2": "FURIA",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "For Those Who Dare 2025",
+    "series": "Playoffs–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "595299",
+    "match_url": "https://www.vlr.gg/595299/furia-vs-qor-for-those-who-dare-2025-sf",
+    "team1": "FURIA",
+    "team2": "QoR",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 13,
+    "winner": 1,
+    "event": "For Those Who Dare 2025",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "595298",
+    "match_url": "https://www.vlr.gg/595298/envy-vs-we-almost-did-it-for-those-who-dare-2025-sf",
+    "team1": "ENVY",
+    "team2": "We Almost Did It",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "For Those Who Dare 2025",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593555",
+    "match_url": "https://www.vlr.gg/593555/eternal-fire-vs-giantx-project-blender-2025-gf",
+    "team1": "Eternal Fire",
+    "team2": "GIANTX",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "593556",
+    "match_url": "https://www.vlr.gg/593556/team-vitality-vs-team-liquid-academy-project-blender-2025-cf",
+    "team1": "Team Vitality",
+    "team2": "Team Liquid Academy",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Consolation Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593554",
+    "match_url": "https://www.vlr.gg/593554/team-liquid-academy-vs-giantx-project-blender-2025-sf",
+    "team1": "Team Liquid Academy",
+    "team2": "GIANTX",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "593553",
+    "match_url": "https://www.vlr.gg/593553/eternal-fire-vs-team-vitality-project-blender-2025-sf",
+    "team1": "Eternal Fire",
+    "team2": "Team Vitality",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 0,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593551",
+    "match_url": "https://www.vlr.gg/593551/team-liquid-academy-vs-fut-esports-project-blender-2025-qf",
+    "team1": "Team Liquid Academy",
+    "team2": "FUT Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593552",
+    "match_url": "https://www.vlr.gg/593552/giantx-vs-natus-vincere-project-blender-2025-qf",
+    "team1": "GIANTX",
+    "team2": "Natus Vincere",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593550",
+    "match_url": "https://www.vlr.gg/593550/karmine-corp-vs-team-vitality-project-blender-2025-qf",
+    "team1": "Karmine Corp",
+    "team2": "Team Vitality",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "593544",
+    "match_url": "https://www.vlr.gg/593544/bratan-mix-vs-team-vitality-project-blender-2025-ro16",
+    "team1": "BRATAN MIX",
+    "team2": "Team Vitality",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Round of 16",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "593543",
+    "match_url": "https://www.vlr.gg/593543/karmine-corp-vs-3bl-esports-project-blender-2025-ro16",
+    "team1": "Karmine Corp",
+    "team2": "3BL Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Round of 16",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593547",
+    "match_url": "https://www.vlr.gg/593547/giantx-vs-ramboot-club-project-blender-2025-ro16",
+    "team1": "GIANTX",
+    "team2": "Ramboot Club",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Round of 16",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "593545",
+    "match_url": "https://www.vlr.gg/593545/bbl-esports-vs-team-liquid-academy-project-blender-2025-ro16",
+    "team1": "BBL Esports",
+    "team2": "Team Liquid Academy",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Round of 16",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "593548",
+    "match_url": "https://www.vlr.gg/593548/gentle-mates-vs-natus-vincere-project-blender-2025-ro16",
+    "team1": "Gentle Mates",
+    "team2": "Natus Vincere",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 1,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Round of 16",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "593546",
+    "match_url": "https://www.vlr.gg/593546/nuxeria-esport-vs-fut-esports-project-blender-2025-ro16",
+    "team1": "Nuxeria Esport",
+    "team2": "FUT Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 4–Round of 16",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587278",
+    "match_url": "https://www.vlr.gg/587278/t1-vs-fnatic-soop-valorant-league-2025-gf",
+    "team1": "T1",
+    "team2": "FNATIC",
+    "score1": 3,
+    "score2": 2,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Playoffs–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 4,
+        "map_name": "Corrode",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 5,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 0,
+        "round_diff": 13,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591987",
+    "match_url": "https://www.vlr.gg/591987/shopify-rebellion-black-vs-sentinels-sentinels-invitational-2025-gf",
+    "team1": "Shopify Rebellion Black",
+    "team2": "Sentinels",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -7,
+    "winner": 0,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591986",
+    "match_url": "https://www.vlr.gg/591986/sentinels-vs-100-thieves-sentinels-invitational-2025-sf",
+    "team1": "Sentinels",
+    "team2": "100 Thieves",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Semifinal",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "587277",
+    "match_url": "https://www.vlr.gg/587277/gen-g-vs-fnatic-soop-valorant-league-2025-sf",
+    "team1": "Gen.G",
+    "team2": "FNATIC",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587276",
+    "match_url": "https://www.vlr.gg/587276/t1-vs-slt-seongnam-soop-valorant-league-2025-sf",
+    "team1": "T1",
+    "team2": "SLT Seongnam",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591983",
+    "match_url": "https://www.vlr.gg/591983/100-thieves-vs-sentinels-sentinels-invitational-2025-rr",
+    "team1": "100 Thieves",
+    "team2": "Sentinels",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -20,
+    "winner": 0,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Round Robin",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591982",
+    "match_url": "https://www.vlr.gg/591982/shopify-rebellion-black-vs-sentinels-sentinels-invitational-2025-rr",
+    "team1": "Shopify Rebellion Black",
+    "team2": "Sentinels",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Round Robin",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591981",
+    "match_url": "https://www.vlr.gg/591981/shopify-rebellion-black-vs-furia-sentinels-invitational-2025-rr",
+    "team1": "Shopify Rebellion Black",
+    "team2": "FURIA",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Round Robin",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591467",
+    "match_url": "https://www.vlr.gg/591467/natus-vincere-vs-gamax-esports-project-blender-2025-r4",
+    "team1": "Natus Vincere",
+    "team2": "Gamax Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 4 (2-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591468",
+    "match_url": "https://www.vlr.gg/591468/gentle-mates-vs-trashcan-project-blender-2025-r4",
+    "team1": "Gentle Mates",
+    "team2": "trashcan",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 23,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 4 (2-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591463",
+    "match_url": "https://www.vlr.gg/591463/team-vitality-vs-galatasaray-esports-project-blender-2025-r4",
+    "team1": "Team Vitality",
+    "team2": "Galatasaray Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 13,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 4 (2-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591464",
+    "match_url": "https://www.vlr.gg/591464/fut-esports-vs-eternal-fire-project-blender-2025-r4",
+    "team1": "FUT Esports",
+    "team2": "Eternal Fire",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 4 (2-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "587275",
+    "match_url": "https://www.vlr.gg/587275/slt-seongnam-vs-rex-regum-qeon-soop-valorant-league-2025-decider-b",
+    "team1": "SLT Seongnam",
+    "team2": "Rex Regum Qeon",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Decider (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "589962",
+    "match_url": "https://www.vlr.gg/589962/trace-esports-vs-edward-gaming-shanghai-esports-masters-2025-gf",
+    "team1": "Trace Esports",
+    "team2": "EDward Gaming",
+    "score1": 0,
+    "score2": 3,
+    "total_rnd_diff": -18,
+    "winner": 0,
+    "event": "Shanghai Esports Masters 2025",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587274",
+    "match_url": "https://www.vlr.gg/587274/drx-vs-rex-regum-qeon-soop-valorant-league-2025-elim-b",
+    "team1": "DRX",
+    "team2": "Rex Regum Qeon",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Elimination (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587273",
+    "match_url": "https://www.vlr.gg/587273/slt-seongnam-vs-gen-g-soop-valorant-league-2025-winners-b",
+    "team1": "SLT Seongnam",
+    "team2": "Gen.G",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 0,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Winner's (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Abyss",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591980",
+    "match_url": "https://www.vlr.gg/591980/furia-vs-sentinels-sentinels-invitational-2025-rr",
+    "team1": "FURIA",
+    "team2": "Sentinels",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Round Robin",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591979",
+    "match_url": "https://www.vlr.gg/591979/100-thieves-vs-furia-sentinels-invitational-2025-rr",
+    "team1": "100 Thieves",
+    "team2": "FURIA",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Round Robin",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591978",
+    "match_url": "https://www.vlr.gg/591978/100-thieves-vs-shopify-rebellion-black-sentinels-invitational-2025-rr",
+    "team1": "100 Thieves",
+    "team2": "Shopify Rebellion Black",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Sentinels Invitational 2025",
+    "series": "Main Event–Round Robin",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591450",
+    "match_url": "https://www.vlr.gg/591450/karmine-corp-gc-vs-nuxeria-esport-project-blender-2025-r3",
+    "team1": "Karmine Corp GC",
+    "team2": "Nuxeria Esport",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -17,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (0-2)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591446",
+    "match_url": "https://www.vlr.gg/591446/bbl-esports-vs-galatasaray-esports-project-blender-2025-r3",
+    "team1": "BBL Esports",
+    "team2": "Galatasaray Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (2-0)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591447",
+    "match_url": "https://www.vlr.gg/591447/giantx-vs-gamax-esports-project-blender-2025-r3",
+    "team1": "GIANTX",
+    "team2": "Gamax Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 17,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (2-0)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591448",
+    "match_url": "https://www.vlr.gg/591448/karmine-corp-vs-trashcan-project-blender-2025-r3",
+    "team1": "Karmine Corp",
+    "team2": "trashcan",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (2-0)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591458",
+    "match_url": "https://www.vlr.gg/591458/gentle-mates-vs-ramboot-club-project-blender-2025-r3",
+    "team1": "Gentle Mates",
+    "team2": "Ramboot Club",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (1-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591454",
+    "match_url": "https://www.vlr.gg/591454/natus-vincere-vs-joblife-project-blender-2025-r3",
+    "team1": "Natus Vincere",
+    "team2": "Joblife",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (1-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591455",
+    "match_url": "https://www.vlr.gg/591455/fut-esports-vs-lost-puppies-project-blender-2025-r3",
+    "team1": "FUT Esports",
+    "team2": "Lost Puppies",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (1-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591456",
+    "match_url": "https://www.vlr.gg/591456/team-vitality-vs-erah-esport-project-blender-2025-r3",
+    "team1": "Team Vitality",
+    "team2": "Erah Esport",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 3 (1-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "589961",
+    "match_url": "https://www.vlr.gg/589961/edward-gaming-vs-bilibili-gaming-shanghai-esports-masters-2025-sf",
+    "team1": "EDward Gaming",
+    "team2": "Bilibili Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Shanghai Esports Masters 2025",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "587264",
+    "match_url": "https://www.vlr.gg/587264/full-sense-vs-zeta-division-soop-valorant-league-2025-elim-a",
+    "team1": "FULL SENSE",
+    "team2": "ZETA DIVISION",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Elimination (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "589960",
+    "match_url": "https://www.vlr.gg/589960/funplus-phoenix-vs-trace-esports-shanghai-esports-masters-2025-sf",
+    "team1": "FunPlus Phoenix",
+    "team2": "Trace Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "Shanghai Esports Masters 2025",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Abyss",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587263",
+    "match_url": "https://www.vlr.gg/587263/fnatic-vs-t1-soop-valorant-league-2025-winners-a",
+    "team1": "FNATIC",
+    "team2": "T1",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Winner's (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591433",
+    "match_url": "https://www.vlr.gg/591433/karmine-corp-vs-bonk-project-blender-2025-r2",
+    "team1": "Karmine Corp",
+    "team2": "BONK",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 2 (1-0)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591441",
+    "match_url": "https://www.vlr.gg/591441/team-vitality-vs-nuxeria-esport-project-blender-2025-r2",
+    "team1": "Team Vitality",
+    "team2": "Nuxeria Esport",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 2 (0-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591442",
+    "match_url": "https://www.vlr.gg/591442/natus-vincere-vs-blx-corp-project-blender-2025-r2",
+    "team1": "Natus Vincere",
+    "team2": "BLX CORP",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 2 (0-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591429",
+    "match_url": "https://www.vlr.gg/591429/gentle-mates-vs-galatasaray-esports-project-blender-2025-r2",
+    "team1": "Gentle Mates",
+    "team2": "Galatasaray Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -3,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 2 (1-0)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591437",
+    "match_url": "https://www.vlr.gg/591437/fut-esports-vs-gofund4omarhouse-project-blender-2025-r2",
+    "team1": "FUT Esports",
+    "team2": "GoFund4OmarHouse",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 2 (0-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591438",
+    "match_url": "https://www.vlr.gg/591438/karmine-corp-gc-vs-joblife-project-blender-2025-r2",
+    "team1": "Karmine Corp GC",
+    "team2": "Joblife",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 2 (0-1)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591421",
+    "match_url": "https://www.vlr.gg/591421/eternal-fire-vs-team-vitality-project-blender-2025-r1",
+    "team1": "Eternal Fire",
+    "team2": "Team Vitality",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591422",
+    "match_url": "https://www.vlr.gg/591422/3bl-esports-vs-karmine-corp-project-blender-2025-r1",
+    "team1": "3BL Esports",
+    "team2": "Karmine Corp",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -3,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591423",
+    "match_url": "https://www.vlr.gg/591423/team-liquid-academy-vs-natus-vincere-project-blender-2025-r1",
+    "team1": "Team Liquid Academy",
+    "team2": "Natus Vincere",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591412",
+    "match_url": "https://www.vlr.gg/591412/karmine-corp-gc-vs-ramboot-club-project-blender-2025-r1",
+    "team1": "Karmine Corp GC",
+    "team2": "Ramboot Club",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -3,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591413",
+    "match_url": "https://www.vlr.gg/591413/galatasaray-esports-vs-fut-esports-project-blender-2025-r1",
+    "team1": "Galatasaray Esports",
+    "team2": "FUT Esports",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "591414",
+    "match_url": "https://www.vlr.gg/591414/joblife-vs-bbl-esports-project-blender-2025-r1",
+    "team1": "Joblife",
+    "team2": "BBL Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "591418",
+    "match_url": "https://www.vlr.gg/591418/erah-esport-vs-gentle-mates-project-blender-2025-r1",
+    "team1": "Erah Esport",
+    "team2": "Gentle Mates",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "Project Blender 2025",
+    "series": "Phase 3–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 1,
+        "t2_score": 13,
+        "round_diff": -12,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587272",
+    "match_url": "https://www.vlr.gg/587272/rex-regum-qeon-vs-gen-g-soop-valorant-league-2025-opening-b",
+    "team1": "Rex Regum Qeon",
+    "team2": "Gen.G",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Opening (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587271",
+    "match_url": "https://www.vlr.gg/587271/drx-vs-slt-seongnam-soop-valorant-league-2025-opening-b",
+    "team1": "DRX",
+    "team2": "SLT Seongnam",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Opening (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587262",
+    "match_url": "https://www.vlr.gg/587262/t1-vs-zeta-division-soop-valorant-league-2025-opening-a",
+    "team1": "T1",
+    "team2": "ZETA DIVISION",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Group Stage–Opening (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590032",
+    "match_url": "https://www.vlr.gg/590032/leviat-n-vs-drx-china-esports-festival-super-champions-cup-gf",
+    "team1": "LEVIATÁN",
+    "team2": "DRX",
+    "score1": 3,
+    "score2": 1,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 4,
+        "map_name": "Bind",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590033",
+    "match_url": "https://www.vlr.gg/590033/bilibili-gaming-vs-edward-gaming-china-esports-festival-super-champions-cup-cf",
+    "team1": "Bilibili Gaming",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -5,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Consolation Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581494",
+    "match_url": "https://www.vlr.gg/581494/team-liquid-brazil-vs-shopify-rebellion-gold-game-changers-2025-championship-seoul-gf",
+    "team1": "Team Liquid Brazil",
+    "team2": "Shopify Rebellion Gold",
+    "score1": 3,
+    "score2": 2,
+    "total_rnd_diff": 1,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 4,
+        "map_name": "Sunset",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 5,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590031",
+    "match_url": "https://www.vlr.gg/590031/drx-vs-edward-gaming-china-esports-festival-super-champions-cup-sf",
+    "team1": "DRX",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590030",
+    "match_url": "https://www.vlr.gg/590030/leviat-n-vs-bilibili-gaming-china-esports-festival-super-champions-cup-sf",
+    "team1": "LEVIATÁN",
+    "team2": "Bilibili Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 17,
+        "t2_score": 15,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590029",
+    "match_url": "https://www.vlr.gg/590029/wolves-esports-vs-bilibili-gaming-china-esports-festival-super-champions-cup-b",
+    "team1": "Wolves Esports",
+    "team2": "Bilibili Gaming",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Group B",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590028",
+    "match_url": "https://www.vlr.gg/590028/drx-vs-wolves-esports-china-esports-festival-super-champions-cup-b",
+    "team1": "DRX",
+    "team2": "Wolves Esports",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Group B",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590027",
+    "match_url": "https://www.vlr.gg/590027/bilibili-gaming-vs-drx-china-esports-festival-super-champions-cup-b",
+    "team1": "Bilibili Gaming",
+    "team2": "DRX",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Group B",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581502",
+    "match_url": "https://www.vlr.gg/581502/shopify-rebellion-gold-vs-mibr-gc-game-changers-2025-championship-seoul-lbf",
+    "team1": "Shopify Rebellion Gold",
+    "team2": "MIBR GC",
+    "score1": 3,
+    "score2": 1,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 4,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590026",
+    "match_url": "https://www.vlr.gg/590026/leviat-n-vs-rex-regum-qeon-china-esports-festival-super-champions-cup-a",
+    "team1": "LEVIATÁN",
+    "team2": "Rex Regum Qeon",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Group A",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590025",
+    "match_url": "https://www.vlr.gg/590025/edward-gaming-vs-leviat-n-china-esports-festival-super-champions-cup-a",
+    "team1": "EDward Gaming",
+    "team2": "LEVIATÁN",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Group A",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590024",
+    "match_url": "https://www.vlr.gg/590024/rex-regum-qeon-vs-edward-gaming-china-esports-festival-super-champions-cup-a",
+    "team1": "Rex Regum Qeon",
+    "team2": "EDward Gaming",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "China Esports Festival Super Champions Cup",
+    "series": "Main Event–Group A",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581501",
+    "match_url": "https://www.vlr.gg/581501/kr-blaze-vs-mibr-gc-game-changers-2025-championship-seoul-lr4",
+    "team1": "KRÜ BLAZE",
+    "team2": "MIBR GC",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581493",
+    "match_url": "https://www.vlr.gg/581493/team-liquid-brazil-vs-shopify-rebellion-gold-game-changers-2025-championship-seoul-ubf",
+    "team1": "Team Liquid Brazil",
+    "team2": "Shopify Rebellion Gold",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581499",
+    "match_url": "https://www.vlr.gg/581499/karmine-corp-gc-vs-kr-blaze-game-changers-2025-championship-seoul-lr3",
+    "team1": "Karmine Corp GC",
+    "team2": "KRÜ BLAZE",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -17,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581500",
+    "match_url": "https://www.vlr.gg/581500/g2-gozen-vs-mibr-gc-game-changers-2025-championship-seoul-lr3",
+    "team1": "G2 Gozen",
+    "team2": "MIBR GC",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 4,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581492",
+    "match_url": "https://www.vlr.gg/581492/shopify-rebellion-gold-vs-karmine-corp-gc-game-changers-2025-championship-seoul-ubsf",
+    "team1": "Shopify Rebellion Gold",
+    "team2": "Karmine Corp GC",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581491",
+    "match_url": "https://www.vlr.gg/581491/g2-gozen-vs-team-liquid-brazil-game-changers-2025-championship-seoul-ubsf",
+    "team1": "G2 Gozen",
+    "team2": "Team Liquid Brazil",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -1,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581497",
+    "match_url": "https://www.vlr.gg/581497/nova-esports-gc-vs-kr-blaze-game-changers-2025-championship-seoul-lr2",
+    "team1": "Nova Esports GC",
+    "team2": "KRÜ BLAZE",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581498",
+    "match_url": "https://www.vlr.gg/581498/mibr-gc-vs-ninetails-game-changers-2025-championship-seoul-lr2",
+    "team1": "MIBR GC",
+    "team2": "Ninetails",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 17,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "588245",
+    "match_url": "https://www.vlr.gg/588245/100-thieves-vs-the-tandis-hammers-funhavergg-back-to-basics-10-gf",
+    "team1": "100 Thieves",
+    "team2": "The TANDIS Hammers",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "FunhaverGG: Back to Basics 10",
+    "series": "Playoffs–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "588243",
+    "match_url": "https://www.vlr.gg/588243/100-thieves-vs-team-name-funhavergg-back-to-basics-10-sf",
+    "team1": "100 Thieves",
+    "team2": "team name",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "FunhaverGG: Back to Basics 10",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "588239",
+    "match_url": "https://www.vlr.gg/588239/100-thieves-vs-calamity-funhavergg-back-to-basics-10-qf",
+    "team1": "100 Thieves",
+    "team2": "Calamity",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "FunhaverGG: Back to Basics 10",
+    "series": "Playoffs–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 19,
+        "t2_score": 17,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "587809",
+    "match_url": "https://www.vlr.gg/587809/cgn-esports-vs-fut-esports-monsters-reloaded-2025-gf",
+    "team1": "CGN Esports",
+    "team2": "FUT Esports",
+    "score1": 2,
+    "score2": 3,
+    "total_rnd_diff": 3,
+    "winner": 0,
+    "event": "Monsters Reloaded 2025",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 4,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 5,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581495",
+    "match_url": "https://www.vlr.gg/581495/kr-blaze-vs-giantx-gc-game-changers-2025-championship-seoul-lr1",
+    "team1": "KRÜ BLAZE",
+    "team2": "GIANTX GC",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581496",
+    "match_url": "https://www.vlr.gg/581496/xipto-esports-gc-vs-ninetails-game-changers-2025-championship-seoul-lr1",
+    "team1": "Xipto Esports GC",
+    "team2": "Ninetails",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "587808",
+    "match_url": "https://www.vlr.gg/587808/fut-esports-vs-fenerbah-e-esports-monsters-reloaded-2025-sf",
+    "team1": "FUT Esports",
+    "team2": "Fenerbahçe Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Monsters Reloaded 2025",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "587807",
+    "match_url": "https://www.vlr.gg/587807/gentle-mates-vs-cgn-esports-monsters-reloaded-2025-sf",
+    "team1": "Gentle Mates",
+    "team2": "CGN Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 1,
+    "winner": 0,
+    "event": "Monsters Reloaded 2025",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581489",
+    "match_url": "https://www.vlr.gg/581489/shopify-rebellion-gold-vs-mibr-gc-game-changers-2025-championship-seoul-ubqf",
+    "team1": "Shopify Rebellion Gold",
+    "team2": "MIBR GC",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581487",
+    "match_url": "https://www.vlr.gg/581487/g2-gozen-vs-nova-esports-gc-game-changers-2025-championship-seoul-ubqf",
+    "team1": "G2 Gozen",
+    "team2": "Nova Esports GC",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581488",
+    "match_url": "https://www.vlr.gg/581488/team-liquid-brazil-vs-kr-blaze-game-changers-2025-championship-seoul-ubqf",
+    "team1": "Team Liquid Brazil",
+    "team2": "KRÜ BLAZE",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581490",
+    "match_url": "https://www.vlr.gg/581490/xipto-esports-gc-vs-karmine-corp-gc-game-changers-2025-championship-seoul-ubqf",
+    "team1": "Xipto Esports GC",
+    "team2": "Karmine Corp GC",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -15,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "581486",
+    "match_url": "https://www.vlr.gg/581486/mibr-gc-vs-giantx-gc-game-changers-2025-championship-seoul-ur1",
+    "team1": "MIBR GC",
+    "team2": "GIANTX GC",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "581485",
+    "match_url": "https://www.vlr.gg/581485/ninetails-vs-nova-esports-gc-game-changers-2025-championship-seoul-ur1",
+    "team1": "Ninetails",
+    "team2": "Nova Esports GC",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Game Changers 2025: Championship Seoul",
+    "series": "Main Event–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585453",
+    "match_url": "https://www.vlr.gg/585453/nrg-vs-g2-esports-red-bull-home-ground-2025-gf",
+    "team1": "NRG",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 3,
+    "total_rnd_diff": -18,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Pearl",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "582537",
+    "match_url": "https://www.vlr.gg/582537/nova-esports-vs-funplus-phoenix-china-evolution-series-epilogue-gf",
+    "team1": "Nova Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 1,
+    "score2": 3,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 4,
+        "map_name": "Sunset",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585459",
+    "match_url": "https://www.vlr.gg/585459/zeta-division-vs-g2-esports-red-bull-home-ground-2025-lbf",
+    "team1": "ZETA DIVISION",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -19,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Lower Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585452",
+    "match_url": "https://www.vlr.gg/585452/nrg-vs-zeta-division-red-bull-home-ground-2025-ubf",
+    "team1": "NRG",
+    "team2": "ZETA DIVISION",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 14,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "584433",
+    "match_url": "https://www.vlr.gg/584433/team-secret-vs-sharper-esport-soop-valorant-league-2025-lbf",
+    "team1": "Team Secret",
+    "team2": "Sharper Esport",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Lower Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "582538",
+    "match_url": "https://www.vlr.gg/582538/jdg-esports-vs-trace-esports-china-evolution-series-epilogue-cf",
+    "team1": "JDG Esports",
+    "team2": "Trace Esports",
+    "score1": 3,
+    "score2": 2,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Consolation Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 4,
+        "map_name": "Sunset",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 5,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585458",
+    "match_url": "https://www.vlr.gg/585458/fnatic-vs-g2-esports-red-bull-home-ground-2025-lr3",
+    "team1": "FNATIC",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Lower Round 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585457",
+    "match_url": "https://www.vlr.gg/585457/sentinels-vs-g2-esports-red-bull-home-ground-2025-lr2",
+    "team1": "Sentinels",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585456",
+    "match_url": "https://www.vlr.gg/585456/fnatic-vs-t1-red-bull-home-ground-2025-lr2",
+    "team1": "FNATIC",
+    "team2": "T1",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585455",
+    "match_url": "https://www.vlr.gg/585455/cloud9-vs-g2-esports-red-bull-home-ground-2025-lr1",
+    "team1": "Cloud9",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585454",
+    "match_url": "https://www.vlr.gg/585454/cubert-academy-vs-t1-red-bull-home-ground-2025-lr1",
+    "team1": "Cubert Academy",
+    "team2": "T1",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585450",
+    "match_url": "https://www.vlr.gg/585450/nrg-vs-sentinels-red-bull-home-ground-2025-ubsf",
+    "team1": "NRG",
+    "team2": "Sentinels",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585451",
+    "match_url": "https://www.vlr.gg/585451/fnatic-vs-zeta-division-red-bull-home-ground-2025-ubsf",
+    "team1": "FNATIC",
+    "team2": "ZETA DIVISION",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 1,
+        "t2_score": 13,
+        "round_diff": -12,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585448",
+    "match_url": "https://www.vlr.gg/585448/fnatic-vs-cloud9-red-bull-home-ground-2025-ubqf",
+    "team1": "FNATIC",
+    "team2": "Cloud9",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585449",
+    "match_url": "https://www.vlr.gg/585449/g2-esports-vs-zeta-division-red-bull-home-ground-2025-ubqf",
+    "team1": "G2 Esports",
+    "team2": "ZETA DIVISION",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585446",
+    "match_url": "https://www.vlr.gg/585446/nrg-vs-cubert-academy-red-bull-home-ground-2025-ubqf",
+    "team1": "NRG",
+    "team2": "Cubert Academy",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585447",
+    "match_url": "https://www.vlr.gg/585447/t1-vs-sentinels-red-bull-home-ground-2025-ubqf",
+    "team1": "T1",
+    "team2": "Sentinels",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Main Event–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "584426",
+    "match_url": "https://www.vlr.gg/584426/full-sense-vs-team-secret-soop-valorant-league-2025-ubf",
+    "team1": "FULL SENSE",
+    "team2": "Team Secret",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Upper Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "582536",
+    "match_url": "https://www.vlr.gg/582536/trace-esports-vs-funplus-phoenix-china-evolution-series-epilogue-sf",
+    "team1": "Trace Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Bind",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "582535",
+    "match_url": "https://www.vlr.gg/582535/nova-esports-vs-jdg-esports-china-evolution-series-epilogue-sf",
+    "team1": "Nova Esports",
+    "team2": "JDG Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585213",
+    "match_url": "https://www.vlr.gg/585213/klannalan-vs-cloud9-red-bull-home-ground-2025-knockouts",
+    "team1": "KlanNaLan",
+    "team2": "Cloud9",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Play-In–Knockouts",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "585212",
+    "match_url": "https://www.vlr.gg/585212/envy-vs-eintracht-frankfurt-red-bull-home-ground-2025-r3",
+    "team1": "ENVY",
+    "team2": "Eintracht Frankfurt",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Play-In–Round 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585207",
+    "match_url": "https://www.vlr.gg/585207/cloud9-vs-fennel-red-bull-home-ground-2025-r2",
+    "team1": "Cloud9",
+    "team2": "FENNEL",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Play-In–Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585205",
+    "match_url": "https://www.vlr.gg/585205/bxl-zoo-vs-envy-red-bull-home-ground-2025-r1",
+    "team1": "BXL Zoo",
+    "team2": "ENVY",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Play-In–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "585203",
+    "match_url": "https://www.vlr.gg/585203/cloud9-vs-team-raad-red-bull-home-ground-2025-r1",
+    "team1": "Cloud9",
+    "team2": "Team RA'AD",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "Red Bull Home Ground 2025",
+    "series": "Play-In–Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "584430",
+    "match_url": "https://www.vlr.gg/584430/fancy-united-esports-vs-global-esports-soop-valorant-league-2025-lr2",
+    "team1": "Fancy United Esports",
+    "team2": "Global Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 17,
+        "t2_score": 19,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "582534",
+    "match_url": "https://www.vlr.gg/582534/wolves-esports-vs-funplus-phoenix-china-evolution-series-epilogue-qf",
+    "team1": "Wolves Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Corrode",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "582533",
+    "match_url": "https://www.vlr.gg/582533/titan-esports-club-vs-trace-esports-china-evolution-series-epilogue-qf",
+    "team1": "Titan Esports Club",
+    "team2": "Trace Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "584428",
+    "match_url": "https://www.vlr.gg/584428/global-esports-vs-team-nkt-soop-valorant-league-2025-lr1",
+    "team1": "Global Esports",
+    "team2": "Team NKT",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 19,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "582532",
+    "match_url": "https://www.vlr.gg/582532/jdg-esports-vs-any-questions-gaming-china-evolution-series-epilogue-qf",
+    "team1": "JDG Esports",
+    "team2": "Any Questions Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "584425",
+    "match_url": "https://www.vlr.gg/584425/team-secret-vs-motiv-esports-soop-valorant-league-2025-ubsf",
+    "team1": "Team Secret",
+    "team2": "Motiv Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "582531",
+    "match_url": "https://www.vlr.gg/582531/nova-esports-vs-edward-gaming-china-evolution-series-epilogue-qf",
+    "team1": "Nova Esports",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "China Evolution Series: Epilogue",
+    "series": "Main Event–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "584422",
+    "match_url": "https://www.vlr.gg/584422/team-secret-vs-xipto-esports-soop-valorant-league-2025-ubqf",
+    "team1": "Team Secret",
+    "team2": "Xipto Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "584420",
+    "match_url": "https://www.vlr.gg/584420/global-esports-vs-fancy-united-esports-soop-valorant-league-2025-ubqf",
+    "team1": "Global Esports",
+    "team2": "Fancy United Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "SOOP Valorant League 2025",
+    "series": "Southeast Asian Qualifier–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "580114",
+    "match_url": "https://www.vlr.gg/580114/fnatic-vs-giantx-inzone-london-clash-main-event",
+    "team1": "FNATIC",
+    "team2": "GIANTX",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 13,
+    "winner": 1,
+    "event": "INZONE London Clash",
+    "series": "Main Event–Main Event",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Bind",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Abyss",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  }
+]

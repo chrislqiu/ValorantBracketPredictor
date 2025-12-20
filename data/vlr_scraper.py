@@ -142,4 +142,22 @@ def scrape_vlr_page(page_num: int):
     return matches
 
 
-print(scrape_vlr_page(1))
+def scrape_multiple_pages(end: int):
+    all_matches = []
+
+    for page in range(1, end + 1):
+        print(f"Scraping Page: {page}")
+        matches = scrape_vlr_page(page)
+        all_matches.extend(matches)
+        #time.sleep(1)
+    
+    return all_matches
+
+def write_to_json(data, filename = "matches_raw.json"):
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+if __name__ == "__main__":
+    matches = scrape_multiple_pages(5)
+    write_to_json(matches)
+    print(f"Wrote to file")
