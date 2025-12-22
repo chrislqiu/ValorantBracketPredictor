@@ -39,3 +39,5 @@ ACTUAL SCRAPING STUFF:
 MODEL NOTES:
 
 - Using binary to signify who won. 1 means team 1 won, 0 means team 1 loss (team 2 won)
+
+json -> csv: ML cannot read nested data, so we convert json to csv to flatten it. Basically spreadsheet format

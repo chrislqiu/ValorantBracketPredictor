@@ -158,6 +158,8 @@ def write_to_json(data, filename = "matches_raw.json"):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
+    """
     matches = scrape_multiple_pages(200)
     write_to_json(matches)
     print(f"Wrote to file")
+    """
