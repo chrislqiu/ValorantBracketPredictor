@@ -32,4 +32,4 @@ matches_df = matches_df.merge(
 # drop duplicate columns after merge
 matches_df.drop(columns=["t1_team", "t2_team"], inplace=True)
 
-print(matches_df.columns)
+matches_df.to_csv("merged_dataset.csv", index=False, encoding="utf-8")
