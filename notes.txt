@@ -39,10 +39,30 @@ ACTUAL SCRAPING STUFF:
 MODEL NOTES:
 
 - Using binary to signify who won. 1 means team 1 won, 0 means team 1 loss (team 2 won)
-- Using logistic regression:
-    - low risk of overfitting
-    - learns the weight of score, round, and win rate
+- xgboost uses decision trees. the threshold is learned through internal gain calculations
 
 json -> csv: ML cannot read nested data, so we convert json to csv to flatten it. Basically spreadsheet format
 
 use csv to train data, and utilize historical team data to strengthen model
+
+match_dataset.csv rows
+
+match_id
+team1
+team2
+winner -> 0/1
+t1_winrate -> winrate of matches before current
+t1_winrate
+winrate_diff
+t1_recent_form -> win rate in the last 10 matches
+t2_recent_form
+form_diff
+t1_avg_rnd_diff -> avg rnd diff in last 5 matches (winning/losing by x rnds)
+t1_avg_rnd_diff
+rnd_diff_diff -> difference between a rnd diff
+#current map data
+avg_map_rnd_diff -> avg rnd diff across the maps in this match_dataset
+maps_won_t1
+maps_won_t2
+total_rnd_diff
+total_score
