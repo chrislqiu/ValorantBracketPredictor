@@ -9,3 +9,5 @@ Building ML model to predict bracket outcomes for Valorant Tournaments
     - [ ] vlr incldude team map stats -> not needed bc we do not know what map are being played until the day of the event
 - v2
     - [ ] include player statistics: acs, adr, map win rate, etc
+
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff.png)

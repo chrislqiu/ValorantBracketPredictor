@@ -66,3 +66,6 @@ maps_won_t1
 maps_won_t2
 total_rnd_diff
 total_score
+
+joblib import -> good for lightweight pipeline for large data
+
