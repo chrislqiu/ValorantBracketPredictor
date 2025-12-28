@@ -69,3 +69,44 @@ total_score
 
 joblib import -> good for lightweight pipeline for large data
 
+Under the hood:
+
+Tree 0:
+[winrate_diff < 0.052]  # Level 1 split
+├── Yes: [form_diff < -0.123]  # Level 2 split
+│   ├── Yes: leaf = 0.34  # Terminal node
+│   └── No: leaf = 0.67   # Terminal node
+└── No: [rnd_diff_diff < -1.5]  # Level 2 split
+    ├── Yes: leaf = 0.82  # Terminal node  
+    └── No: leaf = 0.45   # Terminal node
+
+- For each leaf, there is a value, positive means T1 favored and negative means T2 favored
+
+It takes the decision leaf of 100 trees to make its prediciton:
+
+Tree 0: 0.67  (Team1 favored)
+Tree 1: -0.42 (Team2 favored)
+Tree 2: 0.18  (Slight Team1 edge)
+Tree 3: -0.89 (Strong Team2 advantage)
+Tree 4: 0.31  (Team1 favored)
+...
+Tree 99: -0.05 (Slight Team2 edge)
+
+Sums it to decide on final decision, and uses sigmoid function to convert to probability (0 to 1)
+
+What each XGBoost stores:
+
+node = {
+    "feature": "winrate_diff",    # Which feature to check
+    "threshold": 0.052,           # What value to compare against
+    "left_child": node_id_2,      # Go here if condition TRUE
+    "right_child": node_id_3,     # Go here if condition FALSE
+    "gain": 0.45,                 # How useful this split is
+    "cover": 125                  # How many samples pass through
+}
+
+# Each leaf node contains:
+leaf = {
+    "leaf_value": 0.67,           # Raw prediction score
+    "cover": 42                   # How many samples end up here
+}
