@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import time
 
 BASE_URL = "https://www.vlr.gg"
 match_results_url = "https://www.vlr.gg/matches/results"
@@ -153,7 +152,7 @@ def scrape_multiple_pages(end: int):
     
     return all_matches
 
-def write_to_json(data, filename = "matches_raw.json"):
+def write_to_json(data, filename = "../data/matches_raw.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 

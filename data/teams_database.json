@@ -1,0 +1,320 @@
+{
+    "Sentinels": {
+        "winrate": 0.648,
+        "recent_form": 0.5,
+        "avg_round_diff": -3.2,
+        "total_matches": 108
+    },
+    "LOUD": {
+        "winrate": 0.444,
+        "recent_form": 0.6,
+        "avg_round_diff": 6.2,
+        "total_matches": 54
+    },
+    "FURIA": {
+        "winrate": 0.333,
+        "recent_form": 0.3,
+        "avg_round_diff": -2.6,
+        "total_matches": 60
+    },
+    "NRG": {
+        "winrate": 0.675,
+        "recent_form": 0.8,
+        "avg_round_diff": 11.4,
+        "total_matches": 80
+    },
+    "Cloud9": {
+        "winrate": 0.518,
+        "recent_form": 0.7,
+        "avg_round_diff": 11.2,
+        "total_matches": 83
+    },
+    "Gen.G": {
+        "winrate": 0.638,
+        "recent_form": 0.3,
+        "avg_round_diff": -10.4,
+        "total_matches": 105
+    },
+    "DRX": {
+        "winrate": 0.593,
+        "recent_form": 0.6,
+        "avg_round_diff": 7.2,
+        "total_matches": 118
+    },
+    "T1": {
+        "winrate": 0.564,
+        "recent_form": 0.7,
+        "avg_round_diff": 5.6,
+        "total_matches": 94
+    },
+    "Paper Rex": {
+        "winrate": 0.704,
+        "recent_form": 0.9,
+        "avg_round_diff": 9.8,
+        "total_matches": 115
+    },
+    "Team Secret": {
+        "winrate": 0.483,
+        "recent_form": 0.5,
+        "avg_round_diff": -0.2,
+        "total_matches": 60
+    },
+    "Fnatic": {
+        "winrate": 0.5,
+        "recent_form": 0.5,
+        "avg_round_diff": 0.0,
+        "total_matches": 0
+    },
+    "Team Liquid": {
+        "winrate": 0.543,
+        "recent_form": 0.8,
+        "avg_round_diff": 1.4,
+        "total_matches": 70
+    },
+    "Karmine Corp": {
+        "winrate": 0.492,
+        "recent_form": 0.4,
+        "avg_round_diff": -5.8,
+        "total_matches": 65
+    },
+    "G2 Esports": {
+        "winrate": 0.615,
+        "recent_form": 0.1,
+        "avg_round_diff": -11.4,
+        "total_matches": 104
+    },
+    "Natus Vincere": {
+        "winrate": 0.508,
+        "recent_form": 0.4,
+        "avg_round_diff": 0.4,
+        "total_matches": 65
+    },
+    "100 Thieves": {
+        "winrate": 0.485,
+        "recent_form": 0.2,
+        "avg_round_diff": -8.4,
+        "total_matches": 68
+    },
+    "Evil Geniuses": {
+        "winrate": 0.526,
+        "recent_form": 0.7,
+        "avg_round_diff": 6.6,
+        "total_matches": 57
+    },
+    "Bilibili Gaming": {
+        "winrate": 0.5,
+        "recent_form": 0.8,
+        "avg_round_diff": 6.2,
+        "total_matches": 104
+    },
+    "EDward Gaming": {
+        "winrate": 0.632,
+        "recent_form": 0.8,
+        "avg_round_diff": 11.2,
+        "total_matches": 133
+    },
+    "MIBR": {
+        "winrate": 0.468,
+        "recent_form": 0.5,
+        "avg_round_diff": -8.8,
+        "total_matches": 62
+    },
+    "Rex Regum Qeon": {
+        "winrate": 0.477,
+        "recent_form": 0.4,
+        "avg_round_diff": 0.2,
+        "total_matches": 65
+    },
+    "Xi Lai Gaming": {
+        "winrate": 0.583,
+        "recent_form": 0.7,
+        "avg_round_diff": 3.8,
+        "total_matches": 60
+    },
+    "GIANTX": {
+        "winrate": 0.457,
+        "recent_form": 0.3,
+        "avg_round_diff": -8.2,
+        "total_matches": 46
+    },
+    "Team Heretics": {
+        "winrate": 0.582,
+        "recent_form": 0.2,
+        "avg_round_diff": -4.4,
+        "total_matches": 91
+    },
+    "KR\u00dc Esports": {
+        "winrate": 0.439,
+        "recent_form": 0.5,
+        "avg_round_diff": -7.2,
+        "total_matches": 66
+    },
+    "LEVIAT\u00c1N": {
+        "winrate": 0.547,
+        "recent_form": 0.3,
+        "avg_round_diff": -5.4,
+        "total_matches": 75
+    },
+    "ENVY": {
+        "winrate": 0.757,
+        "recent_form": 0.8,
+        "avg_round_diff": 8.0,
+        "total_matches": 37
+    },
+    "BBL Esports": {
+        "winrate": 0.597,
+        "recent_form": 0.6,
+        "avg_round_diff": -0.6,
+        "total_matches": 62
+    },
+    "FUT Esports": {
+        "winrate": 0.571,
+        "recent_form": 0.5,
+        "avg_round_diff": 3.0,
+        "total_matches": 98
+    },
+    "Gentle Mates": {
+        "winrate": 0.5,
+        "recent_form": 0.7,
+        "avg_round_diff": 2.4,
+        "total_matches": 58
+    },
+    "Team Vitality": {
+        "winrate": 0.516,
+        "recent_form": 0.4,
+        "avg_round_diff": -2.4,
+        "total_matches": 62
+    },
+    "DetonatioN FocusMe": {
+        "winrate": 0.283,
+        "recent_form": 0.0,
+        "avg_round_diff": -10.4,
+        "total_matches": 46
+    },
+    "Global Esports": {
+        "winrate": 0.356,
+        "recent_form": 0.4,
+        "avg_round_diff": 1.0,
+        "total_matches": 45
+    },
+    "ZETA DIVISION": {
+        "winrate": 0.414,
+        "recent_form": 0.5,
+        "avg_round_diff": -2.6,
+        "total_matches": 58
+    },
+    "FunPlus Phoenix": {
+        "winrate": 0.511,
+        "recent_form": 0.6,
+        "avg_round_diff": 3.4,
+        "total_matches": 94
+    },
+    "All Gamers": {
+        "winrate": 0.289,
+        "recent_form": 0.4,
+        "avg_round_diff": -6.6,
+        "total_matches": 45
+    },
+    "Trace Esports": {
+        "winrate": 0.527,
+        "recent_form": 0.6,
+        "avg_round_diff": -4.2,
+        "total_matches": 91
+    },
+    "TYLOO": {
+        "winrate": 0.375,
+        "recent_form": 0.6,
+        "avg_round_diff": 8.6,
+        "total_matches": 56
+    },
+    "Nova Esports": {
+        "winrate": 0.455,
+        "recent_form": 0.3,
+        "avg_round_diff": -1.6,
+        "total_matches": 66
+    },
+    "JDG Esports": {
+        "winrate": 0.388,
+        "recent_form": 0.2,
+        "avg_round_diff": -2.8,
+        "total_matches": 49
+    },
+    "Titan Esports Club": {
+        "winrate": 0.386,
+        "recent_form": 0.6,
+        "avg_round_diff": -0.6,
+        "total_matches": 57
+    },
+    "Wolves Esports": {
+        "winrate": 0.507,
+        "recent_form": 0.3,
+        "avg_round_diff": -1.4,
+        "total_matches": 67
+    },
+    "TALON": {
+        "winrate": 0.452,
+        "recent_form": 0.5,
+        "avg_round_diff": 3.6,
+        "total_matches": 62
+    },
+    "Team Liquid Brazil": {
+        "winrate": 0.768,
+        "recent_form": 0.7,
+        "avg_round_diff": 7.2,
+        "total_matches": 56
+    },
+    "Shopify Rebellion Gold": {
+        "winrate": 0.711,
+        "recent_form": 1.0,
+        "avg_round_diff": 16.0,
+        "total_matches": 76
+    },
+    "MIBR GC": {
+        "winrate": 0.65,
+        "recent_form": 0.5,
+        "avg_round_diff": -5.4,
+        "total_matches": 60
+    },
+    "KR\u00dc BLAZE": {
+        "winrate": 0.812,
+        "recent_form": 0.9,
+        "avg_round_diff": 13.4,
+        "total_matches": 48
+    },
+    "Karmine Corp GC": {
+        "winrate": 0.463,
+        "recent_form": 0.6,
+        "avg_round_diff": 6.4,
+        "total_matches": 82
+    },
+    "G2 Gozen": {
+        "winrate": 0.714,
+        "recent_form": 0.8,
+        "avg_round_diff": 9.8,
+        "total_matches": 119
+    },
+    "Nova Esports GC": {
+        "winrate": 0.562,
+        "recent_form": 0.5,
+        "avg_round_diff": 2.2,
+        "total_matches": 16
+    },
+    "Ninetails": {
+        "winrate": 0.6,
+        "recent_form": 0.6,
+        "avg_round_diff": 7.6,
+        "total_matches": 10
+    },
+    "GIANTX GC": {
+        "winrate": 0.577,
+        "recent_form": 0.8,
+        "avg_round_diff": 10.4,
+        "total_matches": 78
+    },
+    "Xipto Esports GC": {
+        "winrate": 0.778,
+        "recent_form": 1.0,
+        "avg_round_diff": 19.8,
+        "total_matches": 27
+    }
+}
