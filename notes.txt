@@ -110,3 +110,6 @@ leaf = {
     "leaf_value": 0.67,           # Raw prediction score
     "cover": 42                   # How many samples end up here
 }
+
+- At the leaf level, it uses log loss initially, then calculates gradient (how wrong it is),
+  then hessian (how confident in gradient)
