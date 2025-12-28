@@ -59,7 +59,7 @@ t2_recent_form
 form_diff
 t1_avg_rnd_diff -> avg rnd diff in last 5 matches (winning/losing by x rnds)
 t1_avg_rnd_diff
-rnd_diff_diff -> difference between a rnd diff
+rnd_diff_diff -> difference between avg rnd diff
 #current map data
 avg_map_rnd_diff -> avg rnd diff across the maps in this match_dataset
 maps_won_t1
