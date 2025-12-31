@@ -123,6 +123,9 @@ V2:
 - Need to first find the players on all the teams OR add team abbreviations and save stats with team abbreviation in the list
     - then get stats for all the players
 
+PLAN:
+- build another scraper for https://www.vlr.gg/stats/?event_group_id=all&region=all&min_rounds=200&min_rating=1550&agent=all&map_id=all&timespan=90d
+
 Stats I want:
 -rating
 -ACS
