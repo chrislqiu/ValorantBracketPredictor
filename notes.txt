@@ -128,7 +128,16 @@ PLAN:
 - use hash to find abbreviated name and use full name as val {SEN: Sentinels}
 - the output will be a new json with the format:
 
-	{FULL NAME
+	{"FULL NAME" : {
+			"stat1" : [x, y, z],
+			"stat2" : [x, y, z],
+			...
+			},
+	 "FULL NAME 2" : {},
+		...
+	}
+
+- using this new json, import it in vlr_scraper to get player data and save feature
 
 Stats I want:
 -rating
