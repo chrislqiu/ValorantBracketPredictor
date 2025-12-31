@@ -125,6 +125,10 @@ V2:
 
 PLAN:
 - build another scraper for https://www.vlr.gg/stats/?event_group_id=all&region=all&min_rounds=200&min_rating=1550&agent=all&map_id=all&timespan=90d
+- use hash to find abbreviated name and use full name as val {SEN: Sentinels}
+- the output will be a new json with the format:
+
+	{FULL NAME
 
 Stats I want:
 -rating
