@@ -113,3 +113,22 @@ leaf = {
 
 - At the leaf level, it uses log loss initially, then calculates gradient (how wrong it is),
   then hessian (how confident in gradient)
+
+
+V2:
+
+- Want to include players statistics since team changes roster
+    - what statistics determine performance?
+    - stats that everyone has: ACS, KD, KPR, ADR
+- Need to first find the players on all the teams OR add team abbreviations and save stats with team abbreviation in the list
+    - then get stats for all the players
+
+Stats I want:
+-rating
+-ACS
+-KD
+-KAST
+-ADR
+-KPR
+-APR
+-FKPR
