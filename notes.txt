@@ -138,6 +138,11 @@ PLAN:
 	}
 
 - using this new json, import it in vlr_scraper to get player data and save feature
+- ISSUE: Not always up to date with players and team and coaches can be in the data
+    - scrape through each team page to get the players individually and store them
+    - using name along with vlr to get stats
+    - if player is Sub or inactive, exclude them from stats
+    - check if name and team name in in the list
 
 Stats I want:
 -rating

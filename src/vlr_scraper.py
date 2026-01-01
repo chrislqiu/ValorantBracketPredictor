@@ -14,10 +14,9 @@ TEAMS = {
     "LEVIATÁN", "ENVY", "BBL Esports", "FUT Esports", "Gentle Mates",
     "Team Vitality", "DetonatioN FocusMe", "Global Esports", "ZETA DIVISION",
     "FunPlus Phoenix", "All Gamers", "Trace Esports", "TYLOO", "Nova Esports",
-    "JDG Esports", "Titan Esports Club", "Wolves Esports", "TALON",
+    "JDG Esports", "Titan Esports Club", "Wolves Esports",
     "Team Liquid Brazil", "Shopify Rebellion Gold", "MIBR GC", "KRÜ BLAZE",
-    "Karmine Corp GC", "G2 Gozen", "Nova Esports GC", "Ninetails",
-    "GIANTX GC", "Xipto Esports GC"
+    "Karmine Corp GC", "G2 Gozen", "Nova Esports GC", "Xipto Esports GC", "Nongshim RedForce"
 }
 
 def extract_map_scores(match_url: str):
@@ -157,8 +156,7 @@ def write_to_json(data, filename = "../data/matches_raw.json"):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
-    """
+
     matches = scrape_multiple_pages(200)
     write_to_json(matches)
     print(f"Wrote to file")
-    """
