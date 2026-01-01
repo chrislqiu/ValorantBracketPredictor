@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = "https://www.vlr.gg/stats/?event_group_id=all&region=all&min_rounds=200&min_rating=1600&agent=all&map_id=all&timespan=all"
+URL = "https://www.vlr.gg/stats/?event_group_id=all&region=all&min_rounds=200&min_rating=1600&agent=all&map_id=all&timespan=all"
 
 TEAMS = {
     "SEN": "Sentinels",
@@ -84,24 +84,38 @@ def get_players():
         res = requests.get(u)
 
         soup = BeautifulSoup(res.text, "html.parser")
+        # team roster item contains member info
         member_card = soup.find_all('div', class_="team-roster-item")
 
         for card in member_card:
+            # card only exists if the player is inactive or a sub or a non-player
             non_playing = card.find('div', class_="wf-tag mod-light team-roster-item-name-role")
 
+            # if any of those above, exclude their stats
             if non_playing:
                 continue
-        
+            
+            # finds and saves alias
             alias = card.find('div', class_="team-roster-item-name-alias").text.strip()
             players.append(alias)
 
     return players
 
-def scrape_player():
-    pass
+def scrape_player(players):
+    res = requests.get(URL)
+
+    soup = BeautifulSoup(res.text, "html.parser")
+
+    all_players = soup.find('tr')
+    print(all_players)
+
+
 
 if __name__ == "__main__":
     players = get_players()
+    scrape_player(players)
+    '''
     with open('players.txt', 'w', encoding='utf-8') as f:
         for player in players:
             f.write(player + '\n')
+    '''
