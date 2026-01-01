@@ -76,13 +76,32 @@ TEAM_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/6961
             "https://www.vlr.gg/team/7511/kr-blaze", "https://www.vlr.gg/team/12255/karmine-corp-gc", "https://www.vlr.gg/team/6530/g2-gozen", 
             "https://www.vlr.gg/team/13807/nova-esports-gc", "https://www.vlr.gg/team/15317/xipto-esports-gc", "https://www.vlr.gg/team/11060/nongshim-redforce"]
 
-players_list = {}
 # get each players name from the roster link above and add it to the set
 def get_players():
-    pass
+    players = []
+
+    for u in TEAM_URL:
+        res = requests.get(u)
+
+        soup = BeautifulSoup(res.text, "html.parser")
+        member_card = soup.find_all('div', class_="team-roster-item")
+
+        for card in member_card:
+            non_playing = card.find('div', class_="wf-tag mod-light team-roster-item-name-role")
+
+            if non_playing:
+                continue
+        
+            alias = card.find('div', class_="team-roster-item-name-alias").text.strip()
+            players.append(alias)
+
+    return players
 
 def scrape_player():
     pass
 
 if __name__ == "__main__":
-    pass
+    players = get_players()
+    with open('players.txt', 'w', encoding='utf-8') as f:
+        for player in players:
+            f.write(player + '\n')
