@@ -101,19 +101,101 @@ def get_players():
 
     return players
 
-def scrape_player(players):
+# scrapes players that are in the current list of teams
+def scrape_player(players_list):
     res = requests.get(URL)
 
     soup = BeautifulSoup(res.text, "html.parser")
 
-    all_players = soup.find('tr')
-    print(all_players)
+    # body containing player rows
+    body = soup.find('tbody')
+    # obtaining list of the rows
+    all_players = body.find_all('tr')
+
+    # dict to store each player stats
+    player_stats = {}
+    stat_names = ["rating", "acs", "KD", "kast", "adr", "kpr", "apr", "fkpr"]
+
+    for player in all_players:
+
+        player_name_cell = player.find('td', class_="mod-player")
+
+        team_div = player_name_cell.find('div', class_='stats-player-country')
+        team = team_div.text.strip() if team_div else ""
+        alias = player_name_cell.find('div', class_="text-of").text.strip()
+
+        # check if player is on a roster
+        if alias not in players_list:
+            continue
+
+        # get stat cells
+        stat_cells = player.find_all('td', class_="mod-color-sq")
+
+        stats = {"team": team}
+
+        # getting stats from the cells
+        for i in range(min(len(stat_cells), 8)):
+            cell = stat_cells[i]
+            span = cell.find('span')
+            if span and i < len(stat_names):
+                stats[stat_names[i]] = span.text.strip()
+        
+        #stores the stats
+        player_stats[alias] = stats
+
+    return player_stats
+
+# create json file of the teams with their player stats
+def create_team_stats_json(player_stats):
+    team_stats = {}
+
+    for full_name in TEAMS.values():
+        team_stats[full_name] = {
+            "rating": [],
+            "acs": [],
+            "KD": [],
+            "kast": [],
+            "adr": [],
+            "kpr": [],
+            "apr": [],
+            "fkpr": []
+        }
+    
+    for player, stats in player_stats.items():
+        team_abbrev = stats.get("team", "")
+
+        # Skip if team not found in TEAMS 
+        if team_abbrev not in TEAMS:
+            print(f"SKIPPED {player}")
+            continue
+
+        full_team_name = TEAMS[team_abbrev]
+
+        # converts str val to float val
+        def convert_to_float(val_str):
+            # remove %
+            if "%" in val_str:
+                val_str = val_str.replace("%", "")
+                return float(val_str) / 100
+            else:
+                return float(val_str)
+        
+        for stat_key in ["rating", "acs", "KD", "kast", "adr", "kpr", "apr", "fkpr"]:
+            if stat_key in stats:
+                
+                # converts the value at each key to float
+                float_val = convert_to_float(stats[stat_key])
+                team_stats[full_team_name][stat_key].append(float_val)
+            else:
+                team_stats[full_team_name][stat_key].append(None)
+    
+    return team_stats
 
 
 
 if __name__ == "__main__":
     players = get_players()
-    scrape_player(players)
+    print(scrape_player(players))
     '''
     with open('players.txt', 'w', encoding='utf-8') as f:
         for player in players:
