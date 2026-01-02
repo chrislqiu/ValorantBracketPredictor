@@ -86,7 +86,7 @@ def scrape_vlr_page(page_num: int):
         t2_score = int(team_elements[1].select_one(".match-item-vs-team-score").text.strip())
 
         #checks if at least one team is in the list
-        if t1_name not in TEAMS.value() and t2_name not in TEAMS.value():
+        if t1_name not in TEAMS.values() and t2_name not in TEAMS.values():
             continue
 
         series_info = match.select_one(".match-item-event-series")

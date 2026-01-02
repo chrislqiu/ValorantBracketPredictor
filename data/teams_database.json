@@ -60,10 +60,10 @@
         "total_matches": 67
     },
     "FNATIC": {
-        "winrate": 0.705,
+        "winrate": 0.73,
         "recent_form": 1.0,
         "avg_round_diff": 10.2,
-        "total_matches": 105
+        "total_matches": 115
     },
     "Team Liquid": {
         "winrate": 0.539,
@@ -306,33 +306,33 @@
         "total_matches": 73
     },
     "PCIFIC Espor": {
-        "winrate": 0.5,
-        "recent_form": 0.5,
-        "avg_round_diff": 0.0,
-        "total_matches": 0
+        "winrate": 0.731,
+        "recent_form": 0.6,
+        "avg_round_diff": 4.0,
+        "total_matches": 26
     },
     "ULF Esports": {
-        "winrate": 0.5,
-        "recent_form": 0.5,
-        "avg_round_diff": -5.5,
-        "total_matches": 2
+        "winrate": 0.66,
+        "recent_form": 0.6,
+        "avg_round_diff": 5.2,
+        "total_matches": 50
     },
     "FULL SENSE": {
-        "winrate": 0.4,
-        "recent_form": 0.4,
-        "avg_round_diff": -0.6,
-        "total_matches": 5
+        "winrate": 0.692,
+        "recent_form": 0.5,
+        "avg_round_diff": 0.4,
+        "total_matches": 117
     },
     "VARREL": {
-        "winrate": 0.5,
+        "winrate": 0.45,
         "recent_form": 0.5,
-        "avg_round_diff": 0.0,
-        "total_matches": 0
+        "avg_round_diff": 2.8,
+        "total_matches": 20
     },
     "Dragon Ranger Gaming": {
-        "winrate": 0.4,
-        "recent_form": 0.3,
-        "avg_round_diff": -6.2,
-        "total_matches": 60
+        "winrate": 0.495,
+        "recent_form": 0.4,
+        "avg_round_diff": -5.4,
+        "total_matches": 99
     }
 }
