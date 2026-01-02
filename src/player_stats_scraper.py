@@ -15,7 +15,7 @@ TEAMS = {
     "T1": "T1",
     "PRX": "Paper Rex",
     "TS": "Team Secret",
-    "FNC": "Fnatic",
+    "FNC": "FNATIC",
     "TL": "Team Liquid",
     "KC": "Karmine Corp",
     "G2": "G2 Esports",
