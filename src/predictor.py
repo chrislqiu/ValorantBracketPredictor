@@ -8,7 +8,7 @@ def main():
         teams = json.load(f)
 
     # listing teams
-    team_list = list(teams.keys())
+    team_list = sorted(list(teams.keys()))
     print("\nTeams:")
     for i, t in enumerate(team_list, 1):
         print(f"{i}. {t}")

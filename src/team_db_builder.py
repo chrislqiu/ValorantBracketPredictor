@@ -1,25 +1,10 @@
 import pandas as pd
-import numpy as np
 import json
+from constants import TEAMS
 
 CSV = "../data/matches_dataset.csv"
 
 df = pd.read_csv(CSV)
-
-TEAMS = [
-    "Sentinels", "LOUD", "FURIA", "NRG", "Cloud9", "Gen.G", "DRX", "T1",
-    "Paper Rex", "Team Secret", "FNATIC", "Team Liquid", "Karmine Corp",
-    "G2 Esports", "Natus Vincere", "100 Thieves", "Evil Geniuses",
-    "Bilibili Gaming", "EDward Gaming", "MIBR", "Rex Regum Qeon",
-    "Xi Lai Gaming", "GIANTX", "Team Heretics", "KRÜ Esports",
-    "LEVIATÁN", "ENVY", "BBL Esports", "FUT Esports", "Gentle Mates",
-    "Team Vitality", "DetonatioN FocusMe", "Global Esports", "ZETA DIVISION",
-    "FunPlus Phoenix", "All Gamers", "Trace Esports", "TYLOO", "Nova Esports",
-    "JDG Esports", "Titan Esports Club", "Wolves Esports",
-    "Team Liquid Brazil", "Shopify Rebellion Gold", "MIBR GC", "KRÜ BLAZE",
-    "Karmine Corp GC", "G2 Gozen", "Nova Esports GC",
-    "Xipto Esports GC", "Nongshim RedForce"
-]
 
 # creates dict struct 
 team_stats = {team: {
@@ -27,7 +12,7 @@ team_stats = {team: {
     'wins': 0,
     'round_diffs': [],
     'recent_wins': []
-} for team in TEAMS}
+} for team in TEAMS.values()}
 
 for _, match in df.iterrows():
     team1, team2 = match['team1'], match['team2']

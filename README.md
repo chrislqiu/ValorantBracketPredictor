@@ -23,3 +23,4 @@ Order of Files to Run:
     - [x] include player statistics: acs, adr, kd, etc
     - [ ] update and retrain model
 
+- Need to scrape more teams and wait for more roster annoucements

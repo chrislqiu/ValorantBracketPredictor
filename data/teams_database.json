@@ -304,5 +304,35 @@
         "recent_form": 0.4,
         "avg_round_diff": -0.6,
         "total_matches": 73
+    },
+    "PCIFIC Espor": {
+        "winrate": 0.5,
+        "recent_form": 0.5,
+        "avg_round_diff": 0.0,
+        "total_matches": 0
+    },
+    "ULF Esports": {
+        "winrate": 0.5,
+        "recent_form": 0.5,
+        "avg_round_diff": -5.5,
+        "total_matches": 2
+    },
+    "FULL SENSE": {
+        "winrate": 0.4,
+        "recent_form": 0.4,
+        "avg_round_diff": -0.6,
+        "total_matches": 5
+    },
+    "VARREL": {
+        "winrate": 0.5,
+        "recent_form": 0.5,
+        "avg_round_diff": 0.0,
+        "total_matches": 0
+    },
+    "Dragon Ranger Gaming": {
+        "winrate": 0.4,
+        "recent_form": 0.3,
+        "avg_round_diff": -6.2,
+        "total_matches": 60
     }
 }
