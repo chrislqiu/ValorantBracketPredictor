@@ -3,7 +3,6 @@ import numpy as np
 import json
 
 CSV = "../data/matches_dataset.csv"
-OUTPUT = "../data/team_db.json"
 
 df = pd.read_csv(CSV)
 

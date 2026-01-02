@@ -143,6 +143,7 @@ PLAN:
     - using name along with vlr to get stats
     - if player is Sub or inactive, exclude them from stats
     - check if name and team name in in the list
+        - theres multiple people with same names, create a special key name_team to differentiate and prevent overwriting
 
 Stats I want:
 -rating

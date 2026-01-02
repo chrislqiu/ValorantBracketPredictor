@@ -157,6 +157,6 @@ def write_to_json(data, filename = "../data/matches_raw.json"):
 
 if __name__ == "__main__":
 
-    matches = scrape_multiple_pages(200)
+    matches = scrape_multiple_pages(230)
     write_to_json(matches)
     print(f"Wrote to file")

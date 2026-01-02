@@ -2,8 +2,8 @@ import json
 import csv
 from collections import defaultdict
 
-JSON = "matches_raw.json"
-CSV = "matches_dataset.csv"
+JSON = "../data/matches_raw.json"
+CSV = "../data/matches_dataset.csv"
 
 with open(JSON, "r", encoding="utf-8") as f:
     matches = json.load(f)

@@ -127,6 +127,9 @@ def scrape_player(players_list):
         # check if player is on a roster
         if alias not in players_list:
             continue
+        
+        # unique key for dup names
+        unique_key = f"{alias}_{team}" if team else alias
 
         # get stat cells
         stat_cells = player.find_all('td', class_="mod-color-sq")
@@ -141,7 +144,7 @@ def scrape_player(players_list):
                 stats[stat_names[i]] = span.text.strip()
         
         #stores the stats
-        player_stats[alias] = stats
+        player_stats[unique_key] = stats
 
     return player_stats
 
@@ -163,10 +166,19 @@ def create_team_stats_json(player_stats):
     
     for player, stats in player_stats.items():
         team_abbrev = stats.get("team", "")
+        alias = stats.get("alias", player.split('_')[0] if '_' in player else player)
+
+        '''TEMP CHANGES SINCE TEAM ISNT UPDATED'''
+        if alias == "whzy":
+            team_abbrev = "BLG"
+        elif alias == "Reduxx":
+            team_abbrev = "SEN"
+        elif alias == "xeus":
+            team_abbrev = "FUT"
 
         # Skip if team not found in TEAMS 
         if team_abbrev not in TEAMS:
-            print(f"SKIPPED {player}")
+            print(f"SKIPPED {alias} (team: {team_abbrev})")
             continue
 
         full_team_name = TEAMS[team_abbrev]
@@ -194,10 +206,17 @@ def create_team_stats_json(player_stats):
 
 
 if __name__ == "__main__":
+
+    # get list of players on a roster
     players = get_players()
-    print(scrape_player(players))
-    '''
-    with open('players.txt', 'w', encoding='utf-8') as f:
-        for player in players:
-            f.write(player + '\n')
-    '''
+    print(f"Found {len(players)} Players")
+
+    # scrape stats for selected players
+    player_stats = scrape_player(players)
+    print(f"Got stats for {len(players)} Players")
+
+    team_stats_json = create_team_stats_json(player_stats)
+
+    with open('../data/team_stats.json', 'w', encoding='utf-8') as f:
+        json.dump(team_stats_json, f, indent=2, ensure_ascii=False)
+
