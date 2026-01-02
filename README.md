@@ -16,9 +16,10 @@ Order of Files to Run:
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
     - [ ] vlr incldude team map stats -> not needed bc we do not know what map are being played until the day of the event
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1).png)
+
 - v2
     - [x] scraper player stats
-    - [ ] include player statistics: acs, adr, kd, etc
+    - [x] include player statistics: acs, adr, kd, etc
     - [ ] update and retrain model
 
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff.png)
