@@ -5,6 +5,8 @@ from constants import TEAMS
 CSV = "../data/matches_dataset.csv"
 
 df = pd.read_csv(CSV)
+with open('../data/teams_stats.json', 'r') as f:
+    player_stats = json.load(f)
 
 # creates dict struct 
 team_stats = {team: {
@@ -66,12 +68,21 @@ for team, data in team_stats.items():
         winrate = 0.5
         recent_form = 0.5
         avg_round_diff = 0.0
+        avg_rating = 1.0
+        avg_acs = 197.0
+        avg_KD = 1.05
+        avg_kast = .72
+        avg_adr = 151.2
+        avg_kpr = .8
+        avg_apr = .21
+        avg_fkpr = .1
         
     # Save to database
     database[team] = {
         'winrate': round(winrate, 3),
         'recent_form': round(recent_form, 3),
         'avg_round_diff': round(avg_round_diff, 1),
+        ''
         'total_matches': data['matches']
     }
 

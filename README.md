@@ -5,8 +5,8 @@ Building ML model to predict bracket outcomes for Valorant Tournaments
 Order of Files to Run:
 - vlr_scraper.py -> Obtain most recent matches and converts them to json
 - build_csv.py -> Get csv representation
-- team_db_builder.py -> Builds the json for each team, which include the inputs to the predictor
 - player_stats_scraper.py -> Obtain stats for player and use as input and model training for later on
+- team_db_builder.py -> Builds the json for each team, which include the inputs to the predictor
 - train_model.py -> Generate model for predictor
 - predictor.py -> To predict outcomes between two teams
 
