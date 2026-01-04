@@ -7,6 +7,7 @@ Order of Files to Run:
 - build_csv.py -> Get csv representation
 - player_stats_scraper.py -> Obtain stats for player and use as input and model training for later on
 - team_db_builder.py -> Builds the json for each team, which include the inputs to the predictor
+- add_players_to_csv.py -> adds avg player stats to csv for model to train
 - train_model.py -> Generate model for predictor
 - predictor.py -> To predict outcomes between two teams
 

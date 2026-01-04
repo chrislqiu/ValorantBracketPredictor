@@ -90,7 +90,7 @@ Tree 2: 0.18  (Slight Team1 edge)
 Tree 3: -0.89 (Strong Team2 advantage)
 Tree 4: 0.31  (Team1 favored)
 ...
-Tree 99: -0.05 (Slight Team2 edge)
+Tree 499: -0.05 (Slight Team2 edge)
 
 Sums it to decide on final decision, and uses sigmoid function to convert to probability (0 to 1)
 
