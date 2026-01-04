@@ -23,6 +23,7 @@ def main():
     winrate_diff = teams[t1]['winrate'] - teams[t2]['winrate']
     form_diff = teams[t1]['recent_form'] - teams[t2]['recent_form']
     rnd_diff_diff = teams[t1]['avg_round_diff'] - teams[t2]['avg_round_diff']
+    #TODO: add new features
 
     #predict
     pred = model.predict([[winrate_diff, form_diff, rnd_diff_diff]])[0]

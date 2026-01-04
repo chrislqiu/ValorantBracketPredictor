@@ -1,11 +1,12 @@
 import pandas as pd
 import json
+import numpy as np
 from constants import TEAMS
 
 CSV = "../data/matches_dataset.csv"
 
 df = pd.read_csv(CSV)
-with open('../data/teams_stats.json', 'r') as f:
+with open('../data/team_stats.json', 'r', encoding='utf-8') as f:
     player_stats = json.load(f)
 
 # creates dict struct 
@@ -68,27 +69,20 @@ for team, data in team_stats.items():
         winrate = 0.5
         recent_form = 0.5
         avg_round_diff = 0.0
-        avg_rating = 1.0
-        avg_acs = 197.0
-        avg_KD = 1.05
-        avg_kast = .72
-        avg_adr = 151.2
-        avg_kpr = .8
-        avg_apr = .21
-        avg_fkpr = .1
         
     # Save to database
     database[team] = {
         'winrate': round(winrate, 3),
         'recent_form': round(recent_form, 3),
         'avg_round_diff': round(avg_round_diff, 1),
-        'team_avg_rating' : 1.0 if len(player_stats[team]['rating']) == 0 else round(sum(player_stats[team]['rating']) / len(player_stats[team]['rating']), 1),
-        'team_avg_acs' : 197.0 if len(player_stats[team]['acs']) == 0 else round(sum(player_stats[team]['acs']) / len(player_stats[team]['acs']), 1), 
-        'team_avg_KD' : 1.05 if len(player_stats[team]['KD']) == 0 else round(sum(player_stats[team]['KD']) / len(player_stats[team]['KD']), 2),
-        'team_avg_kast' : .72 if len(player_stats[team]['kast']) == 0 else round(sum(player_stats[team]['kast']) / len(player_stats[team]['kast']), 2),
-        'team_avg_adr' : 151.2 if len(player_stats[team]['adr']) == 0 else round(sum(player_stats[team]['adr']) / len(player_stats[team]['adr']), 1),
-        'team_avg_kpr' : .8 if len(player_stats[team]['kpr']) == 0 else round(sum(player_stats[team]['kpr']) / len(player_stats[team]['kpr']), 1),
-        
+        'team_avg_rating': round(np.mean(player_stats[team]['rating']), 1) if player_stats[team]['rating'] else 1.0,
+        'team_avg_acs': round(np.mean(player_stats[team]['acs']), 1) if player_stats[team]['acs'] else 197.0,
+        'team_avg_KD': round(np.mean(player_stats[team]['KD']), 2) if player_stats[team]['KD'] else 1.0,
+        'team_avg_kast': round(np.mean(player_stats[team]['kast']), 2) if player_stats[team]['kast'] else 0.72,
+        'team_avg_adr': round(np.mean(player_stats[team]['adr']), 1) if player_stats[team]['adr'] else 132.0,
+        'team_avg_kpr': round(np.mean(player_stats[team]['kpr']), 1) if player_stats[team]['kpr'] else 0.7,
+        'team_avg_apr': round(np.mean(player_stats[team]['apr']), 2) if player_stats[team]['apr'] else 0.25,
+        'team_avg_fkpr': round(np.mean(player_stats[team]['fkpr']), 3) if player_stats[team]['fkpr'] else 0.1,
         'total_matches': data['matches']
     }
 
