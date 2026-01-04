@@ -82,7 +82,13 @@ for team, data in team_stats.items():
         'winrate': round(winrate, 3),
         'recent_form': round(recent_form, 3),
         'avg_round_diff': round(avg_round_diff, 1),
-        ''
+        'team_avg_rating' : 1.0 if len(player_stats[team]['rating']) == 0 else round(sum(player_stats[team]['rating']) / len(player_stats[team]['rating']), 1),
+        'team_avg_acs' : 197.0 if len(player_stats[team]['acs']) == 0 else round(sum(player_stats[team]['acs']) / len(player_stats[team]['acs']), 1), 
+        'team_avg_KD' : 1.05 if len(player_stats[team]['KD']) == 0 else round(sum(player_stats[team]['KD']) / len(player_stats[team]['KD']), 2),
+        'team_avg_kast' : .72 if len(player_stats[team]['kast']) == 0 else round(sum(player_stats[team]['kast']) / len(player_stats[team]['kast']), 2),
+        'team_avg_adr' : 151.2 if len(player_stats[team]['adr']) == 0 else round(sum(player_stats[team]['adr']) / len(player_stats[team]['adr']), 1),
+        'team_avg_kpr' : .8 if len(player_stats[team]['kpr']) == 0 else round(sum(player_stats[team]['kpr']) / len(player_stats[team]['kpr']), 1),
+        
         'total_matches': data['matches']
     }
 
