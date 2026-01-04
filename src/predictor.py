@@ -3,7 +3,7 @@ import json
 
 def main():
 
-    model = joblib.load('../model/model.pkl')
+    model = joblib.load('../model/model(v1).pkl')
     with open('../data/teams_database.json', 'r') as f:
         teams = json.load(f)
 
