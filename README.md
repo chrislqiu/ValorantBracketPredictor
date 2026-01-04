@@ -12,7 +12,7 @@ Order of Files to Run:
 
 ## TODO Before Building Model
 
-- v1 (61.8% Accuracy on Model as of 1/2/2026)
+- v1 (61.8% Accuracy on Model as of 1/2/2026 - .1 learning rate, 100 n_estimators)
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
     - [ ] vlr incldude team map stats -> not needed bc we do not know what map are being played until the day of the event
@@ -25,4 +25,7 @@ Order of Files to Run:
     - [x] include player statistics: acs, adr, kd, etc
     - [ ] update and retrain model
 
+FUTURE WIP
 - Need to scrape more teams and wait for more roster annoucements
+- Split the team avg stats into role specific stas, because avg comes out to be very similar
+- Log transformation to to create more normal distribution, small difference in like a certain stat has more weight
