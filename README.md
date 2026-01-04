@@ -12,7 +12,7 @@ Order of Files to Run:
 
 ## TODO Before Building Model
 
-- v1 (61.8% Accuracy on Model as of 1/2/2026 - .1 learning rate, 100 n_estimators)
+- v1 (63.8% Accuracy on Model as of 1/4/2026)
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
     - [ ] vlr incldude team map stats -> not needed bc we do not know what map are being played until the day of the event
