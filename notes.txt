@@ -154,3 +154,6 @@ Stats I want:
 -KPR
 -APR
 -FKPR
+
+v2:
+200, 3, .05 -> 66.5%

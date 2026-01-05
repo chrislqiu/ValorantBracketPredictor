@@ -21,10 +21,10 @@ Order of Files to Run:
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1P).png)
 (More predictions in predictions folder)
 
-- v2
+- v2 (66.5% Accuracy on Model as of 1/5/2026)
     - [x] scraper player stats
     - [x] include player statistics: acs, adr, kd, etc
-    - [ ] update and retrain model
+    - [x] update and retrain model
 
 FUTURE WIP
 - Need to scrape more teams and wait for more roster annoucements

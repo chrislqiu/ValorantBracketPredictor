@@ -38,12 +38,12 @@ X_train, X_test, y_train, y_test = train_test_split(
 model = xgb.XGBClassifier(
     # num of trees, more trees -> more learning capacity
     # too few -> underfit, too many -> overfit
-    n_estimators=500,
+    n_estimators=200,
     # depth of each tree, "if else splits"
     # shallow -> generalize better, deep -> memorizes patterns, not direct related to the number of features (splits in tree)
     max_depth=3,
     # essentially step sizes, improving generalization the smaller the step
-    learning_rate=0.01,
+    learning_rate=0.05,
     # evals how wrong it is, penalizes confident wrong prediction, encourages calibrated probabilities
     eval_metric="logloss",
     random_state=42
@@ -54,9 +54,9 @@ model.fit(X_train, y_train)
 
 # save
 # this contains the decision trees with their split and rules
-joblib.dump(model, '../model/model.pkl')
+joblib.dump(model, '../model/model(v2).pkl')
 
 # Quick test
 accuracy = model.score(X_test, y_test)
 print(f"Model accuracy: {accuracy:.1%}")
-print("Model saved as model.pkl")
+print("Model saved as model(v2).pkl")
