@@ -5,13 +5,13 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 ## Directions:
 1. Install all libraries requirements.txt
 - Run Files Below **In Order**
-2. *vlr_scraper.py* -> Scrapes 230+ pages of matches from vlr.gg, outputs **matches_raw.json**
-3. *build_csv.py* -> Takes in **matches_raw.json**, and flattens the data for ML model, outputs **matches_dataset.csv**
-4. *player_stats_scraper.py* -> Scrapes org pages on vlr to store player names, then using player names, finds each player stats and stores them with their respective team, outputs **team_stats.json**
-5. *team_db_builder.py* -> Takes in **team_stats.json**, builds the json for each team with match and player stats, outputs **teams_database.json**
-6.  *add_players_to_csv.py* -> Takes in **matches_dataset.csv** and **teams_database.json**, then adds the extra features (team stats) to the csv and outputs a new copy, outputs **matches_with_player_stats**
-7. *train_model.py* -> Takes in **matches_with_player_stats.csv**, creates the model and trains it on the data from the input, outputs **model.pkl**
-8. *predictor.py* -> Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
+2. *vlr_scraper.py* ➜ Scrapes 230+ pages of matches from vlr.gg, outputs **matches_raw.json**
+3. *build_csv.py* ➜ Takes in **matches_raw.json**, and flattens the data for ML model, outputs **matches_dataset.csv**
+4. *player_stats_scraper.py* ➜ Scrapes org pages on vlr to store player names, then using player names, finds each player stats and stores them with their respective team, outputs **team_stats.json**
+5. *team_db_builder.py* ➜ Takes in **team_stats.json**, builds the json for each team with match and player stats, outputs **teams_database.json**
+6.  *add_players_to_csv.py* ➜ Takes in **matches_dataset.csv** and **teams_database.json**, then adds the extra features (team stats) to the csv and outputs a new copy, outputs **matches_with_player_stats**
+7. *train_model.py* ➜ Takes in **matches_with_player_stats.csv**, creates the model and trains it on the data from the input, outputs **model.pkl**
+8. *predictor.py* ➜ Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
 
 > Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions
 
