@@ -1,34 +1,42 @@
-# ValorantBracketPredictor
+## Goal
 
-Building ML model to predict bracket outcomes for Valorant Tournaments
+Inspired by traditional sports bracket challenges like March Madness, Valorant offers its own in-game bracket challenge where players earn exclusive rewards based on prediction accuracy. This project was created to hopefully make very accurate predictions in order to earn those in-game rewards.
 
-Order of Files to Run:
-- vlr_scraper.py -> Obtain most recent matches and converts them to json
-- build_csv.py -> Get csv representation
-- player_stats_scraper.py -> Obtain stats for player and use as input and model training for later on
-- team_db_builder.py -> Builds the json for each team, which include the inputs to the predictor
-- add_players_to_csv.py -> adds avg player stats to csv for model to train
-- train_model.py -> Generate model for predictor
-- predictor.py -> To predict outcomes between two teams
+## Directions:
+1. Install all libraries requirements.txt
+- Run Files Below **In Order**
+2. *vlr_scraper.py* -> Scrapes 230+ pages of matches from vlr.gg, outputs **matches_raw.json**
+3. *build_csv.py* -> Takes in **matches_raw.json**, and flattens the data for ML model, outputs **matches_dataset.csv**
+4. *player_stats_scraper.py* -> Scrapes org pages on vlr to store player names, then using player names, finds each player stats and stores them with their respective team, outputs **team_stats.json**
+5. *team_db_builder.py* -> Takes in **team_stats.json**, builds the json for each team with match and player stats, outputs **teams_database.json**
+6.  *add_players_to_csv.py* -> Takes in **matches_dataset.csv** and **teams_database.json**, then adds the extra features (team stats) to the csv and outputs a new copy, outputs **matches_with_player_stats**
+7. *train_model.py* -> Takes in **matches_with_player_stats.csv**, creates the model and trains it on the data from the input, outputs **model.pkl**
+8. *predictor.py* -> Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
 
-## TODO Before Building Model
+> Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions
+
+## TODO 
+
+* waiting for roster updates to make predictions for other regions (v2)
 
 - v1 (63.8% Accuracy on Model as of 1/4/2026)
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
-    - [ ] vlr incldude team map stats -> not needed bc we do not know what map are being played until the day of the event
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1P).png)
-(More predictions in predictions folder)
 
 - v2 (66.5% Accuracy on Model as of 1/5/2026)
     - [x] scraper player stats
     - [x] include player statistics: acs, adr, kd, etc
     - [x] update and retrain model
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2P).png)
 
+- v3
+    - [ ] split the team avg stats into role specific stast, because avg comes out to be very similar
+    - [ ] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
 
+## Predictions (More in Folder)
+
+* Personal Prediction not based on ML
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(Personal).png)
-FUTURE WIP
-- Need to scrape more teams and wait for more roster annoucements
-- Split the team avg stats into role specific stas, because avg comes out to be very similar
-- Log transformation to to create more normal distribution, small difference in like a certain stat has more weight
+* v1 Model Prediction using org/team based data (historical team winrate, round differential, and recent form (win-rate in last 10 games)) 
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1P).png)
+* v2 Model Prediction using org/team based data, and team average player data (team avg rating, KD, acs, etc)
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2P).png)
