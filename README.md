@@ -25,7 +25,10 @@ Order of Files to Run:
     - [x] scraper player stats
     - [x] include player statistics: acs, adr, kd, etc
     - [x] update and retrain model
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2P).png)
 
+
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(Personal).png)
 FUTURE WIP
 - Need to scrape more teams and wait for more roster annoucements
 - Split the team avg stats into role specific stas, because avg comes out to be very similar
