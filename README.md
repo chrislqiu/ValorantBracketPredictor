@@ -17,7 +17,6 @@ Order of Files to Run:
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
     - [ ] vlr incldude team map stats -> not needed bc we do not know what map are being played until the day of the event
-
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1P).png)
 (More predictions in predictions folder)
 
