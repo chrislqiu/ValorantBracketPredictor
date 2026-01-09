@@ -29,7 +29,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - [x] update and retrain model
 
 - v3
-    - [ ] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
+    - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
     - [ ] split the team avg stats into role specific stast, because avg comes out to be very similar
         - how to assign players to a certain role?
         - flex players exist, meaning they play mutiple roles
