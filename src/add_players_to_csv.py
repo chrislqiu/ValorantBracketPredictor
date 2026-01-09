@@ -47,6 +47,10 @@ def add_player_diff_to_csv(csv_path, teams_db_path, output_path):
         df[f'team2_norm_{stat}'] = 0.0
         df[f'norm_{stat}_diff'] = 0.0
     
+    df['team1_composite_score'] = 0.0
+    df['team2_composite_score'] = 0.0
+    df['composite_score_diff'] = 0.0
+    
     # iterate through the rows in csv
     for idx, row in df.iterrows():
         team1 = row['team1']
@@ -70,11 +74,11 @@ def add_player_diff_to_csv(csv_path, teams_db_path, output_path):
             t1_val = team_db[team1]['normalized'][stat_name] if team1 in team_db else 0
             t2_val = team_db[team2]['normalized'][stat_name] if team2 in team_db else 0
 
-            df.at[idx, f'team1_{stat_name}'] = round(t1_val, 3)
-            df.at[idx, f'team2_{stat_name}'] = round(t2_val, 3)
+            df.at[idx, f'team1_norm_{stat_name}'] = round(t1_val, 3)
+            df.at[idx, f'team2_norm_{stat_name}'] = round(t2_val, 3)
 
             diff = t1_val - t2_val
-            df.at[idx, f'{stat_name}_diff'] = round(diff, 3)
+            df.at[idx, f'norm_{stat_name}_diff'] = round(diff, 3)
 
         # composite val
         t1_composite = team_db[team1]['composite_score'] if team1 in team_db else 0

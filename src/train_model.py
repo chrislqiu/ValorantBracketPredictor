@@ -19,7 +19,9 @@ FEATURES = [
     'team_avg_adr_diff',
     'team_avg_kpr_diff',
     'team_avg_apr_diff',
-    'team_avg_fkpr_diff'
+    'team_avg_fkpr_diff',
+    #v2.5
+    ''
 ]
 
 # inputting the feature
