@@ -7,9 +7,11 @@ df = pd.read_csv("../data/matches_with_player_stats.csv")
 
 # features we want the model to to train on
 FEATURES = [
+    #v1
     'winrate_diff',
     'form_diff',
     'rnd_diff_diff',
+    #v2
     'team_avg_rating_diff',
     'team_avg_acs_diff',
     'team_avg_KD_diff',

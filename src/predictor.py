@@ -19,7 +19,7 @@ def main():
 
     t1, t2 = team_list[i1], team_list[i2]
 
-    # calc features
+    # v1, calc features
     winrate_diff = teams[t1]['winrate'] - teams[t2]['winrate']
     form_diff = teams[t1]['recent_form'] - teams[t2]['recent_form']
     rnd_diff_diff = teams[t1]['avg_round_diff'] - teams[t2]['avg_round_diff']

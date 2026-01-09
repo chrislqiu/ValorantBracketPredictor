@@ -157,3 +157,10 @@ Stats I want:
 
 v2:
 200, 3, .05 -> 66.5%
+
+
+Log Transforming to Standardize stats:
+- log transform multipliicative stats like kd, kpr, fkpr. 1.1 -> 1.2 kd is not the same as 1.2 -> 1.3
+- logit transform for percentage value, to scale the range from 0 to 1
+    - epsilson to prevent log(0) and log(1/0)
+- can find zscore of linear stats bc 190->195 acs is similar to 200->205

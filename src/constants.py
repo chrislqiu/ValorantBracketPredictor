@@ -75,3 +75,9 @@ TEAMS_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/696
             "https://www.vlr.gg/team/13807/nova-esports-gc", "https://www.vlr.gg/team/15317/xipto-esports-gc", "https://www.vlr.gg/team/11060/nongshim-redforce",
             "https://www.vlr.gg/team/3478/pcific-espor", "https://www.vlr.gg/team/18019/ulf-esports", "https://www.vlr.gg/team/4050/full-sense", "https://www.vlr.gg/team/11229/varrel",
             "https://www.vlr.gg/team/11981/dragon-ranger-gaming"]
+
+#used for when a team has no players yet (used in team db builder to calc averages)
+DEFAULT_STATS = {
+        'rating': 1.00, 'acs': 197.0, 'KD': 1.0, 'kast': 0.72,
+        'adr': 132.0, 'kpr': 0.7, 'apr': 0.25, 'fkpr': 0.1
+    }
