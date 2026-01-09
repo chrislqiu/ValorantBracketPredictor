@@ -164,3 +164,6 @@ Log Transforming to Standardize stats:
 - logit transform for percentage value, to scale the range from 0 to 1
     - epsilson to prevent log(0) and log(1/0)
 - can find zscore of linear stats bc 190->195 acs is similar to 200->205
+
+v2.5:
+250, 2, .01 -> 66%
