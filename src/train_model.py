@@ -21,7 +21,15 @@ FEATURES = [
     'team_avg_apr_diff',
     'team_avg_fkpr_diff',
     #v2.5
-    ''
+    'norm_rating_diff',
+    'norm_acs_diff',
+    'norm_KD_diff',
+    'norm_kast_diff',
+    'norm_adr_diff',
+    'norm_kpr_diff',
+    'norm_apr_diff',
+    'norm_fkpr_diff',
+    'composite_score_diff'
 ]
 
 # inputting the feature
@@ -58,9 +66,9 @@ model.fit(X_train, y_train)
 
 # save
 # this contains the decision trees with their split and rules
-joblib.dump(model, '../model/model(v2).pkl')
+joblib.dump(model, '../model/model(v2.5).pkl')
 
 # Quick test
 accuracy = model.score(X_test, y_test)
 print(f"Model accuracy: {accuracy:.1%}")
-print("Model saved as model(v2).pkl")
+print("Model saved as model(v2.5).pkl")
