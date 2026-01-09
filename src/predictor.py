@@ -34,11 +34,24 @@ def main():
     team_avg_apr_diff = teams[t1]['team_avg_apr'] - teams[t2]['team_avg_apr']
     team_avg_fkpr_diff = teams[t1]['team_avg_fkpr'] - teams[t2]['team_avg_fkpr']
 
+    #v2.5 features
+    norm_rating_diff = teams[t1]['normalized']['rating'] - teams[t2]['normalized']['rating']
+    norm_acs_diff = teams[t1]['normalized']['acs'] - teams[t2]['normalized']['acs']
+    norm_KD_diff = teams[t1]['normalized']['KD'] - teams[t2]['normalized']['KD']
+    norm_kast_diff = teams[t1]['normalized']['kast'] - teams[t2]['normalized']['kast']
+    norm_adr_diff = teams[t1]['normalized']['adr'] - teams[t2]['normalized']['adr']
+    norm_kpr_diff = teams[t1]['normalized']['kpr'] - teams[t2]['normalized']['kpr']
+    norm_apr_diff = teams[t1]['normalized']['apr'] - teams[t2]['normalized']['apr']
+    norm_fkpr_diff = teams[t1]['normalized']['fkpr'] - teams[t2]['normalized']['fkpr']
+    composite_score_diff = teams[t1]['composite_score'] - teams[t2]['composite_score']
+
     #predict
     pred = model.predict([[winrate_diff, form_diff, rnd_diff_diff, team_avg_rating_diff, team_avg_acs_diff, team_avg_KD_diff, team_avg_kast_diff,
-                           team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff,team_avg_fkpr_diff]])[0]
+                           team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff, team_avg_fkpr_diff, norm_rating_diff, norm_acs_diff, norm_KD_diff,
+                           norm_kast_diff, norm_adr_diff, norm_kpr_diff, norm_apr_diff, norm_fkpr_diff, composite_score_diff]])[0]
     prob = model.predict_proba([[winrate_diff, form_diff, rnd_diff_diff, team_avg_rating_diff, team_avg_acs_diff, team_avg_KD_diff, team_avg_kast_diff,
-                                 team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff, team_avg_fkpr_diff]])[0]
+                                 team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff, team_avg_fkpr_diff, norm_rating_diff, norm_acs_diff, norm_KD_diff,
+                           norm_kast_diff, norm_adr_diff, norm_kpr_diff, norm_apr_diff, norm_fkpr_diff, composite_score_diff]])[0]
 
     # Show result
     winner = t1 if pred == 1 else t2
