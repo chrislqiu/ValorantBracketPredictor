@@ -167,3 +167,8 @@ Log Transforming to Standardize stats:
 
 v2.5:
 250, 2, .01 -> 66%
+- includes the normalized numebr and the team avg
+
+v2.5.1
+400, 3, .01 -> 65.6%
+- excludes team avg, includes normalized number
