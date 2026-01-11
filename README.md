@@ -17,19 +17,25 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 
 ## TODO 
 
-* waiting for roster updates to make predictions for other regions (v2)
+- General Goals
+    - rescrape matches (last updated 1/5/2026)
+    - wait for roster updates to make predictions for other regions 
+    - verify no overfitting/errors
+    - improve accuracy further?
 
-- v1 (63.8% Accuracy on Model as of 1/4/2026)
+- v1 (63.8% Accuracy on Model using data from 1/4/2026)
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
 
-- v2 (66.5% Accuracy on Model as of 1/5/2026)
+- v2 (66.5% Accuracy on Model using data from 1/5/2026)
     - [x] scraper player stats
     - [x] include player statistics: acs, adr, kd, etc
     - [x] update and retrain model
 
-- v3
+-v2.5 (66% Accuracy on Model using data from 1/5/2026)
     - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
+
+- v3
     - [ ] split the team avg stats into role specific stast, because avg comes out to be very similar
         - how to assign players to a certain role?
         - flex players exist, meaning they play mutiple roles
@@ -43,3 +49,5 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1P).png)
 * v2 Model Prediction using org/team based data, and team average player data (team avg rating, KD, acs, etc)
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2P).png)
+* v2.5 Model Prediction using everthing above, with the addtion of normalized player stats
+![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2.5P).png)
