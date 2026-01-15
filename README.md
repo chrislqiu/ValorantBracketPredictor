@@ -33,7 +33,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - [x] include player statistics: acs, adr, kd, etc
     - [x] update and retrain model
 
--v2.5 (67.2% Accuracy on Model using data from 1/14/2026)
+- v2.5 (67.2% Accuracy on Model using data from 1/14/2026)
     - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
 
 - v3
