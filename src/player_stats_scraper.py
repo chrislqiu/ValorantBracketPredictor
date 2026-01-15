@@ -27,6 +27,12 @@ def get_players():
             # finds and saves alias
             alias = card.find('div', class_="team-roster-item-name-alias").text.strip()
             players.append(alias)
+        '''MANUALLY ADDING PLAYER BC TEAM NOT UPDATED ON ROSTER'''
+        players.append("cNed")
+        players.append("qpert")
+        players.append("al0rante")
+        players.append("seven")
+        players.append("NINJA")
 
     return players
 
@@ -68,9 +74,9 @@ def scrape_player(players_list):
         # getting stats from the cells
         for i in range(min(len(stat_cells), 8)):
             cell = stat_cells[i]
-            span = cell.find('span')
-            if span and i < len(stat_names):
-                stats[stat_names[i]] = span.text.strip()
+            cell_text = cell.text.strip()
+            if cell_text:
+                stats[stat_names[i]] = cell_text
         
         #stores the stats
         player_stats[unique_key] = stats
@@ -104,6 +110,18 @@ def create_team_stats_json(player_stats):
             team_abbrev = "SEN"
         elif alias == "xeus":
             team_abbrev = "FUT"
+        elif alias == "cNed":
+            team_abbrev = "PCF"
+        elif alias == "qpert":
+            team_abbrev = "PCF"
+        elif alias == "al0rante":
+            team_abbrev = "PCF"
+        elif alias == "al0rante":
+            team_abbrev = "PCF"
+        elif alias == "seven":
+            team_abbrev = "PCF"
+        elif alias == "NINJA":
+            team_abbrev = "PCF"
 
         # Skip if team not found in TEAMS 
         if team_abbrev not in TEAMS:
@@ -143,6 +161,8 @@ if __name__ == "__main__":
     # scrape stats for selected players
     player_stats = scrape_player(players)
     print(f"Got stats for {len(players)} Players")
+    with open('../data/player_stats.json', 'w', encoding='utf-8') as f:
+        json.dump(player_stats, f, indent=2, ensure_ascii=False)
 
     team_stats_json = create_team_stats_json(player_stats)
 
