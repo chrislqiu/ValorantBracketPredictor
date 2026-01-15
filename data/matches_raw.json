@@ -1,5 +1,71 @@
 [
   {
+    "match_id": "598971",
+    "match_url": "https://www.vlr.gg/598971/xipto-esports-vs-rex-regum-qeon-predator-league-2026-asia-pacific-c",
+    "team1": "Xipto Esports",
+    "team2": "Rex Regum Qeon",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Predator League 2026: Asia-Pacific",
+    "series": "Group Stage–Group C",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "598968",
+    "match_url": "https://www.vlr.gg/598968/rex-regum-qeon-vs-dream-chaser-predator-league-2026-asia-pacific-c",
+    "team1": "Rex Regum Qeon",
+    "team2": "Dream Chaser",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "Predator League 2026: Asia-Pacific",
+    "series": "Group Stage–Group C",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "598967",
+    "match_url": "https://www.vlr.gg/598967/todak-vs-rex-regum-qeon-predator-league-2026-asia-pacific-c",
+    "team1": "Todak",
+    "team2": "Rex Regum Qeon",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Predator League 2026: Asia-Pacific",
+    "series": "Group Stage–Group C",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
     "match_id": "590638",
     "match_url": "https://www.vlr.gg/590638/gen-g-vs-paper-rex-valorant-radiant-international-invitational-gf",
     "team1": "Gen.G",
@@ -44239,60 +44305,6 @@
     ]
   },
   {
-    "match_id": "399777",
-    "match_url": "https://www.vlr.gg/399777/apeks-vs-pcific-espor-champions-tour-2024-emea-ascension-gf",
-    "team1": "Apeks",
-    "team2": "PCIFIC Espor",
-    "score1": 3,
-    "score2": 2,
-    "total_rnd_diff": 7,
-    "winner": 1,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Playoffs–Grand Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 6,
-        "t2_score": 13,
-        "round_diff": -7,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 8,
-        "round_diff": 5,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 11,
-        "t2_score": 13,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 4,
-        "map_name": "Lotus",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 5,
-        "map_name": "Ascent",
-        "t1_score": 13,
-        "t2_score": 4,
-        "round_diff": 9,
-        "winner": 1
-      }
-    ]
-  },
-  {
     "match_id": "400155",
     "match_url": "https://www.vlr.gg/400155/xi-lai-gaming-vs-zy-gaming-champions-tour-2024-china-ascension-decider-a",
     "team1": "Xi Lai Gaming",
@@ -44327,44 +44339,6 @@
         "t2_score": 9,
         "round_diff": 4,
         "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "399779",
-    "match_url": "https://www.vlr.gg/399779/cgn-esports-vs-pcific-espor-champions-tour-2024-emea-ascension-lbf",
-    "team1": "CGN Esports",
-    "team2": "PCIFIC Espor",
-    "score1": 0,
-    "score2": 3,
-    "total_rnd_diff": -13,
-    "winner": 0,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Playoffs–Lower Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Lotus",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Abyss",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Bind",
-        "t1_score": 8,
-        "t2_score": 13,
-        "round_diff": -5,
-        "winner": 0
       }
     ]
   },
@@ -44467,36 +44441,6 @@
     ]
   },
   {
-    "match_id": "399778",
-    "match_url": "https://www.vlr.gg/399778/the-ultimates-vs-pcific-espor-champions-tour-2024-emea-ascension-lr1",
-    "team1": "The Ultimates",
-    "team2": "PCIFIC Espor",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -8,
-    "winner": 0,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Playoffs–Lower Round 1",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Haven",
-        "t1_score": 11,
-        "t2_score": 13,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Abyss",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      }
-    ]
-  },
-  {
     "match_id": "400856",
     "match_url": "https://www.vlr.gg/400856/g2-gozen-vs-karmine-corp-gc-game-changers-2024-emea-stage-3-r2",
     "team1": "G2 Gozen",
@@ -44523,44 +44467,6 @@
         "t2_score": 4,
         "round_diff": 9,
         "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "399775",
-    "match_url": "https://www.vlr.gg/399775/pcific-espor-vs-cgn-esports-champions-tour-2024-emea-ascension-ubsf",
-    "team1": "PCIFIC Espor",
-    "team2": "CGN Esports",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -11,
-    "winner": 0,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Playoffs–Upper Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 8,
-        "t2_score": 13,
-        "round_diff": -5,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Sunset",
-        "t1_score": 5,
-        "t2_score": 13,
-        "round_diff": -8,
-        "winner": 0
       }
     ]
   },
@@ -44625,36 +44531,6 @@
     ]
   },
   {
-    "match_id": "398799",
-    "match_url": "https://www.vlr.gg/398799/pcific-espor-vs-saw-champions-tour-2024-emea-ascension-r5",
-    "team1": "PCIFIC Espor",
-    "team2": "SAW",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 13,
-    "winner": 1,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Group Stage–Round 5",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 13,
-        "t2_score": 7,
-        "round_diff": 6,
-        "winner": 1
-      }
-    ]
-  },
-  {
     "match_id": "381286",
     "match_url": "https://www.vlr.gg/381286/zen-esports-gc-vs-kr-blaze-game-changers-2024-latam-south-closing-w5",
     "team1": "Zen eSports GC",
@@ -44689,104 +44565,6 @@
         "t2_score": 13,
         "round_diff": -5,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "398795",
-    "match_url": "https://www.vlr.gg/398795/pcific-espor-vs-joblife-champions-tour-2024-emea-ascension-r4",
-    "team1": "PCIFIC Espor",
-    "team2": "Joblife",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 13,
-    "winner": 1,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Group Stage–Round 4",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Ascent",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Lotus",
-        "t1_score": 13,
-        "t2_score": 3,
-        "round_diff": 10,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "398793",
-    "match_url": "https://www.vlr.gg/398793/mouz-vs-pcific-espor-champions-tour-2024-emea-ascension-r3",
-    "team1": "MOUZ",
-    "team2": "PCIFIC Espor",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -6,
-    "winner": 0,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Group Stage–Round 3",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Lotus",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Haven",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Abyss",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "398785",
-    "match_url": "https://www.vlr.gg/398785/pcific-espor-vs-the-ultimates-champions-tour-2024-emea-ascension-r1",
-    "team1": "PCIFIC Espor",
-    "team2": "The Ultimates",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 19,
-    "winner": 1,
-    "event": "Champions Tour 2024 EMEA: Ascension",
-    "series": "Group Stage–Round 1",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Lotus",
-        "t1_score": 13,
-        "t2_score": 1,
-        "round_diff": 12,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Icebox",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
       }
     ]
   },
@@ -46335,52 +46113,6 @@
     ]
   },
   {
-    "match_id": "372381",
-    "match_url": "https://www.vlr.gg/372381/pcific-espor-vs-howl-esports-challengers-league-2024-t-rkiye-birlik-split-2-playoffs-gf",
-    "team1": "PCIFIC Espor",
-    "team2": "HOWL Esports",
-    "score1": 3,
-    "score2": 1,
-    "total_rnd_diff": 16,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Playoffs–Grand Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Haven",
-        "t1_score": 13,
-        "t2_score": 3,
-        "round_diff": 10,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Bind",
-        "t1_score": 11,
-        "t2_score": 13,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 4,
-        "map_name": "Sunset",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      }
-    ]
-  },
-  {
     "match_id": "379026",
     "match_url": "https://www.vlr.gg/379026/full-sense-vs-sharper-esport-challengers-league-2024-thailand-ascension-qualifier-series-ubsf",
     "team1": "FULL SENSE",
@@ -46414,44 +46146,6 @@
         "t1_score": 13,
         "t2_score": 6,
         "round_diff": 7,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "372380",
-    "match_url": "https://www.vlr.gg/372380/pcific-espor-vs-howl-esports-challengers-league-2024-t-rkiye-birlik-split-2-playoffs-ubf",
-    "team1": "PCIFIC Espor",
-    "team2": "HOWL Esports",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 1,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Playoffs–Upper Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Icebox",
-        "t1_score": 4,
-        "t2_score": 13,
-        "round_diff": -9,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Haven",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 5,
-        "round_diff": 8,
         "winner": 1
       }
     ]
@@ -46593,36 +46287,6 @@
     ]
   },
   {
-    "match_id": "372378",
-    "match_url": "https://www.vlr.gg/372378/fire-flux-esports-vs-pcific-espor-challengers-league-2024-t-rkiye-birlik-split-2-playoffs-ubsf",
-    "team1": "Fire Flux Vatangame",
-    "team2": "PCIFIC Espor",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -8,
-    "winner": 0,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Playoffs–Upper Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Haven",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 16,
-        "t2_score": 18,
-        "round_diff": -2,
-        "winner": 0
-      }
-    ]
-  },
-  {
     "match_id": "369919",
     "match_url": "https://www.vlr.gg/369919/xipto-esports-vs-lilax-game-changers-2024-southeast-asia-stage-2-ubqf",
     "team1": "Xipto Esports GC",
@@ -46695,44 +46359,6 @@
         "t2_score": 13,
         "round_diff": -9,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "372376",
-    "match_url": "https://www.vlr.gg/372376/pcific-espor-vs-galakticos-challengers-league-2024-t-rkiye-birlik-split-2-playoffs-ur1",
-    "team1": "PCIFIC Espor",
-    "team2": "Galakticos",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 4,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Playoffs–Upper Round 1",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Bind",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Icebox",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 7,
-        "round_diff": 6,
-        "winner": 1
       }
     ]
   },
@@ -48753,44 +48379,6 @@
     ]
   },
   {
-    "match_id": "349604",
-    "match_url": "https://www.vlr.gg/349604/pcific-espor-vs-stanbul-wildcats-challengers-league-2024-t-rkiye-birlik-split-2-regular-season",
-    "team1": "PCIFIC Espor",
-    "team2": "İstanbul Wildcats",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 11,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 7",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Ascent",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Sunset",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Icebox",
-        "t1_score": 13,
-        "t2_score": 2,
-        "round_diff": 11,
-        "winner": 1
-      }
-    ]
-  },
-  {
     "match_id": "314363",
     "match_url": "https://www.vlr.gg/314363/paper-rex-vs-zeta-division-champions-tour-2024-pacific-stage-2-w4",
     "team1": "Paper Rex",
@@ -48998,36 +48586,6 @@
         "t1_score": 13,
         "t2_score": 5,
         "round_diff": 8,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "349602",
-    "match_url": "https://www.vlr.gg/349602/papara-supermassive-vs-pcific-espor-challengers-league-2024-t-rkiye-birlik-split-2-regular-seaso",
-    "team1": "Papara SuperMassive",
-    "team2": "PCIFIC Espor",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 13,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 7",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 13,
-        "t2_score": 2,
-        "round_diff": 11,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Bind",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
         "winner": 1
       }
     ]
@@ -49825,44 +49383,6 @@
     ]
   },
   {
-    "match_id": "349596",
-    "match_url": "https://www.vlr.gg/349596/pcific-espor-vs-s2g-esports-challengers-league-2024-t-rkiye-birlik-split-2-regular-season-w6",
-    "team1": "PCIFIC Espor",
-    "team2": "S2G Esports",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 1,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 6",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Bind",
-        "t1_score": 8,
-        "t2_score": 13,
-        "round_diff": -5,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 14,
-        "t2_score": 12,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      }
-    ]
-  },
-  {
     "match_id": "314357",
     "match_url": "https://www.vlr.gg/314357/drx-vs-talon-esports-champions-tour-2024-pacific-stage-2-w3",
     "team1": "DRX",
@@ -50191,44 +49711,6 @@
         "t2_score": 4,
         "round_diff": 9,
         "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "349592",
-    "match_url": "https://www.vlr.gg/349592/galakticos-vs-pcific-espor-challengers-league-2024-t-rkiye-birlik-split-2-regular-season-w6",
-    "team1": "Galakticos",
-    "team2": "PCIFIC Espor",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -1,
-    "winner": 0,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 6",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Haven",
-        "t1_score": 14,
-        "t2_score": 16,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Split",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Sunset",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
-        "winner": 0
       }
     ]
   },
@@ -50838,36 +50320,6 @@
         "t1_score": 13,
         "t2_score": 8,
         "round_diff": 5,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "349588",
-    "match_url": "https://www.vlr.gg/349588/howl-esports-vs-pcific-espor-challengers-league-2024-t-rkiye-birlik-split-2-regular-season-w5",
-    "team1": "HOWL Esports",
-    "team2": "PCIFIC Espor",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 7,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 5",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Icebox",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
         "winner": 1
       }
     ]
@@ -52537,36 +51989,6 @@
     ]
   },
   {
-    "match_id": "349574",
-    "match_url": "https://www.vlr.gg/349574/eternal-fire-vs-pcific-espor-challengers-league-2024-t-rkiye-birlik-split-2-regular-season-w4",
-    "team1": "Eternal Fire",
-    "team2": "PCIFIC Espor",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -13,
-    "winner": 0,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 4",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 4,
-        "t2_score": 13,
-        "round_diff": -9,
-        "winner": 0
-      }
-    ]
-  },
-  {
     "match_id": "354054",
     "match_url": "https://www.vlr.gg/354054/full-sense-vs-xoxo-01-soop-challengers-league-2024-thailand-split-2-w2",
     "team1": "FULL SENSE",
@@ -52865,36 +52287,6 @@
         "t2_score": 13,
         "round_diff": -3,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "349570",
-    "match_url": "https://www.vlr.gg/349570/pcific-espor-vs-galatasaray-esports-challengers-league-2024-t-rkiye-birlik-split-2-regular-seaso",
-    "team1": "PCIFIC Espor",
-    "team2": "Galatasaray Esports",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 15,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 3",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Breeze",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Sunset",
-        "t1_score": 13,
-        "t2_score": 5,
-        "round_diff": 8,
-        "winner": 1
       }
     ]
   },
@@ -53457,44 +52849,6 @@
     ]
   },
   {
-    "match_id": "349564",
-    "match_url": "https://www.vlr.gg/349564/pcific-espor-vs-fenerbah-e-esports-challengers-league-2024-t-rkiye-birlik-split-2-regular-season",
-    "team1": "PCIFIC Espor",
-    "team2": "Fenerbahçe Esports",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 14,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 2",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Bind",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Icebox",
-        "t1_score": 11,
-        "t2_score": 13,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Breeze",
-        "t1_score": 13,
-        "t2_score": 1,
-        "round_diff": 12,
-        "winner": 1
-      }
-    ]
-  },
-  {
     "match_id": "349890",
     "match_url": "https://www.vlr.gg/349890/northeption-vs-varrel-challengers-league-2024-japan-split-2-w2",
     "team1": "NORTHEPTION",
@@ -54043,36 +53397,6 @@
         "t2_score": 8,
         "round_diff": 5,
         "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "349558",
-    "match_url": "https://www.vlr.gg/349558/pcific-espor-vs-fire-flux-esports-challengers-league-2024-t-rkiye-birlik-split-2-regular-season",
-    "team1": "PCIFIC Espor",
-    "team2": "Fire Flux Vatangame",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -12,
-    "winner": 0,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 2",
-    "series": "Regular Season–Week 1",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 4,
-        "t2_score": 13,
-        "round_diff": -9,
-        "winner": 0
       }
     ]
   },
@@ -55385,44 +54709,6 @@
         "t2_score": 9,
         "round_diff": 4,
         "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "343051",
-    "match_url": "https://www.vlr.gg/343051/eternal-fire-vs-pcific-espor-challengers-league-2024-t-rkiye-birlik-split-1-opening",
-    "team1": "Eternal Fire",
-    "team2": "PCIFIC Espor",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -4,
-    "winner": 0,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 1",
-    "series": "Promotion/Relegation–Opening",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Lotus",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Breeze",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
-        "winner": 0
       }
     ]
   },
@@ -66737,44 +66023,6 @@
     ]
   },
   {
-    "match_id": "289504",
-    "match_url": "https://www.vlr.gg/289504/pcific-espor-vs-there-is-no-tomorrow-challengers-league-turkey-2024-birlik-split-1-closed-qualif",
-    "team1": "PCIFIC Espor",
-    "team2": "There is no tomorrow",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": 3,
-    "winner": 0,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 1",
-    "series": "Closed Qualifier–Lower Round 2",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Haven",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 11,
-        "t2_score": 13,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Bind",
-        "t1_score": 12,
-        "t2_score": 14,
-        "round_diff": -2,
-        "winner": 0
-      }
-    ]
-  },
-  {
     "match_id": "286651",
     "match_url": "https://www.vlr.gg/286651/team-liquid-vs-edward-gaming-afreecatv-valorant-league-decider-b",
     "team1": "Team Liquid",
@@ -66877,44 +66125,6 @@
         "t2_score": 13,
         "round_diff": -3,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "289500",
-    "match_url": "https://www.vlr.gg/289500/howl-esports-vs-pcific-espor-challengers-league-turkey-2024-birlik-split-1-closed-qualifier-ubsf",
-    "team1": "HOWL Esports",
-    "team2": "PCIFIC Espor",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 12,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 1",
-    "series": "Closed Qualifier–Upper Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Lotus",
-        "t1_score": 11,
-        "t2_score": 13,
-        "round_diff": -2,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Split",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
       }
     ]
   },
@@ -67065,36 +66275,6 @@
         "t2_score": 13,
         "round_diff": -7,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "289498",
-    "match_url": "https://www.vlr.gg/289498/pcific-espor-vs-team-nvus-challengers-league-turkey-2024-birlik-split-1-closed-qualifier-ubqf",
-    "team1": "PCIFIC Espor",
-    "team2": "Team NVus",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 10,
-    "winner": 1,
-    "event": "Challengers League 2024 Türkiye Birlik: Split 1",
-    "series": "Closed Qualifier–Upper Quarterfinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Split",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Lotus",
-        "t1_score": 13,
-        "t2_score": 5,
-        "round_diff": 8,
-        "winner": 1
       }
     ]
   },
@@ -72696,52 +71876,6 @@
         "t1_score": 10,
         "t2_score": 13,
         "round_diff": -3,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "277246",
-    "match_url": "https://www.vlr.gg/277246/regnum-carya-esports-vs-pcific-lidoma-esports-reborn-2023-2-playoffs-gf",
-    "team1": "Regnum Carya Esports",
-    "team2": "PCIFIC Espor",
-    "score1": 1,
-    "score2": 3,
-    "total_rnd_diff": -15,
-    "winner": 0,
-    "event": "Lidoma Esports - Reborn 2023 #2",
-    "series": "Playoffs–GrandFinal",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Lotus",
-        "t1_score": 8,
-        "t2_score": 13,
-        "round_diff": -5,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Haven",
-        "t1_score": 14,
-        "t2_score": 12,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Bind",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 4,
-        "map_name": "Ascent",
-        "t1_score": 5,
-        "t2_score": 13,
-        "round_diff": -8,
         "winner": 0
       }
     ]
@@ -91674,120 +90808,6 @@
         "t1_score": 9,
         "t2_score": 13,
         "round_diff": -4,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "167894",
-    "match_url": "https://www.vlr.gg/167894/team-liquid-brazil-vs-jelly-e-amigas-game-changers-2023-brazil-series-1-qualifier-2-gf",
-    "team1": "Team Liquid Brazil",
-    "team2": "jelly e amigas",
-    "score1": 3,
-    "score2": 1,
-    "total_rnd_diff": 17,
-    "winner": 1,
-    "event": "Game Changers 2023 Brazil: Series 1",
-    "series": "Qualifier 2–Grand Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Pearl",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Icebox",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Ascent",
-        "t1_score": 13,
-        "t2_score": 4,
-        "round_diff": 9,
-        "winner": 1
-      },
-      {
-        "map_num": 4,
-        "map_name": "Fracture",
-        "t1_score": 13,
-        "t2_score": 2,
-        "round_diff": 11,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "168995",
-    "match_url": "https://www.vlr.gg/168995/g2-esports-vs-breakthru-challengers-league-north-america-w2",
-    "team1": "G2 Esports",
-    "team2": "BreakThru",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 5,
-    "winner": 1,
-    "event": "Challengers League: North America",
-    "series": "Split 1–Week 2",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Haven",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 13,
-        "t2_score": 9,
-        "round_diff": 4,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Pearl",
-        "t1_score": 13,
-        "t2_score": 8,
-        "round_diff": 5,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "167839",
-    "match_url": "https://www.vlr.gg/167839/xerxia-esports-vs-full-sense-challengers-league-thailand-split-1-w4",
-    "team1": "XERXIA Esports",
-    "team2": "FULL SENSE",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -11,
-    "winner": 0,
-    "event": "Challengers League Thailand: Split 1",
-    "series": "Group Stage–Week 4",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Fracture",
-        "t1_score": 5,
-        "t2_score": 13,
-        "round_diff": -8,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Ascent",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
         "winner": 0
       }
     ]
