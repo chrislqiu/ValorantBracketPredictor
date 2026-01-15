@@ -19,12 +19,11 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 ## TODO 
 
 - General Goals
-    - rescrape matches (last updated 1/5/2026)
     - wait for roster updates to make predictions for other regions 
     - implement a system where you can enter all the matchups and output final bracket
     - improve accuracy further?
 
-- v1 (64.8% Accuracy on Model using data from 1/4/2026)
+- v1 (64.8% Accuracy on Model using data from 1/14/2026)
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
 
