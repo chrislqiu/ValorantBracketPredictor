@@ -13,7 +13,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 7. *train_model.py* ➜ Takes in **matches_with_player_stats.csv**, creates the model and trains it on the data from the input, outputs **model.pkl**
 8. *predictor.py* ➜ Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
 
-> Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions, scrapers might not work if website html is changed
+> Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions, scrapers might not work if website html is changed  
 > Data Last Scraped: 1/14/2026
 
 ## TODO 
@@ -24,16 +24,16 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - implement a system where you can enter all the matchups and output final bracket
     - improve accuracy further?
 
-- v1 (63.8% Accuracy on Model using data from 1/4/2026)
+- v1 (64.8% Accuracy on Model using data from 1/4/2026)
     - [x] scrape map score for each map in a match
     - [x] train on winrate/ winrate diff, form/ form differential, round diff (when winning/losing)/ round diff differential
 
-- v2 (66.5% Accuracy on Model using data from 1/5/2026)
+- v2 (67.3% Accuracy on Model using data from 1/14/2026)
     - [x] scraper player stats
     - [x] include player statistics: acs, adr, kd, etc
     - [x] update and retrain model
 
-- v2.5 (67.2% Accuracy on Model using data from 1/14/2026)
+- v2.5 (67.7% Accuracy on Model using data from 1/14/2026)
     - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
 
 - v3

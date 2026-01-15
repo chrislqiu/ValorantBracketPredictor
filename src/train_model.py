@@ -50,7 +50,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 model = xgb.XGBClassifier(
     # num of trees, more trees -> more learning capacity
     # too few -> underfit, too many -> overfit
-    n_estimators=400,
+    n_estimators=600,
     # depth of each tree, "if else splits"
     # shallow -> generalize better, deep -> memorizes patterns, not direct related to the number of features (splits in tree)
     max_depth=3,
