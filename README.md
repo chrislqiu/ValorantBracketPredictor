@@ -13,14 +13,15 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 7. *train_model.py* ➜ Takes in **matches_with_player_stats.csv**, creates the model and trains it on the data from the input, outputs **model.pkl**
 8. *predictor.py* ➜ Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
 
-> Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions
+> Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions, scrapers might not work if website html is changed
+> Data Last Scraped: 1/14/2026
 
 ## TODO 
 
 - General Goals
     - rescrape matches (last updated 1/5/2026)
     - wait for roster updates to make predictions for other regions 
-    - verify no overfitting/errors
+    - implement a system where you can enter all the matchups and output final bracket
     - improve accuracy further?
 
 - v1 (63.8% Accuracy on Model using data from 1/4/2026)
@@ -32,7 +33,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - [x] include player statistics: acs, adr, kd, etc
     - [x] update and retrain model
 
--v2.5 (66% Accuracy on Model using data from 1/5/2026)
+-v2.5 (67.2% Accuracy on Model using data from 1/14/2026)
     - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
 
 - v3
