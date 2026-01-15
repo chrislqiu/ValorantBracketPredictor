@@ -19,7 +19,6 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 ## TODO 
 
 - General Goals
-    - wait for roster updates to make predictions for other regions 
     - implement a system where you can enter all the matchups and output final bracket
     - improve accuracy further?
 

@@ -46,6 +46,16 @@ def main():
     composite_score_diff = teams[t1]['composite_score'] - teams[t2]['composite_score']
 
     #predict
+    #v1
+    #pred = model.predict([[winrate_diff, form_diff, rnd_diff_diff]])[0]
+    #prob = model.predict_proba([[winrate_diff, form_diff, rnd_diff_diff]])[0]
+    #v2
+   #pred = model.predict([[winrate_diff, form_diff, rnd_diff_diff, team_avg_rating_diff, team_avg_acs_diff, team_avg_KD_diff, team_avg_kast_diff,
+   #                        team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff, team_avg_fkpr_diff]])[0]
+   #prob = model.predict_proba([[winrate_diff, form_diff, rnd_diff_diff, team_avg_rating_diff, team_avg_acs_diff, team_avg_KD_diff, team_avg_kast_diff,
+   #                              team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff, team_avg_fkpr_diff]])[0]
+
+    #v2.5
     pred = model.predict([[winrate_diff, form_diff, rnd_diff_diff, team_avg_rating_diff, team_avg_acs_diff, team_avg_KD_diff, team_avg_kast_diff,
                            team_avg_adr_diff, team_avg_kpr_diff, team_avg_apr_diff, team_avg_fkpr_diff, norm_rating_diff, norm_acs_diff, norm_KD_diff,
                            norm_kast_diff, norm_adr_diff, norm_kpr_diff, norm_apr_diff, norm_fkpr_diff, composite_score_diff]])[0]
