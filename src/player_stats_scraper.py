@@ -116,8 +116,6 @@ def create_team_stats_json(player_stats):
             team_abbrev = "PCF"
         elif alias == "al0rante":
             team_abbrev = "PCF"
-        elif alias == "al0rante":
-            team_abbrev = "PCF"
         elif alias == "seven":
             team_abbrev = "PCF"
         elif alias == "NINJA":
