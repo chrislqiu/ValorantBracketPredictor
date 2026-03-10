@@ -20,7 +20,6 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 
 - General Goals
     - implement a system where you can enter all the matchups and output final bracket
-    - improve accuracy further?
 
 - v1 (64.8% Accuracy on Model using data from 1/14/2026)
     - [x] scrape map score for each map in a match
@@ -35,7 +34,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
 
 - v3
-    - [ ] instead of pulling player stats of all time, pull them from matches scraped directly
+    - [ ] wait for more data for current year (new and updated roster), using older stats is not reflective of current form
 
 
 ## Predictions (More in Folder)
@@ -48,3 +47,14 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2P).png)
 * v2.5 Model Prediction using everthing above, with the addtion of normalized player stats
 ![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2.5P).png)
+
+## Results & Reflection
+
+![alt text](/predictions/VCT%202026%20Americas%20Result.png)
+
+* Overestimated ENVY because of inflated stats from Ascension (T2)
+* New year, new roster/big changes in many teams. This means past emperical data might not be entirely reflective of new team.
+* Despite mediocre performances historically, FURIA seems super solid
+
+* Going forward, should limit data to the current year, rather than pulling stats from years ago
+* Predictions should be only used for later in the year (Champions) for better data
