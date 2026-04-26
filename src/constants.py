@@ -5,7 +5,7 @@ TEAMS = {
     "NRG": "NRG",
     "C9": "Cloud9",
     "GEN": "Gen.G",
-    "DRX": "DRX",
+    "KRX": "Kiwoom DRX",
     "T1": "T1",
     "PRX": "Paper Rex",
     "TS": "Team Secret",
@@ -58,7 +58,7 @@ TEAMS = {
 }
 TEAMS_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/6961/loud", "https://www.vlr.gg/team/2406/furia",
             "https://www.vlr.gg/team/1034/nrg", "https://www.vlr.gg/team/188/cloud9", "https://www.vlr.gg/team/17/gen-g", 
-            "https://www.vlr.gg/team/8185/drx", "https://www.vlr.gg/team/14/t1", "https://www.vlr.gg/team/624/paper-rex", 
+            "https://www.vlr.gg/team/8185/kiwoom-drx", "https://www.vlr.gg/team/14/t1", "https://www.vlr.gg/team/624/paper-rex", 
             "https://www.vlr.gg/team/6199/team-secret", "https://www.vlr.gg/team/2593/fnatic", "https://www.vlr.gg/team/474/team-liquid",
             "https://www.vlr.gg/team/8877/karmine-corp", "https://www.vlr.gg/team/11058/g2-esports", "https://www.vlr.gg/team/4915/natus-vincere",
             "https://www.vlr.gg/team/120/100-thieves", "https://www.vlr.gg/team/5248/evil-geniuses", "https://www.vlr.gg/team/12010/bilibili-gaming",
