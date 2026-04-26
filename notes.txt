@@ -1,4 +1,5 @@
  venv\Scripts\Activate.ps1  <-- to activate venv to isolate packages
+ source venv/Scripts/activate <-- bash to activate venv
  pip freeze > requirements.txt <-- updates environment for venv
 
  Mistakes:
