@@ -11,6 +11,7 @@ def get_players():
 
     for u in TEAMS_URL:
         res = requests.get(u)
+        #print(f"Scraping {u}")
 
         soup = BeautifulSoup(res.text, "html.parser")
         # team roster item contains member info
@@ -22,19 +23,23 @@ def get_players():
 
             # if any of those above, exclude their stats
             if non_playing:
+                #print(member_card)
                 continue
             
             # finds and saves alias
             alias = card.find('div', class_="team-roster-item-name-alias").text.strip()
             players.append(alias)
+            #print(f'Players: {alias}')
         '''MANUALLY ADDING PLAYER BC TEAM NOT UPDATED ON ROSTER'''
         #players.append("")
+
 
 
     return players
 
 # scrapes players that are in the current list of teams
 def scrape_player(players_list):
+    print(URL)
     res = requests.get(URL)
 
     soup = BeautifulSoup(res.text, "html.parser")

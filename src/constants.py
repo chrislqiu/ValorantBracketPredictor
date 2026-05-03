@@ -43,7 +43,6 @@ TEAMS = {
     "WOL": "Wolves Esports",
     "NS" : "Nongshim RedForce",
     "PCF" : "PCIFIC Espor",
-    "ULF" : "ULF Esports",
     "FS" : "FULL SENSE",
     "VL" : "VARREL",
     "DRG" : "Dragon Ranger Gaming",
@@ -63,7 +62,7 @@ TEAMS_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/696
             "https://www.vlr.gg/team/5448/zeta-division", "https://www.vlr.gg/team/11328/funplus-phoenix", "https://www.vlr.gg/team/1119/all-gamers",
             "https://www.vlr.gg/team/12685/trace-esports", "https://www.vlr.gg/team/731/tyloo", "https://www.vlr.gg/team/12064/nova-esports",
             "https://www.vlr.gg/team/13576/jdg-esports", "https://www.vlr.gg/team/14137/titan-esports-club", "https://www.vlr.gg/team/13790/wolves-esports",
-            "https://www.vlr.gg/team/11060/nongshim-redforce","https://www.vlr.gg/team/3478/pcific-espor", "https://www.vlr.gg/team/18019/ulf-esports", 
+            "https://www.vlr.gg/team/11060/nongshim-redforce","https://www.vlr.gg/team/3478/pcific-espor",
             "https://www.vlr.gg/team/4050/full-sense", "https://www.vlr.gg/team/11229/varrel",
             "https://www.vlr.gg/team/11981/dragon-ranger-gaming", "https://www.vlr.gg/team/6392/eternal-fire"]
 
