@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 from constants import TEAMS, TEAMS_URL
 
-URL = "https://www.vlr.gg/stats/?event_group_id=all&region=all&min_rounds=200&min_rating=1600&agent=all&map_id=all&timespan=all"
+URL = "https://www.vlr.gg/stats/?event_group_id=86&region=all&min_rounds=0&min_rating=0&agent=all&map_id=all&timespan=all"
 
 # get each players name from the roster link above and add it to the set
 def get_players():
@@ -28,11 +28,8 @@ def get_players():
             alias = card.find('div', class_="team-roster-item-name-alias").text.strip()
             players.append(alias)
         '''MANUALLY ADDING PLAYER BC TEAM NOT UPDATED ON ROSTER'''
-        players.append("cNed")
-        players.append("qpert")
-        players.append("al0rante")
-        players.append("seven")
-        players.append("NINJA")
+        #players.append("")
+
 
     return players
 
@@ -108,18 +105,10 @@ def create_team_stats_json(player_stats):
             team_abbrev = "BLG"
         elif alias == "Reduxx":
             team_abbrev = "SEN"
-        elif alias == "xeus":
-            team_abbrev = "FUT"
-        elif alias == "cNed":
-            team_abbrev = "PCF"
-        elif alias == "qpert":
-            team_abbrev = "PCF"
-        elif alias == "al0rante":
-            team_abbrev = "PCF"
-        elif alias == "seven":
-            team_abbrev = "PCF"
-        elif alias == "NINJA":
-            team_abbrev = "PCF"
+        elif alias == "Xlele":
+            team_abbrev = "TE"
+
+
 
         # Skip if team not found in TEAMS 
         if team_abbrev not in TEAMS:

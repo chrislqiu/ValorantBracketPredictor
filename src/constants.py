@@ -41,20 +41,13 @@ TEAMS = {
     "JDG": "JDG Esports",
     "TEC": "Titan Esports Club",
     "WOL": "Wolves Esports",
-    "TLV": "Team Liquid Brazil",
-    "SRG": "Shopify Rebellion Gold",
-    "MIBR.GC": "MIBR GC",
-    "KRÜB": "KRÜ BLAZE",
-    "KC.GC": "Karmine Corp GC",
-    "G2G": "G2 Gozen",
-    "NOVA.GC": "Nova Esports GC",
-    "XIP.GC": "Xipto Esports GC",
     "NS" : "Nongshim RedForce",
     "PCF" : "PCIFIC Espor",
     "ULF" : "ULF Esports",
     "FS" : "FULL SENSE",
     "VL" : "VARREL",
-    "DRG" : "Dragon Ranger Gaming"
+    "DRG" : "Dragon Ranger Gaming",
+    "EF" : "Eternal Fire"
 }
 TEAMS_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/6961/loud", "https://www.vlr.gg/team/2406/furia",
             "https://www.vlr.gg/team/1034/nrg", "https://www.vlr.gg/team/188/cloud9", "https://www.vlr.gg/team/17/gen-g", 
@@ -70,11 +63,9 @@ TEAMS_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/696
             "https://www.vlr.gg/team/5448/zeta-division", "https://www.vlr.gg/team/11328/funplus-phoenix", "https://www.vlr.gg/team/1119/all-gamers",
             "https://www.vlr.gg/team/12685/trace-esports", "https://www.vlr.gg/team/731/tyloo", "https://www.vlr.gg/team/12064/nova-esports",
             "https://www.vlr.gg/team/13576/jdg-esports", "https://www.vlr.gg/team/14137/titan-esports-club", "https://www.vlr.gg/team/13790/wolves-esports",
-            "https://www.vlr.gg/team/7055/team-liquid-brazil", "https://www.vlr.gg/team/14278/shopify-rebellion-gold", "https://www.vlr.gg/team/8050/mibr-gc",
-            "https://www.vlr.gg/team/7511/kr-blaze", "https://www.vlr.gg/team/12255/karmine-corp-gc", "https://www.vlr.gg/team/6530/g2-gozen", 
-            "https://www.vlr.gg/team/13807/nova-esports-gc", "https://www.vlr.gg/team/15317/xipto-esports-gc", "https://www.vlr.gg/team/11060/nongshim-redforce",
-            "https://www.vlr.gg/team/3478/pcific-espor", "https://www.vlr.gg/team/18019/ulf-esports", "https://www.vlr.gg/team/4050/full-sense", "https://www.vlr.gg/team/11229/varrel",
-            "https://www.vlr.gg/team/11981/dragon-ranger-gaming"]
+            "https://www.vlr.gg/team/11060/nongshim-redforce","https://www.vlr.gg/team/3478/pcific-espor", "https://www.vlr.gg/team/18019/ulf-esports", 
+            "https://www.vlr.gg/team/4050/full-sense", "https://www.vlr.gg/team/11229/varrel",
+            "https://www.vlr.gg/team/11981/dragon-ranger-gaming", "https://www.vlr.gg/team/6392/eternal-fire"]
 
 #used for when a team has no players yet (used in team db builder to calc averages)
 DEFAULT_STATS = {
