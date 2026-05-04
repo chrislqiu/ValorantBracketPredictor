@@ -156,6 +156,10 @@ Stats I want:
 -APR
 -FKPR
 
+5/3/2026:
+
+Copied html of player stats list because the URL redirects to the base page, which does not contain the info I want.
+
 v2:
 200, 3, .05 -> 66.5%
 
@@ -173,3 +177,6 @@ v2.5:
 v2.5.1
 400, 3, .01 -> 65.6%
 - excludes team avg, includes normalized number
+
+v3
+250, 2, .01 -> 57.8%

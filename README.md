@@ -33,8 +33,11 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 - v2.5 (67.7% Accuracy on Model using data from 1/14/2026)
     - [x] log transformation to to create more normal distribution, small difference in like a certain stat has more weight
 
-- v3
-    - [ ] wait for more data for current year (new and updated roster), using older stats is not reflective of current form
+- v3 (56.2% Accuracy on Model using data from 1/2026 to 5/3/2026)
+    - [X] tested on data as of (5/3/26) with current year's data
+
+- v3.5
+    - [ ] wait for more matches up to VCT 2026 Shanghai (Stage 2 and Masters London 2026 remains)
 
 
 ## Predictions (More in Folder)
