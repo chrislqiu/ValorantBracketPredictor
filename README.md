@@ -14,7 +14,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 8. *predictor.py* ➜ Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
 
 > Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions, scrapers might not work if website html is changed  
-> Data Last Scraped: 1/14/2026
+> Data Last Scraped: 5/3/2026
 
 ## TODO 
 
