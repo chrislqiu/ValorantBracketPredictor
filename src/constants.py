@@ -25,7 +25,7 @@ TEAMS = {
     "TH": "Team Heretics",
     "KRÜ": "KRÜ Esports",
     "LEV": "LEVIATÁN",
-    "NV": "ENVY",
+    "ENVY": "ENVY",
     "BBL": "BBL Esports",
     "FUT": "FUT Esports",
     "M8": "Gentle Mates",

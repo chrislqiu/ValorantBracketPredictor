@@ -39,10 +39,13 @@ def get_players():
 
 # scrapes players that are in the current list of teams
 def scrape_player(players_list):
-    print(URL)
-    res = requests.get(URL)
 
-    soup = BeautifulSoup(res.text, "html.parser")
+    #res = requests.get(URL)
+
+    with open('player_stats.html', 'r', encoding='utf-8') as f:
+        res_text = f.read()
+
+    soup = BeautifulSoup(res_text, "html.parser")
 
     # body containing player rows
     body = soup.find('tbody')
@@ -112,6 +115,8 @@ def create_team_stats_json(player_stats):
             team_abbrev = "SEN"
         elif alias == "Xlele":
             team_abbrev = "TE"
+        elif alias == 'bud':
+            team_abbrev = "BLG"
 
 
 
