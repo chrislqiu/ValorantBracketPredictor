@@ -1,5 +1,209 @@
 [
   {
+    "match_id": "645497",
+    "match_url": "https://www.vlr.gg/645497/g2-esports-vs-envy-vct-2026-americas-stage-1-w4",
+    "team1": "G2 Esports",
+    "team2": "ENVY",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 1",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "645496",
+    "match_url": "https://www.vlr.gg/645496/loud-vs-cloud9-vct-2026-americas-stage-1-w4",
+    "team1": "LOUD",
+    "team2": "Cloud9",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 1",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "659483",
+    "match_url": "https://www.vlr.gg/659483/trace-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr1",
+    "team1": "Trace Esports",
+    "team2": "Dragon Ranger Gaming",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 1",
+    "series": "Playoffs–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "644682",
+    "match_url": "https://www.vlr.gg/644682/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-w5",
+    "team1": "Rex Regum Qeon",
+    "team2": "DetonatioN FocusMe",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 1",
+    "series": "Group Stage–Week 5",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Fracture",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "659482",
+    "match_url": "https://www.vlr.gg/659482/titan-esports-club-vs-tyloo-vct-2026-china-stage-1-lr1",
+    "team1": "Titan Esports Club",
+    "team2": "TYLOO",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -1,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 1",
+    "series": "Playoffs–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Pearl",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Fracture",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "644681",
+    "match_url": "https://www.vlr.gg/644681/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-w5",
+    "team1": "Paper Rex",
+    "team2": "Kiwoom DRX",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 1",
+    "series": "Group Stage–Week 5",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
     "match_id": "645495",
     "match_url": "https://www.vlr.gg/645495/furia-vs-sentinels-vct-2026-americas-stage-1-w4",
     "team1": "FURIA",
@@ -5262,44 +5466,6 @@
     ]
   },
   {
-    "match_id": "626118",
-    "match_url": "https://www.vlr.gg/626118/ulf-esports-vs-ucam-esports-club-emea-clash-2026-lbf-alpha",
-    "team1": "ULF Esports",
-    "team2": "UCAM Esports Club",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -2,
-    "winner": 0,
-    "event": "EMEA Clash 2026",
-    "series": "Main Event–Lower Final (Alpha)",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Bind",
-        "t1_score": 6,
-        "t2_score": 13,
-        "round_diff": -7,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Split",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 12,
-        "t2_score": 14,
-        "round_diff": -2,
-        "winner": 0
-      }
-    ]
-  },
-  {
     "match_id": "626113",
     "match_url": "https://www.vlr.gg/626113/giantx-vs-fut-esports-emea-clash-2026-ubf-alpha",
     "team1": "GIANTX",
@@ -5552,36 +5718,6 @@
         "t2_score": 13,
         "round_diff": -4,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "626120",
-    "match_url": "https://www.vlr.gg/626120/ulf-esports-vs-be-ikta-esports-emea-clash-2026-ur1-omega",
-    "team1": "ULF Esports",
-    "team2": "Beşiktaş Esports",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 8,
-    "winner": 1,
-    "event": "EMEA Clash 2026",
-    "series": "Main Event–Upper Round 1 (Omega)",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Pearl",
-        "t1_score": 13,
-        "t2_score": 7,
-        "round_diff": 6,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Split",
-        "t1_score": 14,
-        "t2_score": 12,
-        "round_diff": 2,
-        "winner": 1
       }
     ]
   },
@@ -7402,36 +7538,6 @@
       {
         "map_num": 3,
         "map_name": "Split",
-        "t1_score": 8,
-        "t2_score": 13,
-        "round_diff": -5,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "594762",
-    "match_url": "https://www.vlr.gg/594762/pcific-esports-vs-ulf-esports-vct-2026-emea-kickoff-lr1",
-    "team1": "PCIFIC Esports",
-    "team2": "ULF Esports",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -13,
-    "winner": 0,
-    "event": "VCT 2026: EMEA Kickoff",
-    "series": "Main Event–Lower Round 1",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Split",
-        "t1_score": 5,
-        "t2_score": 13,
-        "round_diff": -8,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Abyss",
         "t1_score": 8,
         "t2_score": 13,
         "round_diff": -5,
@@ -10538,256 +10644,6 @@
         "t2_score": 13,
         "round_diff": -8,
         "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "595300",
-    "match_url": "https://www.vlr.gg/595300/envy-vs-furia-for-those-who-dare-2025-gf",
-    "team1": "ENVY",
-    "team2": "FURIA",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 10,
-    "winner": 1,
-    "event": "For Those Who Dare 2025",
-    "series": "Playoffs–Grand Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Sunset",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Haven",
-        "t1_score": 13,
-        "t2_score": 8,
-        "round_diff": 5,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Split",
-        "t1_score": 13,
-        "t2_score": 2,
-        "round_diff": 11,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "595299",
-    "match_url": "https://www.vlr.gg/595299/furia-vs-qor-for-those-who-dare-2025-sf",
-    "team1": "FURIA",
-    "team2": "QoR",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 13,
-    "winner": 1,
-    "event": "For Those Who Dare 2025",
-    "series": "Playoffs–Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Bind",
-        "t1_score": 13,
-        "t2_score": 7,
-        "round_diff": 6,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "595298",
-    "match_url": "https://www.vlr.gg/595298/envy-vs-we-almost-did-it-for-those-who-dare-2025-sf",
-    "team1": "ENVY",
-    "team2": "We Almost Did It",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 11,
-    "winner": 1,
-    "event": "For Those Who Dare 2025",
-    "series": "Playoffs–Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Bind",
-        "t1_score": 13,
-        "t2_score": 7,
-        "round_diff": 6,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Sunset",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Corrode",
-        "t1_score": 13,
-        "t2_score": 4,
-        "round_diff": 9,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "593555",
-    "match_url": "https://www.vlr.gg/593555/eternal-fire-vs-giantx-project-blender-2025-gf",
-    "team1": "Eternal Fire",
-    "team2": "GIANTX",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -2,
-    "winner": 0,
-    "event": "Project Blender 2025",
-    "series": "Phase 4–Grand Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Abyss",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Sunset",
-        "t1_score": 13,
-        "t2_score": 5,
-        "round_diff": 8,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Bind",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "593556",
-    "match_url": "https://www.vlr.gg/593556/team-vitality-vs-team-liquid-academy-project-blender-2025-cf",
-    "team1": "Team Vitality",
-    "team2": "Team Liquid Academy",
-    "score1": 2,
-    "score2": 0,
-    "total_rnd_diff": 10,
-    "winner": 1,
-    "event": "Project Blender 2025",
-    "series": "Phase 4–Consolation Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Pearl",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Corrode",
-        "t1_score": 13,
-        "t2_score": 6,
-        "round_diff": 7,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "593554",
-    "match_url": "https://www.vlr.gg/593554/team-liquid-academy-vs-giantx-project-blender-2025-sf",
-    "team1": "Team Liquid Academy",
-    "team2": "GIANTX",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -9,
-    "winner": 0,
-    "event": "Project Blender 2025",
-    "series": "Phase 4–Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Abyss",
-        "t1_score": 5,
-        "t2_score": 13,
-        "round_diff": -8,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Pearl",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "593553",
-    "match_url": "https://www.vlr.gg/593553/eternal-fire-vs-team-vitality-project-blender-2025-sf",
-    "team1": "Eternal Fire",
-    "team2": "Team Vitality",
-    "score1": 2,
-    "score2": 1,
-    "total_rnd_diff": 0,
-    "winner": 1,
-    "event": "Project Blender 2025",
-    "series": "Phase 4–Semifinals",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Bind",
-        "t1_score": 6,
-        "t2_score": 13,
-        "round_diff": -7,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Split",
-        "t1_score": 13,
-        "t2_score": 8,
-        "round_diff": 5,
-        "winner": 1
       }
     ]
   }
