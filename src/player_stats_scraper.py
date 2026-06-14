@@ -31,7 +31,7 @@ def get_players():
             players.append(alias)
             #print(f'Players: {alias}')
         '''MANUALLY ADDING PLAYER BC TEAM NOT UPDATED ON ROSTER'''
-        #players.append("")
+        players.append("xeus")
 
 
 
@@ -117,6 +117,8 @@ def create_team_stats_json(player_stats):
             team_abbrev = "TE"
         elif alias == 'bud':
             team_abbrev = "BLG"
+        elif alias == 'xeus':
+            team_abbrev = "FUT"
 
 
 

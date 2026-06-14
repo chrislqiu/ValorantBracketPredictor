@@ -53,7 +53,7 @@ model = xgb.XGBClassifier(
     n_estimators=250,
     # depth of each tree, "if else splits"
     # shallow -> generalize better, deep -> memorizes patterns, not direct related to the number of features (splits in tree)
-    max_depth=2,
+    max_depth=3,
     # essentially step sizes, improving generalization the smaller the step
     learning_rate=0.01,
     # evals how wrong it is, penalizes confident wrong prediction, encourages calibrated probabilities
