@@ -2,6 +2,8 @@
  source venv/Scripts/activate <-- bash to activate venv
  pip freeze > requirements.txt <-- updates environment for venv
 
+ SHIFT+ALT+F to auto format
+
  Mistakes:
  - tried to push venv (LOL), put it in gitignore
 
@@ -179,4 +181,4 @@ v2.5.1
 - excludes team avg, includes normalized number
 
 v3
-250, 2, .01 -> 57.8%
+250, 3, .01 -> 63.6%
