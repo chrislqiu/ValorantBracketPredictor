@@ -14,7 +14,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 8. *predictor.py* ➜ Takes in **model.pkl** and **teams_database.json**, allows user to choose matchup between two teams, outputs percentage of victory for both teams
 
 > Note: model.pkl might be different, i.e. model(v1).pkl, model(v2).pkl, etc to indicate different versions, scrapers might not work if website html is changed  
-> Data Last Scraped: 6/14/2026
+> Data Last Scraped: 8/9/2026
 
 ## TODO 
 
@@ -36,8 +36,8 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 - v3 (63.6% Accuracy on Model using data from 1/2026 to 5/3/2026)
     - [X] tested on data as of (6/14/26) with current year's data
 
-- v3.5
-    - [ ] wait for more matches up to VCT 2026 Shanghai (Stage 2 and Masters London 2026 remains)
+- v4 (56.9% Accuracy on Model using data from 1/2026 to 8/9/2026)
+    - [ ] wait for more matches up to VCT 2026 Shanghai
 
 
 ## Predictions (More in Folder)
