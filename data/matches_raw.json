@@ -1,5 +1,6149 @@
 [
   {
+    "match_id": "706378",
+    "match_url": "https://www.vlr.gg/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage-2-w4",
+    "team1": "Evil Geniuses",
+    "team2": "NRG",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -18,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 1,
+        "t2_score": 13,
+        "round_diff": -12,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "729671",
+    "match_url": "https://www.vlr.gg/729671/gentle-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf",
+    "team1": "Gentle Mates",
+    "team2": "Enterprise Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "729670",
+    "match_url": "https://www.vlr.gg/729670/team-heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf",
+    "team1": "Team Heretics",
+    "team2": "Fire Flux Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "724628",
+    "match_url": "https://www.vlr.gg/724628/trace-esports-vs-funplus-phoenix-vct-2026-china-stage-2-lr2",
+    "team1": "Trace Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 14,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698915",
+    "match_url": "https://www.vlr.gg/698915/nongshim-redforce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4",
+    "team1": "Nongshim RedForce",
+    "team2": "Rex Regum Qeon",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -3,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698914",
+    "match_url": "https://www.vlr.gg/698914/varrel-vs-paper-rex-vct-2026-pacific-stage-2-w4",
+    "team1": "VARREL",
+    "team2": "Paper Rex",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "724627",
+    "match_url": "https://www.vlr.gg/724627/edward-gaming-vs-wolves-esports-vct-2026-china-stage-2-lr2",
+    "team1": "EDward Gaming",
+    "team2": "Wolves Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706377",
+    "match_url": "https://www.vlr.gg/706377/leviat-n-vs-mibr-vct-2026-americas-stage-2-w4",
+    "team1": "LEVIATÁN",
+    "team2": "MIBR",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706376",
+    "match_url": "https://www.vlr.gg/706376/kr-esports-vs-sentinels-vct-2026-americas-stage-2-w4",
+    "team1": "KRÜ Esports",
+    "team2": "Sentinels",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "729669",
+    "match_url": "https://www.vlr.gg/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf",
+    "team1": "Eternal Fire",
+    "team2": "Joblife",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "729668",
+    "match_url": "https://www.vlr.gg/729668/fut-esports-vs-giantx-vct-2026-emea-stage-2-ubqf",
+    "team1": "FUT Esports",
+    "team2": "GIANTX",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "724626",
+    "match_url": "https://www.vlr.gg/724626/keepbest-gaming-vs-funplus-phoenix-vct-2026-china-stage-2-lr1",
+    "team1": "KeepBest Gaming",
+    "team2": "FunPlus Phoenix",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698913",
+    "match_url": "https://www.vlr.gg/698913/global-esports-vs-zeta-division-vct-2026-pacific-stage-2-w4",
+    "team1": "Global Esports",
+    "team2": "ZETA DIVISION",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698912",
+    "match_url": "https://www.vlr.gg/698912/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-w4",
+    "team1": "KIWOOM DRX",
+    "team2": "T1",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "724625",
+    "match_url": "https://www.vlr.gg/724625/a-team-vs-wolves-esports-vct-2026-china-stage-2-lr1",
+    "team1": "A Team",
+    "team2": "Wolves Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706375",
+    "match_url": "https://www.vlr.gg/706375/g2-esports-vs-loud-vct-2026-americas-stage-2-w4",
+    "team1": "G2 Esports",
+    "team2": "LOUD",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 1,
+        "t2_score": 13,
+        "round_diff": -12,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706374",
+    "match_url": "https://www.vlr.gg/706374/100-thieves-vs-cloud9-vct-2026-americas-stage-2-w4",
+    "team1": "100 Thieves",
+    "team2": "Cloud9",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "729667",
+    "match_url": "https://www.vlr.gg/729667/fnatic-vs-enterprise-esports-vct-2026-emea-stage-2-ur1",
+    "team1": "FNATIC",
+    "team2": "Enterprise Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 5,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "724624",
+    "match_url": "https://www.vlr.gg/724624/edward-gaming-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
+    "team1": "EDward Gaming",
+    "team2": "Titan Esports Club",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 0,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698911",
+    "match_url": "https://www.vlr.gg/698911/gen-g-vs-full-sense-vct-2026-pacific-stage-2-w4",
+    "team1": "Gen.G",
+    "team2": "FULL SENSE",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698910",
+    "match_url": "https://www.vlr.gg/698910/team-secret-vs-detonation-focusme-vct-2026-pacific-stage-2-w4",
+    "team1": "Team Secret",
+    "team2": "DetonatioN FocusMe",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "724623",
+    "match_url": "https://www.vlr.gg/724623/all-gamers-vs-trace-esports-vct-2026-china-stage-2-ubqf",
+    "team1": "All Gamers",
+    "team2": "Trace Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706373",
+    "match_url": "https://www.vlr.gg/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4",
+    "team1": "ENVY",
+    "team2": "NRG",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706372",
+    "match_url": "https://www.vlr.gg/706372/evil-geniuses-vs-furia-vct-2026-americas-stage-2-w4",
+    "team1": "Evil Geniuses",
+    "team2": "FURIA",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 4",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "729665",
+    "match_url": "https://www.vlr.gg/729665/natus-vincere-vs-joblife-vct-2026-emea-stage-2-ur1",
+    "team1": "Natus Vincere",
+    "team2": "Joblife",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -1,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "729664",
+    "match_url": "https://www.vlr.gg/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1",
+    "team1": "GIANTX",
+    "team2": "Eintracht Frankfurt",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Play-Ins–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "724622",
+    "match_url": "https://www.vlr.gg/724622/wolves-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubqf",
+    "team1": "Wolves Esports",
+    "team2": "Dragon Ranger Gaming",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -7,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "724621",
+    "match_url": "https://www.vlr.gg/724621/funplus-phoenix-vs-jdg-esports-vct-2026-china-stage-2-ubqf",
+    "team1": "FunPlus Phoenix",
+    "team2": "JDG Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 6,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Upper Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 0,
+        "round_diff": 13,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "724620",
+    "match_url": "https://www.vlr.gg/724620/titan-esports-club-vs-keepbest-gaming-vct-2026-china-stage-2-ur1",
+    "team1": "Titan Esports Club",
+    "team2": "KeepBest Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "724619",
+    "match_url": "https://www.vlr.gg/724619/trace-esports-vs-a-team-vct-2026-china-stage-2-ur1",
+    "team1": "Trace Esports",
+    "team2": "A Team",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Play-Ins–Upper Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706371",
+    "match_url": "https://www.vlr.gg/706371/g2-esports-vs-sentinels-vct-2026-americas-stage-2-w3",
+    "team1": "G2 Esports",
+    "team2": "Sentinels",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706370",
+    "match_url": "https://www.vlr.gg/706370/cloud9-vs-kr-esports-vct-2026-americas-stage-2-w3",
+    "team1": "Cloud9",
+    "team2": "KRÜ Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 14,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712833",
+    "match_url": "https://www.vlr.gg/712833/fnatic-vs-team-heretics-vct-2026-emea-stage-2-w3",
+    "team1": "FNATIC",
+    "team2": "Team Heretics",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -15,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 0,
+        "t2_score": 13,
+        "round_diff": -13,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712832",
+    "match_url": "https://www.vlr.gg/712832/bbl-esports-vs-pcific-esports-vct-2026-emea-stage-2-w3",
+    "team1": "BBL Esports",
+    "team2": "PCIFIC Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698909",
+    "match_url": "https://www.vlr.gg/698909/zeta-division-vs-nongshim-redforce-vct-2026-pacific-stage-2-w3",
+    "team1": "ZETA DIVISION",
+    "team2": "Nongshim RedForce",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 0,
+        "t2_score": 13,
+        "round_diff": -13,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698908",
+    "match_url": "https://www.vlr.gg/698908/varrel-vs-kiwoom-drx-vct-2026-pacific-stage-2-w3",
+    "team1": "VARREL",
+    "team2": "KIWOOM DRX",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 1,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706369",
+    "match_url": "https://www.vlr.gg/706369/leviat-n-vs-nrg-vct-2026-americas-stage-2-w3",
+    "team1": "LEVIATÁN",
+    "team2": "NRG",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 2,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706368",
+    "match_url": "https://www.vlr.gg/706368/envy-vs-furia-vct-2026-americas-stage-2-w3",
+    "team1": "ENVY",
+    "team2": "FURIA",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 15,
+        "t2_score": 17,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712831",
+    "match_url": "https://www.vlr.gg/712831/karmine-corp-vs-team-liquid-vct-2026-emea-stage-2-w3",
+    "team1": "Karmine Corp",
+    "team2": "Team Liquid",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712830",
+    "match_url": "https://www.vlr.gg/712830/fut-esports-vs-team-vitality-vct-2026-emea-stage-2-w3",
+    "team1": "FUT Esports",
+    "team2": "Team Vitality",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698907",
+    "match_url": "https://www.vlr.gg/698907/full-sense-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w3",
+    "team1": "FULL SENSE",
+    "team2": "Rex Regum Qeon",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 0,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698906",
+    "match_url": "https://www.vlr.gg/698906/t1-vs-detonation-focusme-vct-2026-pacific-stage-2-w3",
+    "team1": "T1",
+    "team2": "DetonatioN FocusMe",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706367",
+    "match_url": "https://www.vlr.gg/706367/evil-geniuses-vs-mibr-vct-2026-americas-stage-2-w3",
+    "team1": "Evil Geniuses",
+    "team2": "MIBR",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706366",
+    "match_url": "https://www.vlr.gg/706366/cloud9-vs-loud-vct-2026-americas-stage-2-w3",
+    "team1": "Cloud9",
+    "team2": "LOUD",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712829",
+    "match_url": "https://www.vlr.gg/712829/giantx-vs-team-heretics-vct-2026-emea-stage-2-w3",
+    "team1": "GIANTX",
+    "team2": "Team Heretics",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712828",
+    "match_url": "https://www.vlr.gg/712828/bbl-esports-vs-gentle-mates-vct-2026-emea-stage-2-w3",
+    "team1": "BBL Esports",
+    "team2": "Gentle Mates",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698905",
+    "match_url": "https://www.vlr.gg/698905/global-esports-vs-gen-g-vct-2026-pacific-stage-2-w3",
+    "team1": "Global Esports",
+    "team2": "Gen.G",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 1,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698904",
+    "match_url": "https://www.vlr.gg/698904/team-secret-vs-paper-rex-vct-2026-pacific-stage-2-w3",
+    "team1": "Team Secret",
+    "team2": "Paper Rex",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706365",
+    "match_url": "https://www.vlr.gg/706365/100-thieves-vs-sentinels-vct-2026-americas-stage-2-w3",
+    "team1": "100 Thieves",
+    "team2": "Sentinels",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706364",
+    "match_url": "https://www.vlr.gg/706364/kr-esports-vs-g2-esports-vct-2026-americas-stage-2-w3",
+    "team1": "KRÜ Esports",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712827",
+    "match_url": "https://www.vlr.gg/712827/eternal-fire-vs-fnatic-vct-2026-emea-stage-2-w3",
+    "team1": "Eternal Fire",
+    "team2": "FNATIC",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712826",
+    "match_url": "https://www.vlr.gg/712826/natus-vincere-vs-pcific-esports-vct-2026-emea-stage-2-w3",
+    "team1": "Natus Vincere",
+    "team2": "PCIFIC Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698903",
+    "match_url": "https://www.vlr.gg/698903/full-sense-vs-zeta-division-vct-2026-pacific-stage-2-w3",
+    "team1": "FULL SENSE",
+    "team2": "ZETA DIVISION",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -3,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698902",
+    "match_url": "https://www.vlr.gg/698902/varrel-vs-detonation-focusme-vct-2026-pacific-stage-2-w3",
+    "team1": "VARREL",
+    "team2": "DetonatioN FocusMe",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 6,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712825",
+    "match_url": "https://www.vlr.gg/712825/gentle-mates-vs-team-vitality-vct-2026-emea-stage-2-w3",
+    "team1": "Gentle Mates",
+    "team2": "Team Vitality",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712824",
+    "match_url": "https://www.vlr.gg/712824/giantx-vs-team-liquid-vct-2026-emea-stage-2-w3",
+    "team1": "GIANTX",
+    "team2": "Team Liquid",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706362",
+    "match_url": "https://www.vlr.gg/706362/furia-vs-mibr-vct-2026-americas-stage-2-w2",
+    "team1": "FURIA",
+    "team2": "MIBR",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706361",
+    "match_url": "https://www.vlr.gg/706361/envy-vs-leviat-n-vct-2026-americas-stage-2-w2",
+    "team1": "ENVY",
+    "team2": "LEVIATÁN",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712823",
+    "match_url": "https://www.vlr.gg/712823/team-heretics-vs-karmine-corp-vct-2026-emea-stage-2-w2",
+    "team1": "Team Heretics",
+    "team2": "Karmine Corp",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -20,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712822",
+    "match_url": "https://www.vlr.gg/712822/bbl-esports-vs-natus-vincere-vct-2026-emea-stage-2-w2",
+    "team1": "BBL Esports",
+    "team2": "Natus Vincere",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701063",
+    "match_url": "https://www.vlr.gg/701063/nova-esports-vs-bilibili-gaming-vct-2026-china-stage-2-seeding",
+    "team1": "Nova Esports",
+    "team2": "Bilibili Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Seeding",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698901",
+    "match_url": "https://www.vlr.gg/698901/gen-g-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w2",
+    "team1": "Gen.G",
+    "team2": "Rex Regum Qeon",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701062",
+    "match_url": "https://www.vlr.gg/701062/funplus-phoenix-vs-wolves-esports-vct-2026-china-stage-2-seeding",
+    "team1": "FunPlus Phoenix",
+    "team2": "Wolves Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Seeding",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698899",
+    "match_url": "https://www.vlr.gg/698899/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-2-w2",
+    "team1": "Paper Rex",
+    "team2": "KIWOOM DRX",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 19,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706360",
+    "match_url": "https://www.vlr.gg/706360/sentinels-vs-loud-vct-2026-americas-stage-2-w2",
+    "team1": "Sentinels",
+    "team2": "LOUD",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 13,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706359",
+    "match_url": "https://www.vlr.gg/706359/g2-esports-vs-cloud9-vct-2026-americas-stage-2-w2",
+    "team1": "G2 Esports",
+    "team2": "Cloud9",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 19,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712821",
+    "match_url": "https://www.vlr.gg/712821/eternal-fire-vs-giantx-vct-2026-emea-stage-2-w2",
+    "team1": "Eternal Fire",
+    "team2": "GIANTX",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712820",
+    "match_url": "https://www.vlr.gg/712820/pcific-esports-vs-team-vitality-vct-2026-emea-stage-2-w2",
+    "team1": "PCIFIC Esports",
+    "team2": "Team Vitality",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701061",
+    "match_url": "https://www.vlr.gg/701061/tyloo-vs-xi-lai-gaming-vct-2026-china-stage-2-seeding",
+    "team1": "TYLOO",
+    "team2": "Xi Lai Gaming",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -7,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Seeding",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698898",
+    "match_url": "https://www.vlr.gg/698898/team-secret-vs-t1-vct-2026-pacific-stage-2-w2",
+    "team1": "Team Secret",
+    "team2": "T1",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -16,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701060",
+    "match_url": "https://www.vlr.gg/701060/jdg-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-2-seeding",
+    "team1": "JDG Esports",
+    "team2": "Dragon Ranger Gaming",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -1,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Seeding",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698897",
+    "match_url": "https://www.vlr.gg/698897/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-w2",
+    "team1": "Nongshim RedForce",
+    "team2": "Global Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706358",
+    "match_url": "https://www.vlr.gg/706358/100-thieves-vs-kr-esports-vct-2026-americas-stage-2-w2",
+    "team1": "100 Thieves",
+    "team2": "KRÜ Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 0,
+        "round_diff": 13,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706357",
+    "match_url": "https://www.vlr.gg/706357/furia-vs-nrg-vct-2026-americas-stage-2-w2",
+    "team1": "FURIA",
+    "team2": "NRG",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712819",
+    "match_url": "https://www.vlr.gg/712819/team-liquid-vs-fnatic-vct-2026-emea-stage-2-w2",
+    "team1": "Team Liquid",
+    "team2": "FNATIC",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712818",
+    "match_url": "https://www.vlr.gg/712818/fut-esports-vs-bbl-esports-vct-2026-emea-stage-2-w2",
+    "team1": "FUT Esports",
+    "team2": "BBL Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701059",
+    "match_url": "https://www.vlr.gg/701059/edward-gaming-vs-all-gamers-vct-2026-china-stage-2-seeding",
+    "team1": "EDward Gaming",
+    "team2": "All Gamers",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Seeding",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698895",
+    "match_url": "https://www.vlr.gg/698895/detonation-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2",
+    "team1": "DetonatioN FocusMe",
+    "team2": "Paper Rex",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 15,
+        "t2_score": 17,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701058",
+    "match_url": "https://www.vlr.gg/701058/trace-esports-vs-titan-esports-club-vct-2026-china-stage-2-seeding",
+    "team1": "Trace Esports",
+    "team2": "Titan Esports Club",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Seeding",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698894",
+    "match_url": "https://www.vlr.gg/698894/rex-regum-qeon-vs-zeta-division-vct-2026-pacific-stage-2-w2",
+    "team1": "Rex Regum Qeon",
+    "team2": "ZETA DIVISION",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706356",
+    "match_url": "https://www.vlr.gg/706356/envy-vs-mibr-vct-2026-americas-stage-2-w2",
+    "team1": "ENVY",
+    "team2": "MIBR",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -19,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706355",
+    "match_url": "https://www.vlr.gg/706355/evil-geniuses-vs-leviat-n-vct-2026-americas-stage-2-w2",
+    "team1": "Evil Geniuses",
+    "team2": "LEVIATÁN",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -16,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712817",
+    "match_url": "https://www.vlr.gg/712817/gentle-mates-vs-natus-vincere-vct-2026-emea-stage-2-w2",
+    "team1": "Gentle Mates",
+    "team2": "Natus Vincere",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712816",
+    "match_url": "https://www.vlr.gg/712816/eternal-fire-vs-team-heretics-vct-2026-emea-stage-2-w2",
+    "team1": "Eternal Fire",
+    "team2": "Team Heretics",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -16,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 0,
+        "t2_score": 13,
+        "round_diff": -13,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701057",
+    "match_url": "https://www.vlr.gg/701057/funplus-phoenix-vs-edward-gaming-vct-2026-china-stage-2-w3",
+    "team1": "FunPlus Phoenix",
+    "team2": "EDward Gaming",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698893",
+    "match_url": "https://www.vlr.gg/698893/t1-vs-varrel-vct-2026-pacific-stage-2-w2",
+    "team1": "T1",
+    "team2": "VARREL",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701056",
+    "match_url": "https://www.vlr.gg/701056/tyloo-vs-nova-esports-vct-2026-china-stage-2-w3",
+    "team1": "TYLOO",
+    "team2": "Nova Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698892",
+    "match_url": "https://www.vlr.gg/698892/global-esports-vs-full-sense-vct-2026-pacific-stage-2-w2",
+    "team1": "Global Esports",
+    "team2": "FULL SENSE",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712815",
+    "match_url": "https://www.vlr.gg/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2-w2",
+    "team1": "FNATIC",
+    "team2": "Karmine Corp",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -3,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 17,
+        "t2_score": 15,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712814",
+    "match_url": "https://www.vlr.gg/712814/fut-esports-vs-pcific-esports-vct-2026-emea-stage-2-w2",
+    "team1": "FUT Esports",
+    "team2": "PCIFIC Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 13,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701055",
+    "match_url": "https://www.vlr.gg/701055/all-gamers-vs-dragon-ranger-gaming-vct-2026-china-stage-2-w3",
+    "team1": "All Gamers",
+    "team2": "Dragon Ranger Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -3,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701054",
+    "match_url": "https://www.vlr.gg/701054/xi-lai-gaming-vs-wolves-esports-vct-2026-china-stage-2-w3",
+    "team1": "Xi Lai Gaming",
+    "team2": "Wolves Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701053",
+    "match_url": "https://www.vlr.gg/701053/edward-gaming-vs-nova-esports-vct-2026-china-stage-2-w3",
+    "team1": "EDward Gaming",
+    "team2": "Nova Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701052",
+    "match_url": "https://www.vlr.gg/701052/jdg-esports-vs-trace-esports-vct-2026-china-stage-2-w3",
+    "team1": "JDG Esports",
+    "team2": "Trace Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701051",
+    "match_url": "https://www.vlr.gg/701051/bilibili-gaming-vs-xi-lai-gaming-vct-2026-china-stage-2-w3",
+    "team1": "Bilibili Gaming",
+    "team2": "Xi Lai Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701050",
+    "match_url": "https://www.vlr.gg/701050/titan-esports-club-vs-all-gamers-vct-2026-china-stage-2-w3",
+    "team1": "Titan Esports Club",
+    "team2": "All Gamers",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712812",
+    "match_url": "https://www.vlr.gg/712812/team-vitality-vs-bbl-esports-vct-2026-emea-stage-2-w1",
+    "team1": "Team Vitality",
+    "team2": "BBL Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712811",
+    "match_url": "https://www.vlr.gg/712811/giantx-vs-karmine-corp-vct-2026-emea-stage-2-w1",
+    "team1": "GIANTX",
+    "team2": "Karmine Corp",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701049",
+    "match_url": "https://www.vlr.gg/701049/edward-gaming-vs-jdg-esports-vct-2026-china-stage-2-w2",
+    "team1": "EDward Gaming",
+    "team2": "JDG Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698891",
+    "match_url": "https://www.vlr.gg/698891/kiwoom-drx-vs-team-secret-vct-2026-pacific-stage-2-w1",
+    "team1": "KIWOOM DRX",
+    "team2": "Team Secret",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -15,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701048",
+    "match_url": "https://www.vlr.gg/701048/dragon-ranger-gaming-vs-wolves-esports-vct-2026-china-stage-2-w2",
+    "team1": "Dragon Ranger Gaming",
+    "team2": "Wolves Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698890",
+    "match_url": "https://www.vlr.gg/698890/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-2-w1",
+    "team1": "Nongshim RedForce",
+    "team2": "Gen.G",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701047",
+    "match_url": "https://www.vlr.gg/701047/trace-esports-vs-nova-esports-vct-2026-china-stage-2-w2",
+    "team1": "Trace Esports",
+    "team2": "Nova Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706354",
+    "match_url": "https://www.vlr.gg/706354/nrg-vs-mibr-vct-2026-americas-stage-2-w1",
+    "team1": "NRG",
+    "team2": "MIBR",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706353",
+    "match_url": "https://www.vlr.gg/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1",
+    "team1": "G2 Esports",
+    "team2": "100 Thieves",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712810",
+    "match_url": "https://www.vlr.gg/712810/team-heretics-vs-team-liquid-vct-2026-emea-stage-2-w1",
+    "team1": "Team Heretics",
+    "team2": "Team Liquid",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712809",
+    "match_url": "https://www.vlr.gg/712809/gentle-mates-vs-fut-esports-vct-2026-emea-stage-2-w1",
+    "team1": "Gentle Mates",
+    "team2": "FUT Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701046",
+    "match_url": "https://www.vlr.gg/701046/all-gamers-vs-xi-lai-gaming-vct-2026-china-stage-2-w2",
+    "team1": "All Gamers",
+    "team2": "Xi Lai Gaming",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698889",
+    "match_url": "https://www.vlr.gg/698889/paper-rex-vs-t1-vct-2026-pacific-stage-2-w1",
+    "team1": "Paper Rex",
+    "team2": "T1",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 15,
+        "t2_score": 17,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701045",
+    "match_url": "https://www.vlr.gg/701045/titan-esports-club-vs-bilibili-gaming-vct-2026-china-stage-2-w2",
+    "team1": "Titan Esports Club",
+    "team2": "Bilibili Gaming",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698888",
+    "match_url": "https://www.vlr.gg/698888/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-2-w1",
+    "team1": "Rex Regum Qeon",
+    "team2": "Global Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706352",
+    "match_url": "https://www.vlr.gg/706352/kr-esports-vs-loud-vct-2026-americas-stage-2-w1",
+    "team1": "KRÜ Esports",
+    "team2": "LOUD",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -8,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 15,
+        "t2_score": 17,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706351",
+    "match_url": "https://www.vlr.gg/706351/envy-vs-evil-geniuses-vct-2026-americas-stage-2-w1",
+    "team1": "ENVY",
+    "team2": "Evil Geniuses",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712808",
+    "match_url": "https://www.vlr.gg/712808/team-vitality-vs-natus-vincere-vct-2026-emea-stage-2-w1",
+    "team1": "Team Vitality",
+    "team2": "Natus Vincere",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712807",
+    "match_url": "https://www.vlr.gg/712807/karmine-corp-vs-eternal-fire-vct-2026-emea-stage-2-w1",
+    "team1": "Karmine Corp",
+    "team2": "Eternal Fire",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701044",
+    "match_url": "https://www.vlr.gg/701044/trace-esports-vs-edward-gaming-vct-2026-china-stage-2-w2",
+    "team1": "Trace Esports",
+    "team2": "EDward Gaming",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698887",
+    "match_url": "https://www.vlr.gg/698887/kiwoom-drx-vs-detonation-focusme-vct-2026-pacific-stage-2-w1",
+    "team1": "KIWOOM DRX",
+    "team2": "DetonatioN FocusMe",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701043",
+    "match_url": "https://www.vlr.gg/701043/tyloo-vs-funplus-phoenix-vct-2026-china-stage-2-w2",
+    "team1": "TYLOO",
+    "team2": "FunPlus Phoenix",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -1,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698886",
+    "match_url": "https://www.vlr.gg/698886/full-sense-vs-nongshim-redforce-vct-2026-pacific-stage-2-w1",
+    "team1": "FULL SENSE",
+    "team2": "Nongshim RedForce",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -3,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701042",
+    "match_url": "https://www.vlr.gg/701042/nova-esports-vs-jdg-esports-vct-2026-china-stage-2-w2",
+    "team1": "Nova Esports",
+    "team2": "JDG Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706350",
+    "match_url": "https://www.vlr.gg/706350/sentinels-vs-cloud9-vct-2026-americas-stage-2-w1",
+    "team1": "Sentinels",
+    "team2": "Cloud9",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706349",
+    "match_url": "https://www.vlr.gg/706349/leviat-n-vs-furia-vct-2026-americas-stage-2-w1",
+    "team1": "LEVIATÁN",
+    "team2": "FURIA",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 1,
+    "event": "VCT 2026: Americas Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 1,
+        "t2_score": 13,
+        "round_diff": -12,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712806",
+    "match_url": "https://www.vlr.gg/712806/pcific-esports-vs-gentle-mates-vct-2026-emea-stage-2-w1",
+    "team1": "PCIFIC Esports",
+    "team2": "Gentle Mates",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712805",
+    "match_url": "https://www.vlr.gg/712805/fnatic-vs-giantx-vct-2026-emea-stage-2-w1",
+    "team1": "FNATIC",
+    "team2": "GIANTX",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 6,
+    "winner": 1,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701041",
+    "match_url": "https://www.vlr.gg/701041/xi-lai-gaming-vs-dragon-ranger-gaming-vct-2026-china-stage-2-w2",
+    "team1": "Xi Lai Gaming",
+    "team2": "Dragon Ranger Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "698885",
+    "match_url": "https://www.vlr.gg/698885/team-secret-vs-varrel-vct-2026-pacific-stage-2-w1",
+    "team1": "Team Secret",
+    "team2": "VARREL",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701040",
+    "match_url": "https://www.vlr.gg/701040/all-gamers-vs-bilibili-gaming-vct-2026-china-stage-2-w2",
+    "team1": "All Gamers",
+    "team2": "Bilibili Gaming",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "698884",
+    "match_url": "https://www.vlr.gg/698884/gen-g-vs-zeta-division-vct-2026-pacific-stage-2-w1",
+    "team1": "Gen.G",
+    "team2": "ZETA DIVISION",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: Pacific Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "712804",
+    "match_url": "https://www.vlr.gg/712804/team-liquid-vs-eternal-fire-vct-2026-emea-stage-2-w1",
+    "team1": "Team Liquid",
+    "team2": "Eternal Fire",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -18,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "712803",
+    "match_url": "https://www.vlr.gg/712803/fut-esports-vs-natus-vincere-vct-2026-emea-stage-2-w1",
+    "team1": "FUT Esports",
+    "team2": "Natus Vincere",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: EMEA Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701039",
+    "match_url": "https://www.vlr.gg/701039/edward-gaming-vs-tyloo-vct-2026-china-stage-2-w2",
+    "team1": "EDward Gaming",
+    "team2": "TYLOO",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701038",
+    "match_url": "https://www.vlr.gg/701038/jdg-esports-vs-funplus-phoenix-vct-2026-china-stage-2-w2",
+    "team1": "JDG Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701037",
+    "match_url": "https://www.vlr.gg/701037/xi-lai-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w2",
+    "team1": "Xi Lai Gaming",
+    "team2": "Titan Esports Club",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 1,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701036",
+    "match_url": "https://www.vlr.gg/701036/wolves-esports-vs-all-gamers-vct-2026-china-stage-2-w2",
+    "team1": "Wolves Esports",
+    "team2": "All Gamers",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "708426",
+    "match_url": "https://www.vlr.gg/708426/100-thieves-vs-nrg-esports-world-cup-2026-gf",
+    "team1": "100 Thieves",
+    "team2": "NRG",
+    "score1": 3,
+    "score2": 1,
+    "total_rnd_diff": 4,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      },
+      {
+        "map_num": 4,
+        "map_name": "Ascent",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "708427",
+    "match_url": "https://www.vlr.gg/708427/nongshim-redforce-vs-bbl-esports-esports-world-cup-2026-cf",
+    "team1": "Nongshim RedForce",
+    "team2": "BBL Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 5,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Consolation Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701032",
+    "match_url": "https://www.vlr.gg/701032/tyloo-vs-trace-esports-vct-2026-china-stage-2-w1",
+    "team1": "TYLOO",
+    "team2": "Trace Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 18,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701031",
+    "match_url": "https://www.vlr.gg/701031/nova-esports-vs-funplus-phoenix-vct-2026-china-stage-2-w1",
+    "team1": "Nova Esports",
+    "team2": "FunPlus Phoenix",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "708425",
+    "match_url": "https://www.vlr.gg/708425/bbl-esports-vs-nrg-esports-world-cup-2026-sf",
+    "team1": "BBL Esports",
+    "team2": "NRG",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 0,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701030",
+    "match_url": "https://www.vlr.gg/701030/bilibili-gaming-vs-wolves-esports-vct-2026-china-stage-2-w1",
+    "team1": "Bilibili Gaming",
+    "team2": "Wolves Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "708424",
+    "match_url": "https://www.vlr.gg/708424/100-thieves-vs-nongshim-redforce-esports-world-cup-2026-sf",
+    "team1": "100 Thieves",
+    "team2": "Nongshim RedForce",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 3,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701029",
+    "match_url": "https://www.vlr.gg/701029/dragon-ranger-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w1",
+    "team1": "Dragon Ranger Gaming",
+    "team2": "Titan Esports Club",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "708420",
+    "match_url": "https://www.vlr.gg/708420/100-thieves-vs-mibr-esports-world-cup-2026-qf",
+    "team1": "100 Thieves",
+    "team2": "MIBR",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 16,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Fracture",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "708421",
+    "match_url": "https://www.vlr.gg/708421/team-vitality-vs-nongshim-redforce-esports-world-cup-2026-qf",
+    "team1": "Team Vitality",
+    "team2": "Nongshim RedForce",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701028",
+    "match_url": "https://www.vlr.gg/701028/jdg-esports-vs-tyloo-vct-2026-china-stage-2-w1",
+    "team1": "JDG Esports",
+    "team2": "TYLOO",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701027",
+    "match_url": "https://www.vlr.gg/701027/funplus-phoenix-vs-trace-esports-vct-2026-china-stage-2-w1",
+    "team1": "FunPlus Phoenix",
+    "team2": "Trace Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 14,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "708423",
+    "match_url": "https://www.vlr.gg/708423/gentle-mates-vs-nrg-esports-world-cup-2026-qf",
+    "team1": "Gentle Mates",
+    "team2": "NRG",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "708422",
+    "match_url": "https://www.vlr.gg/708422/team-heretics-vs-bbl-esports-esports-world-cup-2026-qf",
+    "team1": "Team Heretics",
+    "team2": "BBL Esports",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -12,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Playoffs–Quarterfinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "701026",
+    "match_url": "https://www.vlr.gg/701026/dragon-ranger-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-w1",
+    "team1": "Dragon Ranger Gaming",
+    "team2": "Bilibili Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "701025",
+    "match_url": "https://www.vlr.gg/701025/wolves-esports-vs-titan-esports-club-vct-2026-china-stage-2-w1",
+    "team1": "Wolves Esports",
+    "team2": "Titan Esports Club",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "VCT 2026: China Stage 2",
+    "series": "Group Stage–Week 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706768",
+    "match_url": "https://www.vlr.gg/706768/nongshim-redforce-vs-g2-esports-esports-world-cup-2026-decider-c",
+    "team1": "Nongshim RedForce",
+    "team2": "G2 Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 2,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Decider (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706773",
+    "match_url": "https://www.vlr.gg/706773/mibr-vs-all-gamers-esports-world-cup-2026-decider-d",
+    "team1": "MIBR",
+    "team2": "All Gamers",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 14,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Decider (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706763",
+    "match_url": "https://www.vlr.gg/706763/nrg-vs-karmine-corp-esports-world-cup-2026-decider-b",
+    "team1": "NRG",
+    "team2": "Karmine Corp",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Decider (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Fracture",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706758",
+    "match_url": "https://www.vlr.gg/706758/bbl-esports-vs-edward-gaming-esports-world-cup-2026-decider-a",
+    "team1": "BBL Esports",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 17,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Decider (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706767",
+    "match_url": "https://www.vlr.gg/706767/xi-lai-gaming-vs-g2-esports-esports-world-cup-2026-elim-c",
+    "team1": "Xi Lai Gaming",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Elimination (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706766",
+    "match_url": "https://www.vlr.gg/706766/gentle-mates-vs-nongshim-redforce-esports-world-cup-2026-winners-c",
+    "team1": "Gentle Mates",
+    "team2": "Nongshim RedForce",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Winner's (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 15,
+        "t2_score": 17,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706771",
+    "match_url": "https://www.vlr.gg/706771/mibr-vs-team-heretics-esports-world-cup-2026-winners-d",
+    "team1": "MIBR",
+    "team2": "Team Heretics",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -13,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Winner's (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706772",
+    "match_url": "https://www.vlr.gg/706772/global-esports-vs-all-gamers-esports-world-cup-2026-elim-d",
+    "team1": "Global Esports",
+    "team2": "All Gamers",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Elimination (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706762",
+    "match_url": "https://www.vlr.gg/706762/karmine-corp-vs-paper-rex-esports-world-cup-2026-elim-b",
+    "team1": "Karmine Corp",
+    "team2": "Paper Rex",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Elimination (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Fracture",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706761",
+    "match_url": "https://www.vlr.gg/706761/team-vitality-vs-nrg-esports-world-cup-2026-winners-b",
+    "team1": "Team Vitality",
+    "team2": "NRG",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 0,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Winner's (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 16,
+        "t2_score": 14,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706756",
+    "match_url": "https://www.vlr.gg/706756/100-thieves-vs-bbl-esports-esports-world-cup-2026-winners-a",
+    "team1": "100 Thieves",
+    "team2": "BBL Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": -4,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Winner's (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 14,
+        "t2_score": 12,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706757",
+    "match_url": "https://www.vlr.gg/706757/rex-regum-qeon-vs-edward-gaming-esports-world-cup-2026-elim-a",
+    "team1": "Rex Regum Qeon",
+    "team2": "EDward Gaming",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Elimination (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706765",
+    "match_url": "https://www.vlr.gg/706765/nongshim-redforce-vs-g2-esports-esports-world-cup-2026-opening-c",
+    "team1": "Nongshim RedForce",
+    "team2": "G2 Esports",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706764",
+    "match_url": "https://www.vlr.gg/706764/gentle-mates-vs-xi-lai-gaming-esports-world-cup-2026-opening-c",
+    "team1": "Gentle Mates",
+    "team2": "Xi Lai Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706769",
+    "match_url": "https://www.vlr.gg/706769/mibr-vs-global-esports-esports-world-cup-2026-opening-d",
+    "team1": "MIBR",
+    "team2": "Global Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 21,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706770",
+    "match_url": "https://www.vlr.gg/706770/all-gamers-vs-team-heretics-esports-world-cup-2026-opening-d",
+    "team1": "All Gamers",
+    "team2": "Team Heretics",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -3,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706760",
+    "match_url": "https://www.vlr.gg/706760/nrg-vs-paper-rex-esports-world-cup-2026-opening-b",
+    "team1": "NRG",
+    "team2": "Paper Rex",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Fracture",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706759",
+    "match_url": "https://www.vlr.gg/706759/team-vitality-vs-karmine-corp-esports-world-cup-2026-opening-b",
+    "team1": "Team Vitality",
+    "team2": "Karmine Corp",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "706754",
+    "match_url": "https://www.vlr.gg/706754/rex-regum-qeon-vs-100-thieves-esports-world-cup-2026-opening-a",
+    "team1": "Rex Regum Qeon",
+    "team2": "100 Thieves",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "706755",
+    "match_url": "https://www.vlr.gg/706755/bbl-esports-vs-edward-gaming-esports-world-cup-2026-opening-a",
+    "team1": "BBL Esports",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 14,
+    "winner": 1,
+    "event": "Esports World Cup 2026",
+    "series": "Group Stage–Opening (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 16,
+        "t2_score": 18,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "670471",
+    "match_url": "https://www.vlr.gg/670471/paper-rex-vs-leviat-n-valorant-masters-london-2026-gf",
+    "team1": "Paper Rex",
+    "team2": "LEVIATÁN",
+    "score1": 2,
+    "score2": 3,
+    "total_rnd_diff": -5,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Fracture",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 4,
+        "map_name": "Ascent",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 5,
+        "map_name": "Lotus",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670477",
+    "match_url": "https://www.vlr.gg/670477/edward-gaming-vs-leviat-n-valorant-masters-london-2026-lbf",
+    "team1": "EDward Gaming",
+    "team2": "LEVIATÁN",
+    "score1": 0,
+    "score2": 3,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Lower Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Pearl",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670476",
+    "match_url": "https://www.vlr.gg/670476/team-vitality-vs-leviat-n-valorant-masters-london-2026-lr3",
+    "team1": "Team Vitality",
+    "team2": "LEVIATÁN",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -18,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Lower Round 3",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670470",
+    "match_url": "https://www.vlr.gg/670470/edward-gaming-vs-paper-rex-valorant-masters-london-2026-ubf",
+    "team1": "EDward Gaming",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -7,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Upper Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 15,
+        "t2_score": 13,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Fracture",
+        "t1_score": 12,
+        "t2_score": 14,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670474",
+    "match_url": "https://www.vlr.gg/670474/team-vitality-vs-fut-esports-valorant-masters-london-2026-lr2",
+    "team1": "Team Vitality",
+    "team2": "FUT Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 17,
+    "winner": 1,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 2,
+        "round_diff": 11,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "670475",
+    "match_url": "https://www.vlr.gg/670475/xi-lai-gaming-vs-leviat-n-valorant-masters-london-2026-lr2",
+    "team1": "Xi Lai Gaming",
+    "team2": "LEVIATÁN",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -16,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Lower Round 2",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Haven",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670469",
+    "match_url": "https://www.vlr.gg/670469/paper-rex-vs-team-vitality-valorant-masters-london-2026-ubsf",
+    "team1": "Paper Rex",
+    "team2": "Team Vitality",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 10,
+    "winner": 1,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Fracture",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "670468",
+    "match_url": "https://www.vlr.gg/670468/xi-lai-gaming-vs-edward-gaming-valorant-masters-london-2026-ubsf",
+    "team1": "Xi Lai Gaming",
+    "team2": "EDward Gaming",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Upper Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Breeze",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Split",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670472",
+    "match_url": "https://www.vlr.gg/670472/g2-esports-vs-fut-esports-valorant-masters-london-2026-lr1",
+    "team1": "G2 Esports",
+    "team2": "FUT Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -9,
+    "winner": 0,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 15,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "670473",
+    "match_url": "https://www.vlr.gg/670473/leviat-n-vs-team-heretics-valorant-masters-london-2026-lr1",
+    "team1": "LEVIATÁN",
+    "team2": "Team Heretics",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Valorant Masters London 2026",
+    "series": "Playoffs–Lower Round 1",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
     "match_id": "670464",
     "match_url": "https://www.vlr.gg/670464/g2-esports-vs-xi-lai-gaming-valorant-masters-london-2026-ubqf",
     "team1": "G2 Esports",
@@ -899,7 +7043,7 @@
     "match_id": "675209",
     "match_url": "https://www.vlr.gg/675209/nongshim-redforce-vs-kiwoom-drx-esports-world-cup-2026-pacific-qualifier-stage-2-lr2",
     "team1": "Nongshim RedForce",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 2,
     "score2": 0,
     "total_rnd_diff": 9,
@@ -1931,7 +8075,7 @@
     "match_id": "675207",
     "match_url": "https://www.vlr.gg/675207/full-sense-vs-kiwoom-drx-esports-world-cup-2026-pacific-qualifier-stage-2-lr1",
     "team1": "FULL SENSE",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 1,
     "score2": 2,
     "total_rnd_diff": -11,
@@ -2271,7 +8415,7 @@
     "match_id": "675202",
     "match_url": "https://www.vlr.gg/675202/rex-regum-qeon-vs-kiwoom-drx-esports-world-cup-2026-pacific-qualifier-stage-2-ubqf",
     "team1": "Rex Regum Qeon",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 2,
     "score2": 0,
     "total_rnd_diff": 11,
@@ -3821,7 +9965,7 @@
     "match_id": "666497",
     "match_url": "https://www.vlr.gg/666497/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-lr2",
     "team1": "Paper Rex",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 2,
     "score2": 1,
     "total_rnd_diff": 9,
@@ -4078,7 +10222,7 @@
   {
     "match_id": "666495",
     "match_url": "https://www.vlr.gg/666495/kiwoom-drx-vs-nongshim-redforce-vct-2026-pacific-stage-1-lr1",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "Nongshim RedForce",
     "score1": 2,
     "score2": 1,
@@ -4556,7 +10700,7 @@
   {
     "match_id": "666489",
     "match_url": "https://www.vlr.gg/666489/kiwoom-drx-vs-full-sense-vct-2026-pacific-stage-1-ur1",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "FULL SENSE",
     "score1": 0,
     "score2": 2,
@@ -4919,7 +11063,7 @@
     "match_id": "644681",
     "match_url": "https://www.vlr.gg/644681/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-w5",
     "team1": "Paper Rex",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 2,
     "score2": 0,
     "total_rnd_diff": 16,
@@ -5787,7 +11931,7 @@
     "match_id": "644673",
     "match_url": "https://www.vlr.gg/644673/gen-g-vs-kiwoom-drx-vct-2026-pacific-stage-1-w4",
     "team1": "Gen.G",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 1,
     "score2": 2,
     "total_rnd_diff": 5,
@@ -6542,7 +12686,7 @@
   {
     "match_id": "644667",
     "match_url": "https://www.vlr.gg/644667/kiwoom-drx-vs-global-esports-vct-2026-pacific-stage-1-w3",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "Global Esports",
     "score1": 2,
     "score2": 0,
@@ -7683,7 +13827,7 @@
     "match_id": "644659",
     "match_url": "https://www.vlr.gg/644659/nongshim-redforce-vs-drx-vct-2026-pacific-stage-1-w2",
     "team1": "Nongshim RedForce",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 1,
     "score2": 2,
     "total_rnd_diff": -3,
@@ -8211,7 +14355,7 @@
     "match_id": "644656",
     "match_url": "https://www.vlr.gg/644656/team-secret-vs-drx-vct-2026-pacific-stage-1-w1",
     "team1": "Team Secret",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 0,
     "score2": 2,
     "total_rnd_diff": -10,
@@ -11152,7 +17296,7 @@
   {
     "match_id": "595657",
     "match_url": "https://www.vlr.gg/595657/drx-vs-paper-rex-vct-2026-pacific-kickoff-lr4",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "Paper Rex",
     "score1": 1,
     "score2": 2,
@@ -11367,7 +17511,7 @@
     "match_id": "595655",
     "match_url": "https://www.vlr.gg/595655/full-sense-vs-drx-vct-2026-pacific-kickoff-lr3",
     "team1": "FULL SENSE",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 0,
     "score2": 2,
     "total_rnd_diff": -14,
@@ -11578,7 +17722,7 @@
   {
     "match_id": "595653",
     "match_url": "https://www.vlr.gg/595653/drx-vs-zeta-division-vct-2026-pacific-kickoff-lr2",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "ZETA DIVISION",
     "score1": 2,
     "score2": 1,
@@ -12532,7 +18676,7 @@
   {
     "match_id": "595646",
     "match_url": "https://www.vlr.gg/595646/drx-vs-t1-vct-2026-pacific-kickoff-mr2",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "T1",
     "score1": 0,
     "score2": 2,
@@ -13107,7 +19251,7 @@
     "match_id": "595643",
     "match_url": "https://www.vlr.gg/595643/varrel-vs-drx-vct-2026-pacific-kickoff-mr1",
     "team1": "VARREL",
-    "team2": "Kiwoom DRX",
+    "team2": "KIWOOM DRX",
     "score1": 1,
     "score2": 2,
     "total_rnd_diff": -8,
@@ -13884,7 +20028,7 @@
   {
     "match_id": "595635",
     "match_url": "https://www.vlr.gg/595635/drx-vs-full-sense-vct-2026-pacific-kickoff-ur2",
-    "team1": "Kiwoom DRX",
+    "team1": "KIWOOM DRX",
     "team2": "FULL SENSE",
     "score1": 1,
     "score2": 2,
@@ -15007,142 +21151,6 @@
         "t1_score": 13,
         "t2_score": 6,
         "round_diff": 7,
-        "winner": 1
-      }
-    ]
-  },
-  {
-    "match_id": "590638",
-    "match_url": "https://www.vlr.gg/590638/gen-g-vs-paper-rex-valorant-radiant-international-invitational-gf",
-    "team1": "Gen.G",
-    "team2": "Paper Rex",
-    "score1": 1,
-    "score2": 3,
-    "total_rnd_diff": -14,
-    "winner": 0,
-    "event": "Valorant Radiant International Invitational",
-    "series": "Main Event–Grand Final",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Abyss",
-        "t1_score": 13,
-        "t2_score": 5,
-        "round_diff": 8,
-        "winner": 1
-      },
-      {
-        "map_num": 2,
-        "map_name": "Split",
-        "t1_score": 5,
-        "t2_score": 13,
-        "round_diff": -8,
-        "winner": 0
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 3,
-        "t2_score": 13,
-        "round_diff": -10,
-        "winner": 0
-      },
-      {
-        "map_num": 4,
-        "map_name": "Bind",
-        "t1_score": 9,
-        "t2_score": 13,
-        "round_diff": -4,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "590637",
-    "match_url": "https://www.vlr.gg/590637/funplus-phoenix-vs-paper-rex-valorant-radiant-international-invitational-sf",
-    "team1": "FunPlus Phoenix",
-    "team2": "Paper Rex",
-    "score1": 0,
-    "score2": 2,
-    "total_rnd_diff": -15,
-    "winner": 0,
-    "event": "Valorant Radiant International Invitational",
-    "series": "Main Event–Semifinal",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Split",
-        "t1_score": 4,
-        "t2_score": 13,
-        "round_diff": -9,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Bind",
-        "t1_score": 7,
-        "t2_score": 13,
-        "round_diff": -6,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "590636",
-    "match_url": "https://www.vlr.gg/590636/g2-esports-vs-paper-rex-valorant-radiant-international-invitational-qf",
-    "team1": "G2 Esports",
-    "team2": "Paper Rex",
-    "score1": 1,
-    "score2": 2,
-    "total_rnd_diff": -11,
-    "winner": 0,
-    "event": "Valorant Radiant International Invitational",
-    "series": "Main Event–Quarterfinal",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Split",
-        "t1_score": 10,
-        "t2_score": 13,
-        "round_diff": -3,
-        "winner": 0
-      },
-      {
-        "map_num": 2,
-        "map_name": "Corrode",
-        "t1_score": 13,
-        "t2_score": 10,
-        "round_diff": 3,
-        "winner": 1
-      },
-      {
-        "map_num": 3,
-        "map_name": "Haven",
-        "t1_score": 2,
-        "t2_score": 13,
-        "round_diff": -11,
-        "winner": 0
-      }
-    ]
-  },
-  {
-    "match_id": "590635",
-    "match_url": "https://www.vlr.gg/590635/nova-esports-vs-bilibili-gaming-valorant-radiant-international-invitational-d2",
-    "team1": "Nova Esports",
-    "team2": "Bilibili Gaming",
-    "score1": 1,
-    "score2": 0,
-    "total_rnd_diff": 2,
-    "winner": 1,
-    "event": "Valorant Radiant International Invitational",
-    "series": "Main Event–Day 2",
-    "maps": [
-      {
-        "map_num": 1,
-        "map_name": "Pearl",
-        "t1_score": 13,
-        "t2_score": 11,
-        "round_diff": 2,
         "winner": 1
       }
     ]
