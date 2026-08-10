@@ -36,7 +36,7 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 - v3 (63.6% Accuracy on Model using data from 1/2026 to 5/3/2026)
     - [X] tested on data as of (6/14/26) with current year's data
 
-- v4 (56.9% Accuracy on Model using data from 1/2026 to 8/9/2026)
+- v4 (59.3% Accuracy on Model using data from 1/2026 to 8/9/2026)
     - [ ] wait for more matches up to VCT 2026 Shanghai
 
 
