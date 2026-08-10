@@ -19,8 +19,15 @@ def calculate_baselines(player_stats):
     for stat in stats_to_calc:
         all_values = []
         for team_data in player_stats.values():
-            if stat in team_data:
-                all_values.extend(team_data[stat])
+            if stat in team_data and team_data[stat]:
+                # Filter out None values and convert to float
+                for value in team_data[stat]:
+                    if value is not None:
+                        try:
+                            all_values.append(float(value))
+                        except (ValueError, TypeError):
+                            # Skip values that can't be converted to float
+                            continue
         
         if all_values:
             baselines[stat] = np.median(all_values)
@@ -66,10 +73,29 @@ for _, match in df.iterrows():
         
         team_stats[team2]['round_diffs'].append(-match['total_rnd_diff'])
 
+# Helper function to safely get mean of stats, ignoring None values
+def safe_mean(stats_list):
+    if not stats_list:
+        return None
+    # Filter out None values
+    valid_values = [x for x in stats_list if x is not None]
+    if not valid_values:
+        return None
+    return np.mean(valid_values)
+
 # collect stats for normalization
 team_records = []
 
 for team, data in team_stats.items():
+    # Safely get team stats
+    team_rating = safe_mean(player_stats.get(team, {}).get('rating', []))
+    team_acs = safe_mean(player_stats.get(team, {}).get('acs', []))
+    team_KD = safe_mean(player_stats.get(team, {}).get('KD', []))
+    team_kast = safe_mean(player_stats.get(team, {}).get('kast', []))
+    team_adr = safe_mean(player_stats.get(team, {}).get('adr', []))
+    team_kpr = safe_mean(player_stats.get(team, {}).get('kpr', []))
+    team_apr = safe_mean(player_stats.get(team, {}).get('apr', []))
+    team_fkpr = safe_mean(player_stats.get(team, {}).get('fkpr', []))
 
     if data['matches'] > 0:
         # calc winrate
@@ -93,31 +119,33 @@ for team, data in team_stats.items():
         'winrate': winrate,
         'recent_form': recent_form,
         'avg_round_diff': avg_round_diff,
-        'rating': np.mean(player_stats[team]['rating']) if player_stats[team]['rating'] else 1.0,
-        'acs': np.mean(player_stats[team]['acs']) if player_stats[team]['acs'] else 197.0,
-        'KD': np.mean(player_stats[team]['KD']) if player_stats[team]['KD'] else 1.0,
-        'kast': np.mean(player_stats[team]['kast']) if player_stats[team]['kast'] else 0.72,
-        'adr': np.mean(player_stats[team]['adr']) if player_stats[team]['adr'] else 132.0,
-        'kpr': np.mean(player_stats[team]['kpr']) if player_stats[team]['kpr'] else 0.7,
-        'apr': np.mean(player_stats[team]['apr']) if player_stats[team]['apr'] else 0.25,
-        'fkpr': np.mean(player_stats[team]['fkpr']) if player_stats[team]['fkpr'] else 0.1,
+        'rating': team_rating if team_rating is not None else 1.0,
+        'acs': team_acs if team_acs is not None else 197.0,
+        'KD': team_KD if team_KD is not None else 1.0,
+        'kast': team_kast if team_kast is not None else 0.72,
+        'adr': team_adr if team_adr is not None else 132.0,
+        'kpr': team_kpr if team_kpr is not None else 0.7,
+        'apr': team_apr if team_apr is not None else 0.25,
+        'fkpr': team_fkpr if team_fkpr is not None else 0.1,
         'total_matches': data['matches']
     })
 
 # save as dataframe for normalization
 df_teams = pd.DataFrame(team_records)
 
-# log transform multiplicative stats, 1.1 -> 1.2 kd is not the same as 1.2 -> 1.3
+# Log transform multiplicative stats
 mult_stats = ['KD', 'kpr', 'fkpr']
-# loops can checks to make sure stats exist
 for stat in mult_stats:
     if stat in df_teams.columns:
-        # logging the value
-        df_teams[f'{stat}_norm'] = np.log(df_teams[stat] / PRO_BASELINES[stat])
+        # Ensure we have valid values before logging
+        valid_mask = df_teams[stat] > 0
+        df_teams[f'{stat}_norm'] = np.nan  # Initialize with NaN
+        df_teams.loc[valid_mask, f'{stat}_norm'] = np.log(
+            df_teams.loc[valid_mask, stat] / PRO_BASELINES.get(stat, 1.0)
+        )
 
-# log it transformation, bc we are dealing with percentages
+# Logit transformation for percentages
 percent_stats = ['kast', 'winrate', 'recent_form']
-# used in clipping to prevent log(0) and log(inf or 1/0)
 epsilon = 0.001
 for stat in percent_stats:
     if stat in df_teams.columns:
@@ -129,17 +157,20 @@ for stat in percent_stats:
         logit_base = np.log(base_clipped / (1 - base_clipped))
         df_teams[f'{stat}_norm'] = logit_team - logit_base
 
-# additive stats, since increase is proportional
+# Additive stats
 linear_stats = ['acs', 'adr', 'apr', 'rating']
 for stat in linear_stats:
     if stat in df_teams.columns:
-        df_teams[f'{stat}_norm'] = df_teams[stat] - PRO_BASELINES[stat]
+        df_teams[f'{stat}_norm'] = df_teams[stat] - PRO_BASELINES.get(stat, 0)
 
-# zscore for the stats
+# Z-score normalization (ignore NaN values)
 for norm_col in [col for col in df_teams.columns if col.endswith('_norm')]:
-    df_teams[norm_col] = stats.zscore(df_teams[norm_col], nan_policy='omit')
+    if df_teams[norm_col].notna().sum() > 1:  # Need at least 2 values for zscore
+        df_teams[norm_col] = stats.zscore(df_teams[norm_col].fillna(0), nan_policy='omit')
+    else:
+        df_teams[norm_col] = df_teams[norm_col].fillna(0)
 
-# weight importance
+# Weight importance
 weights = {
     'rating_norm': 0.25,
     'kpr_norm': 0.15,
@@ -184,7 +215,6 @@ for _, row in df_teams.iterrows():
         'total_matches': int(row['total_matches']),
         
         'normalized': normalized_scores,
-        # overall team strength
         'composite_score': round(float(row['composite_score']), 3),
     }
 

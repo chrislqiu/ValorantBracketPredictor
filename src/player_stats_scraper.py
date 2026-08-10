@@ -11,37 +11,24 @@ def get_players():
 
     for u in TEAMS_URL:
         res = requests.get(u)
-        #print(f"Scraping {u}")
-
         soup = BeautifulSoup(res.text, "html.parser")
-        # team roster item contains member info
         member_card = soup.find_all('div', class_="team-roster-item")
 
         for card in member_card:
-            # card only exists if the player is inactive or a sub or a non-player
             non_playing = card.find('div', class_="wf-tag mod-light team-roster-item-name-role")
-
-            # if any of those above, exclude their stats
             if non_playing:
-                #print(member_card)
                 continue
             
-            # finds and saves alias
             alias = card.find('div', class_="team-roster-item-name-alias").text.strip()
             players.append(alias)
-            #print(f'Players: {alias}')
-        '''MANUALLY ADDING PLAYER BC TEAM NOT UPDATED ON ROSTER'''
-        players.append("xeus")
 
-
+    # If you need to manually add players, do it here but make sure the mapping exists
+    # players.append("xeus")  # Only if you're sure this player exists in the stats
 
     return players
 
 # scrapes players that are in the current list of teams
 def scrape_player(players_list):
-
-    #res = requests.get(URL)
-
     with open('player_stats.html', 'r', encoding='utf-8') as f:
         res_text = f.read()
 
@@ -57,12 +44,14 @@ def scrape_player(players_list):
     stat_names = ["rating", "acs", "KD", "kast", "adr", "kpr", "apr", "fkpr"]
 
     for player in all_players:
-
         player_name_cell = player.find('td', class_="mod-player")
-
-        team_div = player_name_cell.find('div', class_='stats-player-country')
-        team = team_div.text.strip() if team_div else ""
+        
+        # Get player name
         alias = player_name_cell.find('div', class_="text-of").text.strip()
+        
+        # Get team abbreviation - FIXED: use st-pl-country instead of stats-player-country
+        team_div = player_name_cell.find('div', class_="st-pl-country")
+        team = team_div.text.strip() if team_div else ""
 
         # check if player is on a roster
         if alias not in players_list:
@@ -74,10 +63,10 @@ def scrape_player(players_list):
         # get stat cells
         stat_cells = player.find_all('td', class_="mod-color-sq")
 
-        stats = {"team": team}
+        stats = {"team": team, "alias": alias}
 
         # getting stats from the cells
-        for i in range(min(len(stat_cells), 8)):
+        for i in range(min(len(stat_cells), len(stat_names))):
             cell = stat_cells[i]
             cell_text = cell.text.strip()
             if cell_text:
@@ -119,6 +108,16 @@ def create_team_stats_json(player_stats):
             team_abbrev = "BLG"
         elif alias == 'xeus':
             team_abbrev = "FUT"
+        elif alias == 'v1c':
+            team_abbrev = "C9"
+        elif alias == 'Kicks':
+            team_abbrev = "TL"
+        elif alias == 'Bai':
+            team_abbrev = "AG"
+        elif alias == 'Coco':
+            team_abbrev = "TEC"
+        elif alias == 'BABYBAY':
+            team_abbrev = "G2"
 
 
 
