@@ -79,6 +79,13 @@ def scrape_vlr_page(page_num: int):
             continue
         
         #goes into the match-item-vs-team-name div, then looks into the text-of, which contains the name of the team
+        brando = team_elements[0].select_one(".match-item-vs-team-score").text.strip()
+        vinay = team_elements[1].select_one(".match-item-vs-team-score").text.strip()
+
+        #checks if the score is a digit, if not it skips the match (invalid match)
+        if not brando.isdigit() or not vinay.isdigit():
+            continue
+
         t1_name = team_elements[0].select_one(".match-item-vs-team-name .text-of").text.strip()
         t1_score = int(team_elements[0].select_one(".match-item-vs-team-score").text.strip())
 
@@ -144,6 +151,6 @@ def write_to_json(data, filename = "../data/matches_raw.json"):
 
 if __name__ == "__main__":
 
-    matches = scrape_multiple_pages(47)
+    matches = scrape_multiple_pages(50)
     write_to_json(matches)
     print(f"Wrote to file")

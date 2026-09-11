@@ -37,9 +37,9 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - [X] tested on data as of (6/14/26) with current year's data
 
 - v4 (59.3% Accuracy on Model using data from 1/2026 to 8/9/2026)
-
+    - [x] playoffs completed
 - v5 ()
-    [x] playoffs completed. All data gathered for Champs Shanghai
+    All data gathered for Champs Shanghai
 
 
 ## Predictions (More in Folder)

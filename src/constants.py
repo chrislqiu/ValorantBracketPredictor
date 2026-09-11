@@ -38,7 +38,7 @@ TEAMS = {
     "TE": "Trace Esports",
     "TYL": "TYLOO",
     "NOVA": "Nova Esports",
-    "JDG": "JDG Esports",
+    "JDG": "JD Gaming",
     "TEC": "Titan Esports Club",
     "WOL": "Wolves Esports",
     "NS" : "Nongshim RedForce",
@@ -46,7 +46,10 @@ TEAMS = {
     "FS" : "FULL SENSE",
     "VL" : "VARREL",
     "DRG" : "Dragon Ranger Gaming",
-    "EF" : "Eternal Fire"
+    "EF" : "Eternal Fire",
+    "GE" : "Global Esports",
+    "VIT" : "Team Vitality",
+    "LEV" : "LEVIATÁN",
 }
 TEAMS_URL = ["https://www.vlr.gg/team/2/sentinels", "https://www.vlr.gg/team/6961/loud", "https://www.vlr.gg/team/2406/furia",
             "https://www.vlr.gg/team/1034/nrg", "https://www.vlr.gg/team/188/cloud9", "https://www.vlr.gg/team/17/gen-g", 
