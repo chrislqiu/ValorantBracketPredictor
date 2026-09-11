@@ -55,7 +55,7 @@ model = xgb.XGBClassifier(
     # shallow -> generalize better, deep -> memorizes patterns, not direct related to the number of features (splits in tree)
     max_depth=2,
     # essentially step sizes, improving generalization the smaller the step
-    learning_rate=0.05,
+    learning_rate=0.01,
     # evals how wrong it is, penalizes confident wrong prediction, encourages calibrated probabilities
     eval_metric="logloss",
     random_state=42
@@ -66,9 +66,9 @@ model.fit(X_train, y_train)
 
 # save
 # this contains the decision trees with their split and rules
-joblib.dump(model, '../model/model(v4).pkl')
+joblib.dump(model, '../model/model(v5).pkl')
 
 # Quick test
 accuracy = model.score(X_test, y_test)
 print(f"Model accuracy: {accuracy:.1%}")
-print("Model saved as model(v4).pkl")
+print("Model saved as model(v5).pkl")
