@@ -38,29 +38,22 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 
 - v4 (59.3% Accuracy on Model using data from 1/2026 to 8/9/2026)
     - [x] playoffs completed
-    
+
 - v5 (68.1% Accuracy on Model using data from 1/2026 to 9/10/2026)
     - [x] All relevant data gathered for Champs Shanghai
 
 
 ## Predictions (More in Folder)
 
-* Personal Prediction not based on ML
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(Personal).png)
-* v1 Model Prediction using org/team based data (historical team winrate, round differential, and recent form (win-rate in last 10 games)) 
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v1P).png)
-* v2 Model Prediction using org/team based data, and team average player data (team avg rating, KD, acs, etc)
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2P).png)
-* v2.5 Model Prediction using everthing above, with the addtion of normalized player stats
-![alt text](/predictions/VCT%202026%20Americas%20Kickoff%20(v2.5P).png)
+* VCT 2026 Champs Shanghai Group Stage Predictions (v5 Model)
+![alt text](/predictions/Champs%202026%20Group%20A%20Prediction.png)
+
+![alt text](/predictions/Champs%202026%20Group%20B%20Prediction.png)
+
+![alt text](/predictions/Champs%202026%20Group%20C%20Prediction.png)
+
+![alt text](/predictions/Champs%202026%20Group%20D%20Prediction.png)
 
 ## Results & Reflection
 
-![alt text](/predictions/VCT%202026%20Americas%20Result.png)
 
-* Overestimated ENVY because of inflated stats from Ascension (T2)
-* New year, new roster/big changes in many teams. This means past emperical data might not be entirely reflective of new team.
-* Despite mediocre performances historically, FURIA seems super solid
-
-* Going forward, should limit data to the current year, rather than pulling stats from years ago
-* Predictions should be only used for later in the year (Champions) for better data
