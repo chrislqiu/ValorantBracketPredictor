@@ -46,9 +46,10 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 ## Predictions (More in Folder)
 
 * VCT 2026 Champs Shanghai Group Stage Predictions (v5 Model)
+
 ![alt text](/predictions/Champs%202026%20Group%20A%20Prediction.png)
 
-![alt text](/predictions/Champs%202026%20Group%20B%20Prediction.png)
+![alt text](/predictions/Champs%202026%20Group%20B%20Predictions.png)
 
 ![alt text](/predictions/Champs%202026%20Group%20C%20Prediction.png)
 
