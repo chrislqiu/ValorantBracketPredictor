@@ -126,7 +126,7 @@ for team, data in team_stats.items():
         'adr': team_adr if team_adr is not None else 132.0,
         'kpr': team_kpr if team_kpr is not None else 0.7,
         'apr': team_apr if team_apr is not None else 0.25,
-        'fkpr': team_fkpr if team_fkpr is not None else 0.1,
+        'fkfd': team_fkpr if team_fkpr is not None else 0.1,
         'total_matches': data['matches']
     })
 
@@ -134,7 +134,7 @@ for team, data in team_stats.items():
 df_teams = pd.DataFrame(team_records)
 
 # Log transform multiplicative stats
-mult_stats = ['KD', 'kpr', 'fkpr']
+mult_stats = ['KD', 'kpr', 'fkfd']
 for stat in mult_stats:
     if stat in df_teams.columns:
         # Ensure we have valid values before logging
@@ -178,7 +178,7 @@ weights = {
     'acs_norm': 0.10,
     'adr_norm': 0.08,
     'kast_norm': 0.10,
-    'fkpr_norm': 0.08,
+    'fkfd_norm': 0.08,
     'apr_norm': 0.05,
     'winrate_norm': 0.05,
     'recent_form_norm': 0.02,
@@ -195,7 +195,7 @@ for _, row in df_teams.iterrows():
     team = row['team']
     
     normalized_scores = {}
-    for stat in ['rating', 'acs', 'KD', 'kast', 'adr', 'kpr', 'apr', 'fkpr']:
+    for stat in ['rating', 'acs', 'KD', 'kast', 'adr', 'kpr', 'apr', 'fkfd']:
         norm_col = f'{stat}_norm'
         if norm_col in row and not pd.isna(row[norm_col]):
             normalized_scores[stat] = round(float(row[norm_col]), 3)
@@ -211,7 +211,7 @@ for _, row in df_teams.iterrows():
         'team_avg_adr': round(float(row['adr']), 1),
         'team_avg_kpr': round(float(row['kpr']), 3),
         'team_avg_apr': round(float(row['apr']), 3),
-        'team_avg_fkpr': round(float(row['fkpr']), 3),
+        'team_avg_fkfd': round(float(row['fkfd']), 3),
         'total_matches': int(row['total_matches']),
         
         'normalized': normalized_scores,

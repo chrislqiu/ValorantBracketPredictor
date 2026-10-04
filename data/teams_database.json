@@ -10,7 +10,7 @@
         "team_avg_adr": 128.9,
         "team_avg_kpr": 0.672,
         "team_avg_apr": 0.268,
-        "team_avg_fkpr": 0.905,
+        "team_avg_fkfd": 0.905,
         "total_matches": 24,
         "normalized": {
             "rating": 0.157,
@@ -20,7 +20,7 @@
             "adr": -0.335,
             "kpr": -0.869,
             "apr": -0.134,
-            "fkpr": -0.837
+            "fkfd": -0.837
         },
         "composite_score": -0.356
     },
@@ -35,7 +35,7 @@
         "team_avg_adr": 130.3,
         "team_avg_kpr": 0.692,
         "team_avg_apr": 0.305,
-        "team_avg_fkpr": 1.085,
+        "team_avg_fkfd": 1.085,
         "total_matches": 27,
         "normalized": {
             "rating": 0.75,
@@ -45,7 +45,7 @@
             "adr": -0.051,
             "kpr": -0.217,
             "apr": 1.228,
-            "fkpr": 0.758
+            "fkfd": 0.758
         },
         "composite_score": 0.313
     },
@@ -60,7 +60,7 @@
         "team_avg_adr": 134.5,
         "team_avg_kpr": 0.717,
         "team_avg_apr": 0.307,
-        "team_avg_fkpr": 0.947,
+        "team_avg_fkfd": 0.947,
         "total_matches": 25,
         "normalized": {
             "rating": 1.373,
@@ -70,7 +70,7 @@
             "adr": 0.815,
             "kpr": 0.547,
             "apr": 1.289,
-            "fkpr": -0.441
+            "fkfd": -0.441
         },
         "composite_score": 0.855
     },
@@ -85,7 +85,7 @@
         "team_avg_adr": 129.9,
         "team_avg_kpr": 0.696,
         "team_avg_apr": 0.298,
-        "team_avg_fkpr": 1.118,
+        "team_avg_fkfd": 1.118,
         "total_matches": 45,
         "normalized": {
             "rating": 0.704,
@@ -95,7 +95,7 @@
             "adr": -0.123,
             "kpr": -0.105,
             "apr": 0.974,
-            "fkpr": 1.022
+            "fkfd": 1.022
         },
         "composite_score": 0.538
     },
@@ -110,7 +110,7 @@
         "team_avg_adr": 124.7,
         "team_avg_kpr": 0.67,
         "team_avg_apr": 0.292,
-        "team_avg_fkpr": 0.986,
+        "team_avg_fkfd": 0.986,
         "total_matches": 22,
         "normalized": {
             "rating": -0.463,
@@ -120,7 +120,7 @@
             "adr": -1.184,
             "kpr": -0.952,
             "apr": 0.756,
-            "fkpr": -0.083
+            "fkfd": -0.083
         },
         "composite_score": -0.499
     },
@@ -135,7 +135,7 @@
         "team_avg_adr": 130.6,
         "team_avg_kpr": 0.7,
         "team_avg_apr": 0.263,
-        "team_avg_fkpr": 1.018,
+        "team_avg_fkfd": 1.018,
         "total_matches": 25,
         "normalized": {
             "rating": 0.005,
@@ -145,7 +145,7 @@
             "adr": 0.005,
             "kpr": 0.023,
             "apr": -0.285,
-            "fkpr": 0.201
+            "fkfd": 0.201
         },
         "composite_score": 0.045
     },
@@ -160,7 +160,7 @@
         "team_avg_adr": 124.9,
         "team_avg_kpr": 0.66,
         "team_avg_apr": 0.256,
-        "team_avg_fkpr": 0.916,
+        "team_avg_fkfd": 0.916,
         "total_matches": 0,
         "normalized": {
             "rating": -1.156,
@@ -170,7 +170,7 @@
             "adr": -1.147,
             "kpr": -1.287,
             "apr": -0.552,
-            "fkpr": -0.731
+            "fkfd": -0.731
         },
         "composite_score": -0.959
     },
@@ -185,7 +185,7 @@
         "team_avg_adr": 128.7,
         "team_avg_kpr": 0.69,
         "team_avg_apr": 0.29,
-        "team_avg_fkpr": 1.09,
+        "team_avg_fkfd": 1.09,
         "total_matches": 35,
         "normalized": {
             "rating": 0.035,
@@ -195,7 +195,7 @@
             "adr": -0.381,
             "kpr": -0.297,
             "apr": 0.683,
-            "fkpr": 0.799
+            "fkfd": 0.799
         },
         "composite_score": 0.18
     },
@@ -210,7 +210,7 @@
         "team_avg_adr": 136.9,
         "team_avg_kpr": 0.734,
         "team_avg_apr": 0.268,
-        "team_avg_fkpr": 1.138,
+        "team_avg_fkfd": 1.138,
         "total_matches": 44,
         "normalized": {
             "rating": 0.886,
@@ -220,7 +220,7 @@
             "adr": 1.301,
             "kpr": 1.079,
             "apr": -0.116,
-            "fkpr": 1.178
+            "fkfd": 1.178
         },
         "composite_score": 1.052
     },
@@ -235,7 +235,7 @@
         "team_avg_adr": 133.7,
         "team_avg_kpr": 0.7,
         "team_avg_apr": 0.21,
-        "team_avg_fkpr": 0.995,
+        "team_avg_fkfd": 0.995,
         "total_matches": 19,
         "normalized": {
             "rating": -1.576,
@@ -245,7 +245,7 @@
             "adr": 0.646,
             "kpr": 0.023,
             "apr": -2.223,
-            "fkpr": -0.003
+            "fkfd": -0.003
         },
         "composite_score": -0.868
     },
@@ -260,7 +260,7 @@
         "team_avg_adr": 135.8,
         "team_avg_kpr": 0.727,
         "team_avg_apr": 0.22,
-        "team_avg_fkpr": 1.042,
+        "team_avg_fkfd": 1.042,
         "total_matches": 25,
         "normalized": {
             "rating": 0.385,
@@ -270,7 +270,7 @@
             "adr": 1.068,
             "kpr": 0.881,
             "apr": -1.859,
-            "fkpr": 0.407
+            "fkfd": 0.407
         },
         "composite_score": 0.384
     },
@@ -285,7 +285,7 @@
         "team_avg_adr": 134.8,
         "team_avg_kpr": 0.708,
         "team_avg_apr": 0.286,
-        "team_avg_fkpr": 1.054,
+        "team_avg_fkfd": 1.054,
         "total_matches": 34,
         "normalized": {
             "rating": 0.777,
@@ -295,7 +295,7 @@
             "adr": 0.865,
             "kpr": 0.276,
             "apr": 0.538,
-            "fkpr": 0.503
+            "fkfd": 0.503
         },
         "composite_score": 0.673
     },
@@ -310,7 +310,7 @@
         "team_avg_adr": 128.8,
         "team_avg_kpr": 0.7,
         "team_avg_apr": 0.262,
-        "team_avg_fkpr": 1.088,
+        "team_avg_fkfd": 1.088,
         "total_matches": 30,
         "normalized": {
             "rating": 0.084,
@@ -320,7 +320,7 @@
             "adr": -0.346,
             "kpr": 0.023,
             "apr": -0.334,
-            "fkpr": 0.783
+            "fkfd": 0.783
         },
         "composite_score": 0.096
     },
@@ -335,7 +335,7 @@
         "team_avg_adr": 132.9,
         "team_avg_kpr": 0.712,
         "team_avg_apr": 0.29,
-        "team_avg_fkpr": 1.034,
+        "team_avg_fkfd": 1.034,
         "total_matches": 43,
         "normalized": {
             "rating": 0.631,
@@ -345,7 +345,7 @@
             "adr": 0.475,
             "kpr": 0.401,
             "apr": 0.683,
-            "fkpr": 0.335
+            "fkfd": 0.335
         },
         "composite_score": 0.584
     },
@@ -360,7 +360,7 @@
         "team_avg_adr": 145.7,
         "team_avg_kpr": 0.79,
         "team_avg_apr": 0.265,
-        "team_avg_fkpr": 1.045,
+        "team_avg_fkfd": 1.045,
         "total_matches": 25,
         "normalized": {
             "rating": 2.528,
@@ -370,7 +370,7 @@
             "adr": 3.086,
             "kpr": 2.716,
             "apr": -0.225,
-            "fkpr": 0.428
+            "fkfd": 0.428
         },
         "composite_score": 1.837
     },
@@ -385,7 +385,7 @@
         "team_avg_adr": 130.8,
         "team_avg_kpr": 0.71,
         "team_avg_apr": 0.302,
-        "team_avg_fkpr": 1.07,
+        "team_avg_fkfd": 1.07,
         "total_matches": 34,
         "normalized": {
             "rating": 0.85,
@@ -395,7 +395,7 @@
             "adr": 0.06,
             "kpr": 0.339,
             "apr": 1.119,
-            "fkpr": 0.636
+            "fkfd": 0.636
         },
         "composite_score": 0.788
     },
@@ -410,7 +410,7 @@
         "team_avg_adr": 128.5,
         "team_avg_kpr": 0.67,
         "team_avg_apr": 0.258,
-        "team_avg_fkpr": 1.006,
+        "team_avg_fkfd": 1.006,
         "total_matches": 22,
         "normalized": {
             "rating": -0.755,
@@ -420,7 +420,7 @@
             "adr": -0.411,
             "kpr": -0.952,
             "apr": -0.479,
-            "fkpr": 0.093
+            "fkfd": 0.093
         },
         "composite_score": -0.778
     },
@@ -435,7 +435,7 @@
         "team_avg_adr": 128.2,
         "team_avg_kpr": 0.701,
         "team_avg_apr": 0.281,
-        "team_avg_fkpr": 0.841,
+        "team_avg_fkfd": 0.841,
         "total_matches": 29,
         "normalized": {
             "rating": -0.364,
@@ -445,7 +445,7 @@
             "adr": -0.478,
             "kpr": 0.068,
             "apr": 0.372,
-            "fkpr": -1.478
+            "fkfd": -1.478
         },
         "composite_score": -0.236
     },
@@ -460,7 +460,7 @@
         "team_avg_adr": 130.8,
         "team_avg_kpr": 0.708,
         "team_avg_apr": 0.293,
-        "team_avg_fkpr": 0.973,
+        "team_avg_fkfd": 0.973,
         "total_matches": 39,
         "normalized": {
             "rating": -0.086,
@@ -470,7 +470,7 @@
             "adr": 0.063,
             "kpr": 0.287,
             "apr": 0.804,
-            "fkpr": -0.197
+            "fkfd": -0.197
         },
         "composite_score": 0.116
     },
@@ -485,7 +485,7 @@
         "team_avg_adr": 134.1,
         "team_avg_kpr": 0.717,
         "team_avg_apr": 0.287,
-        "team_avg_fkpr": 1.03,
+        "team_avg_fkfd": 1.03,
         "total_matches": 28,
         "normalized": {
             "rating": 0.613,
@@ -495,7 +495,7 @@
             "adr": 0.722,
             "kpr": 0.573,
             "apr": 0.592,
-            "fkpr": 0.301
+            "fkfd": 0.301
         },
         "composite_score": 0.608
     },
@@ -510,7 +510,7 @@
         "team_avg_adr": 128.4,
         "team_avg_kpr": 0.682,
         "team_avg_apr": 0.284,
-        "team_avg_fkpr": 0.904,
+        "team_avg_fkfd": 0.904,
         "total_matches": 27,
         "normalized": {
             "rating": -0.025,
@@ -520,7 +520,7 @@
             "adr": -0.432,
             "kpr": -0.557,
             "apr": 0.465,
-            "fkpr": -0.847
+            "fkfd": -0.847
         },
         "composite_score": -0.242
     },
@@ -535,7 +535,7 @@
         "team_avg_adr": 130.6,
         "team_avg_kpr": 0.713,
         "team_avg_apr": 0.258,
-        "team_avg_fkpr": 1.083,
+        "team_avg_fkfd": 1.083,
         "total_matches": 39,
         "normalized": {
             "rating": -0.147,
@@ -545,7 +545,7 @@
             "adr": 0.012,
             "kpr": 0.443,
             "apr": -0.467,
-            "fkpr": 0.745
+            "fkfd": 0.745
         },
         "composite_score": 0.206
     },
@@ -560,7 +560,7 @@
         "team_avg_adr": 127.3,
         "team_avg_kpr": 0.697,
         "team_avg_apr": 0.23,
-        "team_avg_fkpr": 0.94,
+        "team_avg_fkfd": 0.94,
         "total_matches": 24,
         "normalized": {
             "rating": -0.755,
@@ -570,7 +570,7 @@
             "adr": -0.649,
             "kpr": -0.083,
             "apr": -1.496,
-            "fkpr": -0.503
+            "fkfd": -0.503
         },
         "composite_score": -0.718
     },
@@ -585,7 +585,7 @@
         "team_avg_adr": 134.5,
         "team_avg_kpr": 0.72,
         "team_avg_apr": 0.25,
-        "team_avg_fkpr": 1.163,
+        "team_avg_fkfd": 1.163,
         "total_matches": 30,
         "normalized": {
             "rating": 0.461,
@@ -595,7 +595,7 @@
             "adr": 0.802,
             "kpr": 0.65,
             "apr": -0.77,
-            "fkpr": 1.371
+            "fkfd": 1.371
         },
         "composite_score": 0.618
     },
@@ -610,7 +610,7 @@
         "team_avg_adr": 136.9,
         "team_avg_kpr": 0.765,
         "team_avg_apr": 0.2,
-        "team_avg_fkpr": 1.225,
+        "team_avg_fkfd": 1.225,
         "total_matches": 22,
         "normalized": {
             "rating": 1.616,
@@ -620,7 +620,7 @@
             "adr": 1.307,
             "kpr": 2.0,
             "apr": -2.586,
-            "fkpr": 1.826
+            "fkfd": 1.826
         },
         "composite_score": 1.073
     },
@@ -635,7 +635,7 @@
         "team_avg_adr": 132.7,
         "team_avg_kpr": 0.718,
         "team_avg_apr": 0.29,
-        "team_avg_fkpr": 1.232,
+        "team_avg_fkfd": 1.232,
         "total_matches": 33,
         "normalized": {
             "rating": 1.069,
@@ -645,7 +645,7 @@
             "adr": 0.443,
             "kpr": 0.588,
             "apr": 0.683,
-            "fkpr": 1.876
+            "fkfd": 1.876
         },
         "composite_score": 1.083
     },
@@ -660,7 +660,7 @@
         "team_avg_adr": 112.1,
         "team_avg_kpr": 0.61,
         "team_avg_apr": 0.25,
-        "team_avg_fkpr": 0.91,
+        "team_avg_fkfd": 0.91,
         "total_matches": 22,
         "normalized": {
             "rating": -3.855,
@@ -670,7 +670,7 @@
             "adr": -3.746,
             "kpr": -3.041,
             "apr": -0.77,
-            "fkpr": -0.789
+            "fkfd": -0.789
         },
         "composite_score": -2.794
     },
@@ -685,7 +685,7 @@
         "team_avg_adr": 128.8,
         "team_avg_kpr": 0.69,
         "team_avg_apr": 0.335,
-        "team_avg_fkpr": 0.835,
+        "team_avg_fkfd": 0.835,
         "total_matches": 30,
         "normalized": {
             "rating": 0.431,
@@ -695,7 +695,7 @@
             "adr": -0.34,
             "kpr": -0.297,
             "apr": 2.318,
-            "fkpr": -1.545
+            "fkfd": -1.545
         },
         "composite_score": 0.027
     },
@@ -710,7 +710,7 @@
         "team_avg_adr": 128.9,
         "team_avg_kpr": 0.69,
         "team_avg_apr": 0.26,
-        "team_avg_fkpr": 1.006,
+        "team_avg_fkfd": 1.006,
         "total_matches": 38,
         "normalized": {
             "rating": -0.427,
@@ -720,7 +720,7 @@
             "adr": -0.322,
             "kpr": -0.297,
             "apr": -0.406,
-            "fkpr": 0.093
+            "fkfd": 0.093
         },
         "composite_score": -0.294
     },
@@ -735,7 +735,7 @@
         "team_avg_adr": 136.1,
         "team_avg_kpr": 0.733,
         "team_avg_apr": 0.29,
-        "team_avg_fkpr": 0.947,
+        "team_avg_fkfd": 0.947,
         "total_matches": 28,
         "normalized": {
             "rating": 0.947,
@@ -745,7 +745,7 @@
             "adr": 1.127,
             "kpr": 1.059,
             "apr": 0.683,
-            "fkpr": -0.441
+            "fkfd": -0.441
         },
         "composite_score": 0.807
     },
@@ -760,7 +760,7 @@
         "team_avg_adr": 135.3,
         "team_avg_kpr": 0.726,
         "team_avg_apr": 0.272,
-        "team_avg_fkpr": 1.124,
+        "team_avg_fkfd": 1.124,
         "total_matches": 36,
         "normalized": {
             "rating": 0.814,
@@ -770,7 +770,7 @@
             "adr": 0.963,
             "kpr": 0.835,
             "apr": 0.029,
-            "fkpr": 1.069
+            "fkfd": 1.069
         },
         "composite_score": 0.884
     },
@@ -785,7 +785,7 @@
         "team_avg_adr": 128.4,
         "team_avg_kpr": 0.688,
         "team_avg_apr": 0.264,
-        "team_avg_fkpr": 0.946,
+        "team_avg_fkfd": 0.946,
         "total_matches": 24,
         "normalized": {
             "rating": -0.354,
@@ -795,7 +795,7 @@
             "adr": -0.432,
             "kpr": -0.362,
             "apr": -0.261,
-            "fkpr": -0.447
+            "fkfd": -0.447
         },
         "composite_score": -0.358
     },
@@ -810,7 +810,7 @@
         "team_avg_adr": 132.0,
         "team_avg_kpr": 0.71,
         "team_avg_apr": 0.248,
-        "team_avg_fkpr": 1.01,
+        "team_avg_fkfd": 1.01,
         "total_matches": 35,
         "normalized": {
             "rating": 0.266,
@@ -820,7 +820,7 @@
             "adr": 0.296,
             "kpr": 0.339,
             "apr": -0.842,
-            "fkpr": 0.128
+            "fkfd": 0.128
         },
         "composite_score": 0.201
     },
@@ -835,7 +835,7 @@
         "team_avg_adr": 127.2,
         "team_avg_kpr": 0.672,
         "team_avg_apr": 0.265,
-        "team_avg_fkpr": 0.875,
+        "team_avg_fkfd": 0.875,
         "total_matches": 19,
         "normalized": {
             "rating": -1.302,
@@ -845,7 +845,7 @@
             "adr": -0.686,
             "kpr": -0.869,
             "apr": -0.225,
-            "fkpr": -1.134
+            "fkfd": -1.134
         },
         "composite_score": -1.096
     },
@@ -860,7 +860,7 @@
         "team_avg_adr": 131.3,
         "team_avg_kpr": 0.71,
         "team_avg_apr": 0.222,
-        "team_avg_fkpr": 1.123,
+        "team_avg_fkfd": 1.123,
         "total_matches": 27,
         "normalized": {
             "rating": 0.111,
@@ -870,7 +870,7 @@
             "adr": 0.153,
             "kpr": 0.339,
             "apr": -1.769,
-            "fkpr": 1.057
+            "fkfd": 1.057
         },
         "composite_score": 0.042
     },
@@ -885,7 +885,7 @@
         "team_avg_adr": 130.2,
         "team_avg_kpr": 0.712,
         "team_avg_apr": 0.278,
-        "team_avg_fkpr": 1.06,
+        "team_avg_fkfd": 1.06,
         "total_matches": 39,
         "normalized": {
             "rating": 0.339,
@@ -895,7 +895,7 @@
             "adr": -0.07,
             "kpr": 0.401,
             "apr": 0.247,
-            "fkpr": 0.553
+            "fkfd": 0.553
         },
         "composite_score": 0.375
     },
@@ -910,7 +910,7 @@
         "team_avg_adr": 129.4,
         "team_avg_kpr": 0.694,
         "team_avg_apr": 0.272,
-        "team_avg_fkpr": 0.99,
+        "team_avg_fkfd": 0.99,
         "total_matches": 30,
         "normalized": {
             "rating": -0.573,
@@ -920,7 +920,7 @@
             "adr": -0.232,
             "kpr": -0.169,
             "apr": 0.029,
-            "fkpr": -0.048
+            "fkfd": -0.048
         },
         "composite_score": -0.448
     },
@@ -935,7 +935,7 @@
         "team_avg_adr": 134.0,
         "team_avg_kpr": 0.705,
         "team_avg_apr": 0.298,
-        "team_avg_fkpr": 0.947,
+        "team_avg_fkfd": 0.947,
         "total_matches": 38,
         "normalized": {
             "rating": 0.704,
@@ -945,7 +945,7 @@
             "adr": 0.71,
             "kpr": 0.181,
             "apr": 0.986,
-            "fkpr": -0.441
+            "fkfd": -0.441
         },
         "composite_score": 0.444
     },
@@ -960,7 +960,7 @@
         "team_avg_adr": 132.5,
         "team_avg_kpr": 0.728,
         "team_avg_apr": 0.254,
-        "team_avg_fkpr": 1.038,
+        "team_avg_fkfd": 1.038,
         "total_matches": 25,
         "normalized": {
             "rating": -0.281,
@@ -970,7 +970,7 @@
             "adr": 0.41,
             "kpr": 0.896,
             "apr": -0.624,
-            "fkpr": 0.369
+            "fkfd": 0.369
         },
         "composite_score": 0.211
     },
@@ -985,7 +985,7 @@
         "team_avg_adr": 125.8,
         "team_avg_kpr": 0.674,
         "team_avg_apr": 0.294,
-        "team_avg_fkpr": 0.832,
+        "team_avg_fkfd": 0.832,
         "total_matches": 39,
         "normalized": {
             "rating": -0.718,
@@ -995,7 +995,7 @@
             "adr": -0.964,
             "kpr": -0.82,
             "apr": 0.829,
-            "fkpr": -1.577
+            "fkfd": -1.577
         },
         "composite_score": -0.706
     },
@@ -1010,7 +1010,7 @@
         "team_avg_adr": 132.7,
         "team_avg_kpr": 0.708,
         "team_avg_apr": 0.28,
-        "team_avg_fkpr": 0.822,
+        "team_avg_fkfd": 0.822,
         "total_matches": 34,
         "normalized": {
             "rating": -0.098,
@@ -1020,7 +1020,7 @@
             "adr": 0.434,
             "kpr": 0.276,
             "apr": 0.32,
-            "fkpr": -1.683
+            "fkfd": -1.683
         },
         "composite_score": -0.198
     },
@@ -1035,7 +1035,7 @@
         "team_avg_adr": 129.6,
         "team_avg_kpr": 0.682,
         "team_avg_apr": 0.276,
-        "team_avg_fkpr": 0.86,
+        "team_avg_fkfd": 0.86,
         "total_matches": 22,
         "normalized": {
             "rating": -0.39,
@@ -1045,7 +1045,7 @@
             "adr": -0.184,
             "kpr": -0.557,
             "apr": 0.175,
-            "fkpr": -1.286
+            "fkfd": -1.286
         },
         "composite_score": -0.651
     },
@@ -1060,7 +1060,7 @@
         "team_avg_adr": 130.5,
         "team_avg_kpr": 0.712,
         "team_avg_apr": 0.28,
-        "team_avg_fkpr": 1.01,
+        "team_avg_fkfd": 1.01,
         "total_matches": 38,
         "normalized": {
             "rating": 0.412,
@@ -1070,7 +1070,7 @@
             "adr": -0.005,
             "kpr": 0.401,
             "apr": 0.32,
-            "fkpr": 0.128
+            "fkfd": 0.128
         },
         "composite_score": 0.437
     },
@@ -1085,7 +1085,7 @@
         "team_avg_adr": 118.6,
         "team_avg_kpr": 0.6,
         "team_avg_apr": 0.31,
-        "team_avg_fkpr": 0.66,
+        "team_avg_fkfd": 0.66,
         "total_matches": 0,
         "normalized": {
             "rating": -2.214,
@@ -1095,7 +1095,7 @@
             "adr": -2.434,
             "kpr": -3.409,
             "apr": 1.41,
-            "fkpr": -3.614
+            "fkfd": -3.614
         },
         "composite_score": -2.236
     },
@@ -1110,7 +1110,7 @@
         "team_avg_adr": 132.5,
         "team_avg_kpr": 0.725,
         "team_avg_apr": 0.228,
-        "team_avg_fkpr": 1.08,
+        "team_avg_fkfd": 1.08,
         "total_matches": 27,
         "normalized": {
             "rating": 0.02,
@@ -1120,7 +1120,7 @@
             "adr": 0.402,
             "kpr": 0.804,
             "apr": -1.587,
-            "fkpr": 0.718
+            "fkfd": 0.718
         },
         "composite_score": 0.261
     },
@@ -1135,7 +1135,7 @@
         "team_avg_adr": 125.5,
         "team_avg_kpr": 0.668,
         "team_avg_apr": 0.255,
-        "team_avg_fkpr": 1.058,
+        "team_avg_fkfd": 1.058,
         "total_matches": 19,
         "normalized": {
             "rating": -0.725,
@@ -1145,7 +1145,7 @@
             "adr": -1.015,
             "kpr": -1.008,
             "apr": -0.588,
-            "fkpr": 0.539
+            "fkfd": 0.539
         },
         "composite_score": -0.815
     },
@@ -1160,7 +1160,7 @@
         "team_avg_adr": 128.7,
         "team_avg_kpr": 0.692,
         "team_avg_apr": 0.312,
-        "team_avg_fkpr": 0.985,
+        "team_avg_fkfd": 0.985,
         "total_matches": 30,
         "normalized": {
             "rating": -0.177,
@@ -1170,7 +1170,7 @@
             "adr": -0.381,
             "kpr": -0.244,
             "apr": 1.47,
-            "fkpr": -0.092
+            "fkfd": -0.092
         },
         "composite_score": -0.115
     },
@@ -1185,7 +1185,7 @@
         "team_avg_adr": 131.4,
         "team_avg_kpr": 0.698,
         "team_avg_apr": 0.26,
-        "team_avg_fkpr": 1.03,
+        "team_avg_fkfd": 1.03,
         "total_matches": 26,
         "normalized": {
             "rating": -0.527,
@@ -1195,7 +1195,7 @@
             "adr": 0.183,
             "kpr": -0.057,
             "apr": -0.406,
-            "fkpr": 0.301
+            "fkfd": 0.301
         },
         "composite_score": -0.373
     }

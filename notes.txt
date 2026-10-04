@@ -191,3 +191,6 @@ v5
 
 v5.5
 400, 2, .01 -> 64.7%
+
+- Flipping the teams for Team 1 and Team 2 can sometimes change percentage
+    Fixed with symmetric calculation?

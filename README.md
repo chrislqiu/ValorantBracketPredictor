@@ -57,9 +57,13 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 
 ![alt text](/predictions/Champs%202026%20Group%20D%20Prediction.png)
 
+* VCT 2026 Champs Shanghai Playoffs Prediction
+
+![alt text](/predictions/VCT%202026%20Champs%20Playoff%20Predictions.png)
+
 ## Results & Reflection
 
-* VCT 2025 Champs Shanghai Groups Results
+* VCT 2026 Champs Shanghai Groups Results
 
 ![alt text](/predictions/Champs%202026%20GA%20Results.png)
 
