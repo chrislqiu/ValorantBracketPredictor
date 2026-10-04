@@ -40,8 +40,10 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
     - [x] playoffs completed
 
 - v5 (68.1% Accuracy on Model using data from 1/2026 to 9/10/2026)
-    - [x] All relevant data gathered for Champs Shanghai
+    - [x] all relevant data gathered for Champs Shanghai
 
+- v5.5 ()
+    - [X] stats up to the end of group stage
 
 ## Predictions (More in Folder)
 
@@ -57,4 +59,12 @@ Inspired by traditional sports bracket challenges like March Madness, Valorant o
 
 ## Results & Reflection
 
+* VCT 2025 Champs Shanghai Groups Results
 
+![alt text](/predictions/Champs%202026%20GA%20Results.png)
+
+![alt text](/predictions/Champs%202026%20GB%20Results.png)
+
+![alt text](/predictions/Champs%202026%20GC%20Results.png)
+
+![alt text](/predictions/Champs%202026%20GD%20Results.png)
