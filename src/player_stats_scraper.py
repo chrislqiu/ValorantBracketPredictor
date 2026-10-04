@@ -37,7 +37,7 @@ STAT_COL_MAP = {
     "adr": "adr",
     "kpr": "kpr",
     "apr": "apr",
-    "fkpr": "fkfd",
+    "fkfd": "fkfd",
 }
 
 def scrape_player(players_list):
@@ -94,7 +94,7 @@ def create_team_stats_json(player_stats):
             "adr": [],
             "kpr": [],
             "apr": [],
-            "fkpr": []
+            "fkfd": []
         }
     
     for player, stats in player_stats.items():

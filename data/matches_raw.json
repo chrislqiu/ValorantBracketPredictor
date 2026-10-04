@@ -1,5 +1,753 @@
 [
   {
+    "match_id": "753448",
+    "match_url": "https://www.vlr.gg/753448/fut-esports-vs-t1-valorant-champions-2026-decider-a",
+    "team1": "FUT Esports",
+    "team2": "T1",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Decider (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753453",
+    "match_url": "https://www.vlr.gg/753453/loud-vs-global-esports-valorant-champions-2026-decider-b",
+    "team1": "LOUD",
+    "team2": "Global Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Decider (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753463",
+    "match_url": "https://www.vlr.gg/753463/karmine-corp-vs-nongshim-redforce-valorant-champions-2026-decider-d",
+    "team1": "Karmine Corp",
+    "team2": "Nongshim RedForce",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Decider (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753458",
+    "match_url": "https://www.vlr.gg/753458/g2-esports-vs-team-liquid-valorant-champions-2026-decider-c",
+    "team1": "G2 Esports",
+    "team2": "Team Liquid",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Decider (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753447",
+    "match_url": "https://www.vlr.gg/753447/t1-vs-jd-gaming-valorant-champions-2026-elim-a",
+    "team1": "T1",
+    "team2": "JD Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 0,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Elimination (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 11,
+        "round_diff": 2,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753452",
+    "match_url": "https://www.vlr.gg/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b",
+    "team1": "Global Esports",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 15,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Elimination (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753462",
+    "match_url": "https://www.vlr.gg/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d",
+    "team1": "Xi Lai Gaming",
+    "team2": "Nongshim RedForce",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -4,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Elimination (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753457",
+    "match_url": "https://www.vlr.gg/753457/tyloo-vs-team-liquid-valorant-champions-2026-elim-c",
+    "team1": "TYLOO",
+    "team2": "Team Liquid",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -10,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Elimination (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753446",
+    "match_url": "https://www.vlr.gg/753446/100-thieves-vs-fut-esports-valorant-champions-2026-winners-a",
+    "team1": "100 Thieves",
+    "team2": "FUT Esports",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 11,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Winner's (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753451",
+    "match_url": "https://www.vlr.gg/753451/team-vitality-vs-loud-valorant-champions-2026-winners-b",
+    "team1": "Team Vitality",
+    "team2": "LOUD",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Winner's (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 19,
+        "t2_score": 17,
+        "round_diff": 2,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753461",
+    "match_url": "https://www.vlr.gg/753461/karmine-corp-vs-nrg-valorant-champions-2026-winners-d",
+    "team1": "Karmine Corp",
+    "team2": "NRG",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": 0,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Winner's (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753456",
+    "match_url": "https://www.vlr.gg/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c",
+    "team1": "G2 Esports",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Winner's (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753445",
+    "match_url": "https://www.vlr.gg/753445/jd-gaming-vs-fut-esports-valorant-champions-2026-opening-a",
+    "team1": "JD Gaming",
+    "team2": "FUT Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -15,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 1,
+        "t2_score": 13,
+        "round_diff": -12,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753444",
+    "match_url": "https://www.vlr.gg/753444/100-thieves-vs-t1-valorant-champions-2026-opening-a",
+    "team1": "100 Thieves",
+    "team2": "T1",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 9,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (A)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753450",
+    "match_url": "https://www.vlr.gg/753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b",
+    "team1": "LOUD",
+    "team2": "EDward Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 13,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Summit",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753449",
+    "match_url": "https://www.vlr.gg/753449/global-esports-vs-team-vitality-valorant-champions-2026-opening-b",
+    "team1": "Global Esports",
+    "team2": "Team Vitality",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -1,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (B)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 9,
+        "round_diff": 4,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753459",
+    "match_url": "https://www.vlr.gg/753459/karmine-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d",
+    "team1": "Karmine Corp",
+    "team2": "Xi Lai Gaming",
+    "score1": 2,
+    "score2": 0,
+    "total_rnd_diff": 17,
+    "winner": 1,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 3,
+        "round_diff": 10,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "753460",
+    "match_url": "https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d",
+    "team1": "Nongshim RedForce",
+    "team2": "NRG",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (D)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753454",
+    "match_url": "https://www.vlr.gg/753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c",
+    "team1": "TYLOO",
+    "team2": "G2 Esports",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -17,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 6,
+        "t2_score": 13,
+        "round_diff": -7,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Sunset",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "753455",
+    "match_url": "https://www.vlr.gg/753455/team-liquid-vs-paper-rex-valorant-champions-2026-opening-c",
+    "team1": "Team Liquid",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -6,
+    "winner": 0,
+    "event": "Valorant Champions 2026",
+    "series": "Group Stage–Opening (C)",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Haven",
+        "t1_score": 13,
+        "t2_score": 7,
+        "round_diff": 6,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Lotus",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "748633",
+    "match_url": "https://www.vlr.gg/748633/keepbest-gaming-vs-funplus-phoenix-china-evolution-series-2026-act-3-gf",
+    "team1": "KeepBest Gaming",
+    "team2": "FunPlus Phoenix",
+    "score1": 2,
+    "score2": 3,
+    "total_rnd_diff": 3,
+    "winner": 0,
+    "event": "China Evolution Series 2026: Act 3",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 4,
+        "round_diff": 9,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Abyss",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Sunset",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 4,
+        "map_name": "Split",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      },
+      {
+        "map_num": 5,
+        "map_name": "Summit",
+        "t1_score": 11,
+        "t2_score": 13,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "748632",
+    "match_url": "https://www.vlr.gg/748632/funplus-phoenix-vs-any-questions-gaming-china-evolution-series-2026-act-3-sf",
+    "team1": "FunPlus Phoenix",
+    "team2": "Any Questions Gaming",
+    "score1": 2,
+    "score2": 1,
+    "total_rnd_diff": 8,
+    "winner": 1,
+    "event": "China Evolution Series 2026: Act 3",
+    "series": "Main Event–Semifinals",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Lotus",
+        "t1_score": 8,
+        "t2_score": 13,
+        "round_diff": -5,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Ascent",
+        "t1_score": 13,
+        "t2_score": 8,
+        "round_diff": 5,
+        "winner": 1
+      }
+    ]
+  },
+  {
     "match_id": "748630",
     "match_url": "https://www.vlr.gg/748630/jd-gaming-vs-any-questions-gaming-china-evolution-series-2026-act-3-qf",
     "team1": "JD Gaming",
@@ -24836,6 +25584,186 @@
         "t2_score": 9,
         "round_diff": 4,
         "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "598971",
+    "match_url": "https://www.vlr.gg/598971/xipto-esports-vs-rex-regum-qeon-predator-league-2026-asia-pacific-c",
+    "team1": "Xipto Esports",
+    "team2": "Rex Regum Qeon",
+    "score1": 0,
+    "score2": 1,
+    "total_rnd_diff": -2,
+    "winner": 0,
+    "event": "Predator League 2026: Asia-Pacific",
+    "series": "Group Stage–Group C",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 14,
+        "t2_score": 16,
+        "round_diff": -2,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "598968",
+    "match_url": "https://www.vlr.gg/598968/rex-regum-qeon-vs-dream-chaser-predator-league-2026-asia-pacific-c",
+    "team1": "Rex Regum Qeon",
+    "team2": "Dream Chaser",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 12,
+    "winner": 1,
+    "event": "Predator League 2026: Asia-Pacific",
+    "series": "Group Stage–Group C",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 1,
+        "round_diff": 12,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "598967",
+    "match_url": "https://www.vlr.gg/598967/todak-vs-rex-regum-qeon-predator-league-2026-asia-pacific-c",
+    "team1": "Todak",
+    "team2": "Rex Regum Qeon",
+    "score1": 1,
+    "score2": 0,
+    "total_rnd_diff": 7,
+    "winner": 1,
+    "event": "Predator League 2026: Asia-Pacific",
+    "series": "Group Stage–Group C",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 6,
+        "round_diff": 7,
+        "winner": 1
+      }
+    ]
+  },
+  {
+    "match_id": "590638",
+    "match_url": "https://www.vlr.gg/590638/gen-g-vs-paper-rex-valorant-radiant-international-invitational-gf",
+    "team1": "Gen.G",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 3,
+    "total_rnd_diff": -14,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Grand Final",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Abyss",
+        "t1_score": 13,
+        "t2_score": 5,
+        "round_diff": 8,
+        "winner": 1
+      },
+      {
+        "map_num": 2,
+        "map_name": "Split",
+        "t1_score": 5,
+        "t2_score": 13,
+        "round_diff": -8,
+        "winner": 0
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 3,
+        "t2_score": 13,
+        "round_diff": -10,
+        "winner": 0
+      },
+      {
+        "map_num": 4,
+        "map_name": "Bind",
+        "t1_score": 9,
+        "t2_score": 13,
+        "round_diff": -4,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590637",
+    "match_url": "https://www.vlr.gg/590637/funplus-phoenix-vs-paper-rex-valorant-radiant-international-invitational-sf",
+    "team1": "FunPlus Phoenix",
+    "team2": "Paper Rex",
+    "score1": 0,
+    "score2": 2,
+    "total_rnd_diff": -15,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Semifinal",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 4,
+        "t2_score": 13,
+        "round_diff": -9,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Bind",
+        "t1_score": 7,
+        "t2_score": 13,
+        "round_diff": -6,
+        "winner": 0
+      }
+    ]
+  },
+  {
+    "match_id": "590636",
+    "match_url": "https://www.vlr.gg/590636/g2-esports-vs-paper-rex-valorant-radiant-international-invitational-qf",
+    "team1": "G2 Esports",
+    "team2": "Paper Rex",
+    "score1": 1,
+    "score2": 2,
+    "total_rnd_diff": -11,
+    "winner": 0,
+    "event": "Valorant Radiant International Invitational",
+    "series": "Main Event–Quarterfinal",
+    "maps": [
+      {
+        "map_num": 1,
+        "map_name": "Split",
+        "t1_score": 10,
+        "t2_score": 13,
+        "round_diff": -3,
+        "winner": 0
+      },
+      {
+        "map_num": 2,
+        "map_name": "Corrode",
+        "t1_score": 13,
+        "t2_score": 10,
+        "round_diff": 3,
+        "winner": 1
+      },
+      {
+        "map_num": 3,
+        "map_name": "Haven",
+        "t1_score": 2,
+        "t2_score": 13,
+        "round_diff": -11,
+        "winner": 0
       }
     ]
   }

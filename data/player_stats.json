@@ -9,7 +9,7 @@
     "adr": "152.1",
     "kpr": "0.81",
     "apr": "0.23",
-    "fkpr": "1.49"
+    "fkfd": "1.49"
   },
   "marteen_M8": {
     "team": "M8",
@@ -21,7 +21,7 @@
     "adr": "161.7",
     "kpr": "0.87",
     "apr": "0.28",
-    "fkpr": "1.26"
+    "fkfd": "1.26"
   },
   "primmie_FS": {
     "team": "FS",
@@ -33,7 +33,7 @@
     "adr": "161.4",
     "kpr": "0.90",
     "apr": "0.19",
-    "fkpr": "1.31"
+    "fkfd": "1.31"
   },
   "Neon_LEV": {
     "team": "LEV",
@@ -45,7 +45,7 @@
     "adr": "140.9",
     "kpr": "0.79",
     "apr": "0.23",
-    "fkpr": "1.57"
+    "fkfd": "1.57"
   },
   "basic_FUR": {
     "team": "FUR",
@@ -57,7 +57,7 @@
     "adr": "142.1",
     "kpr": "0.77",
     "apr": "0.34",
-    "fkpr": "1.00"
+    "fkfd": "1.00"
   },
   "hiro_NAVI": {
     "team": "NAVI",
@@ -69,43 +69,43 @@
     "adr": "150.2",
     "kpr": "0.82",
     "apr": "0.20",
-    "fkpr": "1.04"
-  },
-  "slowly_TYL": {
-    "team": "TYL",
-    "alias": "slowly",
-    "rating": "1.15",
-    "acs": "227",
-    "KD": "1.18",
-    "kast": "73%",
-    "adr": "149.6",
-    "kpr": "0.80",
-    "apr": "0.26",
-    "fkpr": "1.32"
+    "fkfd": "1.04"
   },
   "trent_G2": {
     "team": "G2",
     "alias": "trent",
     "rating": "1.14",
-    "acs": "197",
-    "KD": "1.11",
+    "acs": "198",
+    "KD": "1.12",
     "kast": "76%",
-    "adr": "134.1",
+    "adr": "134.4",
     "kpr": "0.70",
     "apr": "0.35",
-    "fkpr": "1.21"
+    "fkfd": "1.20"
   },
-  "happywei_XLG": {
-    "team": "XLG",
-    "alias": "happywei",
+  "lukxo_LOUD": {
+    "team": "LOUD",
+    "alias": "lukxo",
     "rating": "1.14",
-    "acs": "221",
-    "KD": "1.14",
+    "acs": "231",
+    "KD": "1.24",
+    "kast": "69%",
+    "adr": "150.6",
+    "kpr": "0.84",
+    "apr": "0.16",
+    "fkfd": "1.18"
+  },
+  "slowly_TYL": {
+    "team": "TYL",
+    "alias": "slowly",
+    "rating": "1.14",
+    "acs": "226",
+    "KD": "1.17",
     "kast": "73%",
-    "adr": "149.6",
-    "kpr": "0.77",
-    "apr": "0.28",
-    "fkpr": "1.45"
+    "adr": "149.0",
+    "kpr": "0.80",
+    "apr": "0.25",
+    "fkfd": "1.26"
   },
   "Meiy_DFM": {
     "team": "DFM",
@@ -117,43 +117,43 @@
     "adr": "155.3",
     "kpr": "0.87",
     "apr": "0.15",
-    "fkpr": "1.32"
-  },
-  "lukxo_LOUD": {
-    "team": "LOUD",
-    "alias": "lukxo",
-    "rating": "1.13",
-    "acs": "231",
-    "KD": "1.23",
-    "kast": "69%",
-    "adr": "150.1",
-    "kpr": "0.84",
-    "apr": "0.17",
-    "fkpr": "1.17"
+    "fkfd": "1.32"
   },
   "iZu_T1": {
     "team": "T1",
     "alias": "iZu",
     "rating": "1.13",
-    "acs": "215",
-    "KD": "1.25",
+    "acs": "213",
+    "KD": "1.23",
     "kast": "74%",
-    "adr": "140.6",
-    "kpr": "0.78",
+    "adr": "139.5",
+    "kpr": "0.77",
     "apr": "0.21",
-    "fkpr": "1.19"
+    "fkfd": "1.22"
   },
-  "CHICHOO_EDG": {
-    "team": "EDG",
-    "alias": "CHICHOO",
-    "rating": "1.12",
-    "acs": "204",
-    "KD": "1.14",
+  "happywei_XLG": {
+    "team": "XLG",
+    "alias": "happywei",
+    "rating": "1.13",
+    "acs": "218",
+    "KD": "1.13",
+    "kast": "73%",
+    "adr": "148.1",
+    "kpr": "0.76",
+    "apr": "0.27",
+    "fkfd": "1.42"
+  },
+  "Xiesta_GEN": {
+    "team": "GEN",
+    "alias": "Xiesta",
+    "rating": "1.13",
+    "acs": "237",
+    "KD": "1.12",
     "kast": "72%",
-    "adr": "138.6",
-    "kpr": "0.73",
-    "apr": "0.28",
-    "fkpr": "1.05"
+    "adr": "152.1",
+    "kpr": "0.81",
+    "apr": "0.29",
+    "fkfd": "1.06"
   },
   "Ruxic_NAVI": {
     "team": "NAVI",
@@ -165,7 +165,7 @@
     "adr": "141.2",
     "kpr": "0.76",
     "apr": "0.33",
-    "fkpr": "1.05"
+    "fkfd": "1.05"
   },
   "Jemkin_RRQ": {
     "team": "RRQ",
@@ -177,19 +177,7 @@
     "adr": "138.7",
     "kpr": "0.79",
     "apr": "0.15",
-    "fkpr": "1.25"
-  },
-  "Sayonara_VIT": {
-    "team": "VIT",
-    "alias": "Sayonara",
-    "rating": "1.12",
-    "acs": "210",
-    "KD": "1.18",
-    "kast": "73%",
-    "adr": "141.4",
-    "kpr": "0.76",
-    "apr": "0.26",
-    "fkpr": "1.20"
+    "fkfd": "1.25"
   },
   "johnqt_SEN": {
     "team": "SEN",
@@ -201,19 +189,19 @@
     "adr": "127.5",
     "kpr": "0.69",
     "apr": "0.32",
-    "fkpr": "0.90"
+    "fkfd": "0.90"
   },
   "brawk_NRG": {
     "team": "NRG",
     "alias": "brawk",
     "rating": "1.11",
     "acs": "203",
-    "KD": "1.07",
+    "KD": "1.08",
     "kast": "74%",
-    "adr": "138.3",
+    "adr": "137.9",
     "kpr": "0.69",
     "apr": "0.35",
-    "fkpr": "1.20"
+    "fkfd": "1.26"
   },
   "Less_KRÜ": {
     "team": "KRÜ",
@@ -225,7 +213,7 @@
     "adr": "143.3",
     "kpr": "0.77",
     "apr": "0.29",
-    "fkpr": "0.99"
+    "fkfd": "0.99"
   },
   "Alfajer_FNC": {
     "team": "FNC",
@@ -237,7 +225,19 @@
     "adr": "155.1",
     "kpr": "0.84",
     "apr": "0.17",
-    "fkpr": "1.26"
+    "fkfd": "1.26"
+  },
+  "CHICHOO_EDG": {
+    "team": "EDG",
+    "alias": "CHICHOO",
+    "rating": "1.11",
+    "acs": "202",
+    "KD": "1.12",
+    "kast": "72%",
+    "adr": "136.7",
+    "kpr": "0.72",
+    "apr": "0.28",
+    "fkfd": "1.02"
   },
   "OXY_C9": {
     "team": "C9",
@@ -249,31 +249,19 @@
     "adr": "153.7",
     "kpr": "0.88",
     "apr": "0.16",
-    "fkpr": "1.08"
+    "fkfd": "1.08"
   },
-  "splash_TYL": {
-    "team": "TYL",
-    "alias": "splash",
+  "Sayonara_VIT": {
+    "team": "VIT",
+    "alias": "Sayonara",
     "rating": "1.11",
-    "acs": "247",
-    "KD": "1.14",
-    "kast": "72%",
-    "adr": "157.9",
-    "kpr": "0.86",
-    "apr": "0.22",
-    "fkpr": "1.11"
-  },
-  "trexx_TL": {
-    "team": "TL",
-    "alias": "trexx",
-    "rating": "1.10",
-    "acs": "199",
-    "KD": "1.10",
-    "kast": "77%",
-    "adr": "136.9",
-    "kpr": "0.68",
-    "apr": "0.40",
-    "fkpr": "1.04"
+    "acs": "207",
+    "KD": "1.17",
+    "kast": "73%",
+    "adr": "139.1",
+    "kpr": "0.75",
+    "apr": "0.25",
+    "fkfd": "1.20"
   },
   "Knight_BLG": {
     "team": "BLG",
@@ -285,7 +273,7 @@
     "adr": "132.5",
     "kpr": "0.69",
     "apr": "0.32",
-    "fkpr": "0.95"
+    "fkfd": "0.95"
   },
   "deLb_TE": {
     "team": "TE",
@@ -297,31 +285,31 @@
     "adr": "144.4",
     "kpr": "0.76",
     "apr": "0.23",
-    "fkpr": "1.35"
+    "fkfd": "1.35"
   },
   "keiko_NRG": {
     "team": "NRG",
     "alias": "keiko",
     "rating": "1.10",
-    "acs": "211",
+    "acs": "210",
     "KD": "1.13",
     "kast": "73%",
-    "adr": "139.2",
+    "adr": "137.8",
     "kpr": "0.77",
     "apr": "0.25",
-    "fkpr": "1.26"
+    "fkfd": "1.23"
   },
   "AAAAY_FPX": {
     "team": "FPX",
     "alias": "AAAAY",
     "rating": "1.10",
-    "acs": "208",
-    "KD": "1.13",
+    "acs": "206",
+    "KD": "1.11",
     "kast": "71%",
     "adr": "141.6",
-    "kpr": "0.76",
-    "apr": "0.18",
-    "fkpr": "1.59"
+    "kpr": "0.75",
+    "apr": "0.19",
+    "fkfd": "1.59"
   },
   "f4ngeer_AG": {
     "team": "AG",
@@ -333,7 +321,7 @@
     "adr": "146.0",
     "kpr": "0.82",
     "apr": "0.17",
-    "fkpr": "1.26"
+    "fkfd": "1.26"
   },
   "Verno_MIBR": {
     "team": "MIBR",
@@ -345,19 +333,43 @@
     "adr": "132.9",
     "kpr": "0.70",
     "apr": "0.30",
-    "fkpr": "1.04"
+    "fkfd": "1.04"
   },
   "Chronicle_VIT": {
     "team": "VIT",
     "alias": "Chronicle",
     "rating": "1.09",
-    "acs": "212",
-    "KD": "1.18",
-    "kast": "73%",
-    "adr": "142.9",
+    "acs": "213",
+    "KD": "1.17",
+    "kast": "72%",
+    "adr": "143.5",
     "kpr": "0.75",
     "apr": "0.23",
-    "fkpr": "1.08"
+    "fkfd": "1.04"
+  },
+  "bang_100T": {
+    "team": "100T",
+    "alias": "bang",
+    "rating": "1.09",
+    "acs": "186",
+    "KD": "1.09",
+    "kast": "75%",
+    "adr": "119.4",
+    "kpr": "0.68",
+    "apr": "0.38",
+    "fkfd": "1.05"
+  },
+  "Cryocells_100T": {
+    "team": "100T",
+    "alias": "Cryocells",
+    "rating": "1.09",
+    "acs": "206",
+    "KD": "1.20",
+    "kast": "73%",
+    "adr": "134.2",
+    "kpr": "0.76",
+    "apr": "0.17",
+    "fkfd": "1.33"
   },
   "Foxy9_VL": {
     "team": "VL",
@@ -369,7 +381,7 @@
     "adr": "145.6",
     "kpr": "0.81",
     "apr": "0.18",
-    "fkpr": "1.38"
+    "fkfd": "1.38"
   },
   "something_PRX": {
     "team": "PRX",
@@ -378,46 +390,34 @@
     "acs": "210",
     "KD": "1.19",
     "kast": "71%",
-    "adr": "137.6",
+    "adr": "137.5",
     "kpr": "0.76",
     "apr": "0.18",
-    "fkpr": "1.18"
+    "fkfd": "1.12"
   },
-  "Erv_TYL": {
-    "team": "TYL",
-    "alias": "Erv",
+  "erde_LOUD": {
+    "team": "LOUD",
+    "alias": "erde",
     "rating": "1.09",
-    "acs": "195",
-    "KD": "1.02",
-    "kast": "75%",
-    "adr": "132.1",
-    "kpr": "0.67",
-    "apr": "0.40",
-    "fkpr": "1.03"
+    "acs": "203",
+    "KD": "1.09",
+    "kast": "72%",
+    "adr": "132.6",
+    "kpr": "0.71",
+    "apr": "0.35",
+    "fkfd": "1.00"
   },
-  "bang_100T": {
-    "team": "100T",
-    "alias": "bang",
+  "trexx_TL": {
+    "team": "TL",
+    "alias": "trexx",
     "rating": "1.08",
-    "acs": "185",
-    "KD": "1.07",
-    "kast": "74%",
-    "adr": "118.1",
-    "kpr": "0.68",
-    "apr": "0.37",
-    "fkpr": "1.09"
-  },
-  "invy_PRX": {
-    "team": "PRX",
-    "alias": "invy",
-    "rating": "1.08",
-    "acs": "197",
-    "KD": "1.08",
-    "kast": "75%",
-    "adr": "134.4",
-    "kpr": "0.69",
-    "apr": "0.33",
-    "fkpr": "1.01"
+    "acs": "196",
+    "KD": "1.05",
+    "kast": "76%",
+    "adr": "135.4",
+    "kpr": "0.66",
+    "apr": "0.39",
+    "fkfd": "1.03"
   },
   "dgzin_EG": {
     "team": "EG",
@@ -429,19 +429,19 @@
     "adr": "147.5",
     "kpr": "0.84",
     "apr": "0.15",
-    "fkpr": "1.20"
+    "fkfd": "1.20"
   },
-  "erde_LOUD": {
-    "team": "LOUD",
-    "alias": "erde",
+  "splash_TYL": {
+    "team": "TYL",
+    "alias": "splash",
     "rating": "1.08",
-    "acs": "202",
-    "KD": "1.08",
+    "acs": "245",
+    "KD": "1.12",
     "kast": "72%",
-    "adr": "132.6",
-    "kpr": "0.71",
-    "apr": "0.35",
-    "fkpr": "1.01"
+    "adr": "156.0",
+    "kpr": "0.85",
+    "apr": "0.22",
+    "fkfd": "1.08"
   },
   "Xross_NS": {
     "team": "NS",
@@ -450,22 +450,22 @@
     "acs": "196",
     "KD": "1.08",
     "kast": "75%",
-    "adr": "132.2",
-    "kpr": "0.68",
-    "apr": "0.29",
-    "fkpr": "1.31"
+    "adr": "132.6",
+    "kpr": "0.69",
+    "apr": "0.28",
+    "fkfd": "1.26"
   },
-  "Cryocells_100T": {
+  "Asuna_100T": {
     "team": "100T",
-    "alias": "Cryocells",
+    "alias": "Asuna",
     "rating": "1.07",
-    "acs": "204",
-    "KD": "1.18",
-    "kast": "72%",
-    "adr": "133.2",
-    "kpr": "0.75",
-    "apr": "0.18",
-    "fkpr": "1.24"
+    "acs": "207",
+    "KD": "1.05",
+    "kast": "76%",
+    "adr": "133.9",
+    "kpr": "0.71",
+    "apr": "0.41",
+    "fkfd": "0.96"
   },
   "whzy_BLG": {
     "team": "BLG",
@@ -477,7 +477,19 @@
     "adr": "148.6",
     "kpr": "0.83",
     "apr": "0.21",
-    "fkpr": "1.14"
+    "fkfd": "1.14"
+  },
+  "invy_PRX": {
+    "team": "PRX",
+    "alias": "invy",
+    "rating": "1.07",
+    "acs": "197",
+    "KD": "1.07",
+    "kast": "75%",
+    "adr": "133.8",
+    "kpr": "0.69",
+    "apr": "0.33",
+    "fkfd": "1.05"
   },
   "heat_KRÜ": {
     "team": "KRÜ",
@@ -489,7 +501,19 @@
     "adr": "130.6",
     "kpr": "0.76",
     "apr": "0.11",
-    "fkpr": "1.46"
+    "fkfd": "1.46"
+  },
+  "kamo_TL": {
+    "team": "TL",
+    "alias": "kamo",
+    "rating": "1.07",
+    "acs": "225",
+    "KD": "1.11",
+    "kast": "73%",
+    "adr": "149.0",
+    "kpr": "0.79",
+    "apr": "0.25",
+    "fkfd": "1.13"
   },
   "Shyy_FUR": {
     "team": "FUR",
@@ -501,7 +525,7 @@
     "adr": "132.7",
     "kpr": "0.71",
     "apr": "0.23",
-    "fkpr": "1.08"
+    "fkfd": "1.11"
   },
   "Shr1mp_AG": {
     "team": "AG",
@@ -513,7 +537,7 @@
     "adr": "120.7",
     "kpr": "0.67",
     "apr": "0.31",
-    "fkpr": "1.36"
+    "fkfd": "1.36"
   },
   "Karon_GEN": {
     "team": "GEN",
@@ -525,43 +549,19 @@
     "adr": "132.0",
     "kpr": "0.72",
     "apr": "0.30",
-    "fkpr": "1.15"
+    "fkfd": "1.15"
   },
-  "nAts_TL": {
-    "team": "TL",
-    "alias": "nAts",
-    "rating": "1.06",
-    "acs": "209",
-    "KD": "1.13",
-    "kast": "72%",
-    "adr": "141.1",
-    "kpr": "0.74",
-    "apr": "0.22",
-    "fkpr": "0.88"
-  },
-  "Asuna_100T": {
-    "team": "100T",
-    "alias": "Asuna",
-    "rating": "1.06",
-    "acs": "208",
-    "KD": "1.05",
+  "Erv_TYL": {
+    "team": "TYL",
+    "alias": "Erv",
+    "rating": "1.07",
+    "acs": "193",
+    "KD": "1.00",
     "kast": "75%",
-    "adr": "134.4",
-    "kpr": "0.71",
-    "apr": "0.41",
-    "fkpr": "0.90"
-  },
-  "Derke_VIT": {
-    "team": "VIT",
-    "alias": "Derke",
-    "rating": "1.06",
-    "acs": "225",
-    "KD": "1.11",
-    "kast": "72%",
-    "adr": "147.4",
-    "kpr": "0.79",
-    "apr": "0.22",
-    "fkpr": "1.18"
+    "adr": "129.8",
+    "kpr": "0.67",
+    "apr": "0.39",
+    "fkfd": "1.03"
   },
   "Jinggg_PRX": {
     "team": "PRX",
@@ -570,10 +570,10 @@
     "acs": "217",
     "KD": "1.10",
     "kast": "74%",
-    "adr": "144.1",
+    "adr": "144.5",
     "kpr": "0.77",
     "apr": "0.26",
-    "fkpr": "1.18"
+    "fkfd": "1.20"
   },
   "aspas_MIBR": {
     "team": "MIBR",
@@ -585,7 +585,7 @@
     "adr": "142.4",
     "kpr": "0.78",
     "apr": "0.16",
-    "fkpr": "1.20"
+    "fkfd": "1.20"
   },
   "t3xture_GEN": {
     "team": "GEN",
@@ -597,19 +597,19 @@
     "adr": "146.9",
     "kpr": "0.81",
     "apr": "0.16",
-    "fkpr": "1.22"
+    "fkfd": "1.20"
   },
-  "kamo_TL": {
-    "team": "TL",
-    "alias": "kamo",
+  "PatMen_GE": {
+    "team": "GE",
+    "alias": "PatMen",
     "rating": "1.06",
-    "acs": "223",
-    "KD": "1.11",
+    "acs": "220",
+    "KD": "1.09",
     "kast": "73%",
-    "adr": "147.9",
+    "adr": "143.7",
     "kpr": "0.78",
-    "apr": "0.25",
-    "fkpr": "1.11"
+    "apr": "0.27",
+    "fkfd": "1.24"
   },
   "Sato_LEV": {
     "team": "LEV",
@@ -621,7 +621,7 @@
     "adr": "145.9",
     "kpr": "0.77",
     "apr": "0.31",
-    "fkpr": "1.06"
+    "fkfd": "1.06"
   },
   "HYUNMIN_KRX": {
     "team": "KRX",
@@ -633,19 +633,7 @@
     "adr": "150.5",
     "kpr": "0.79",
     "apr": "0.21",
-    "fkpr": "0.97"
-  },
-  "lovers rock_BBL": {
-    "team": "BBL",
-    "alias": "lovers rock",
-    "rating": "1.06",
-    "acs": "220",
-    "KD": "1.12",
-    "kast": "71%",
-    "adr": "140.2",
-    "kpr": "0.78",
-    "apr": "0.17",
-    "fkpr": "1.49"
+    "fkfd": "0.97"
   },
   "XuNa_VL": {
     "team": "VL",
@@ -657,43 +645,43 @@
     "adr": "137.8",
     "kpr": "0.69",
     "apr": "0.26",
-    "fkpr": "1.45"
+    "fkfd": "1.45"
   },
-  "BuZz_T1": {
-    "team": "T1",
-    "alias": "BuZz",
+  "nAts_TL": {
+    "team": "TL",
+    "alias": "nAts",
     "rating": "1.05",
-    "acs": "230",
-    "KD": "1.14",
-    "kast": "72%",
-    "adr": "146.3",
-    "kpr": "0.81",
-    "apr": "0.24",
-    "fkpr": "1.17"
-  },
-  "mwzera_KRÜ": {
-    "team": "KRÜ",
-    "alias": "mwzera",
-    "rating": "1.05",
-    "acs": "200",
-    "KD": "1.03",
-    "kast": "74%",
-    "adr": "132.5",
-    "kpr": "0.69",
-    "apr": "0.30",
-    "fkpr": "1.67"
+    "acs": "206",
+    "KD": "1.11",
+    "kast": "71%",
+    "adr": "139.5",
+    "kpr": "0.72",
+    "apr": "0.22",
+    "fkfd": "0.81"
   },
   "ZmjjKK_EDG": {
     "team": "EDG",
     "alias": "ZmjjKK",
     "rating": "1.05",
-    "acs": "239",
-    "KD": "1.14",
+    "acs": "238",
+    "KD": "1.13",
     "kast": "70%",
-    "adr": "152.5",
+    "adr": "152.0",
     "kpr": "0.84",
     "apr": "0.17",
-    "fkpr": "1.18"
+    "fkfd": "1.17"
+  },
+  "valyn_G2": {
+    "team": "G2",
+    "alias": "valyn",
+    "rating": "1.05",
+    "acs": "198",
+    "KD": "1.06",
+    "kast": "74%",
+    "adr": "128.1",
+    "kpr": "0.71",
+    "apr": "0.35",
+    "fkfd": "1.09"
   },
   "xffero_RRQ": {
     "team": "RRQ",
@@ -705,7 +693,19 @@
     "adr": "134.3",
     "kpr": "0.70",
     "apr": "0.26",
-    "fkpr": "1.10"
+    "fkfd": "1.10"
+  },
+  "Derke_VIT": {
+    "team": "VIT",
+    "alias": "Derke",
+    "rating": "1.05",
+    "acs": "225",
+    "KD": "1.10",
+    "kast": "72%",
+    "adr": "146.8",
+    "kpr": "0.79",
+    "apr": "0.21",
+    "fkfd": "1.18"
   },
   "yosemite_WOL": {
     "team": "WOL",
@@ -717,7 +717,7 @@
     "adr": "136.9",
     "kpr": "0.72",
     "apr": "0.21",
-    "fkpr": "1.03"
+    "fkfd": "1.03"
   },
   "RieNs_TH": {
     "team": "TH",
@@ -729,43 +729,7 @@
     "adr": "137.8",
     "kpr": "0.72",
     "apr": "0.29",
-    "fkpr": "1.27"
-  },
-  "PatMen_GE": {
-    "team": "GE",
-    "alias": "PatMen",
-    "rating": "1.05",
-    "acs": "219",
-    "KD": "1.08",
-    "kast": "72%",
-    "adr": "142.7",
-    "kpr": "0.78",
-    "apr": "0.27",
-    "fkpr": "1.19"
-  },
-  "dos9_KC": {
-    "team": "KC",
-    "alias": "dos9",
-    "rating": "1.05",
-    "acs": "191",
-    "KD": "1.08",
-    "kast": "75%",
-    "adr": "121.6",
-    "kpr": "0.68",
-    "apr": "0.36",
-    "fkpr": "1.03"
-  },
-  "Dambi_NS": {
-    "team": "NS",
-    "alias": "Dambi",
-    "rating": "1.05",
-    "acs": "225",
-    "KD": "1.08",
-    "kast": "70%",
-    "adr": "140.6",
-    "kpr": "0.79",
-    "apr": "0.26",
-    "fkpr": "0.96"
+    "fkfd": "1.27"
   },
   "Coco_TEC": {
     "team": "TEC",
@@ -777,43 +741,19 @@
     "adr": "131.2",
     "kpr": "0.70",
     "apr": "0.37",
-    "fkpr": "0.84"
+    "fkfd": "0.84"
   },
-  "valyn_G2": {
-    "team": "G2",
-    "alias": "valyn",
+  "skuba_NRG": {
+    "team": "NRG",
+    "alias": "skuba",
     "rating": "1.04",
-    "acs": "197",
+    "acs": "186",
     "KD": "1.05",
     "kast": "74%",
-    "adr": "127.2",
-    "kpr": "0.70",
-    "apr": "0.35",
-    "fkpr": "1.07"
-  },
-  "Smoggy_EDG": {
-    "team": "EDG",
-    "alias": "Smoggy",
-    "rating": "1.04",
-    "acs": "200",
-    "KD": "0.99",
-    "kast": "74%",
-    "adr": "132.9",
-    "kpr": "0.69",
-    "apr": "0.36",
-    "fkpr": "1.10"
-  },
-  "LewN_KC": {
-    "team": "KC",
-    "alias": "LewN",
-    "rating": "1.04",
-    "acs": "226",
-    "KD": "1.12",
-    "kast": "71%",
-    "adr": "144.6",
-    "kpr": "0.81",
-    "apr": "0.17",
-    "fkpr": "1.14"
+    "adr": "122.9",
+    "kpr": "0.67",
+    "apr": "0.28",
+    "fkfd": "1.13"
   },
   "blowz_LEV": {
     "team": "LEV",
@@ -825,7 +765,7 @@
     "adr": "120.5",
     "kpr": "0.62",
     "apr": "0.33",
-    "fkpr": "1.22"
+    "fkfd": "1.20"
   },
   "Loita_BBL": {
     "team": "BBL",
@@ -837,19 +777,31 @@
     "adr": "122.5",
     "kpr": "0.65",
     "apr": "0.43",
-    "fkpr": "0.63"
+    "fkfd": "0.63"
   },
-  "Lysoar_XLG": {
-    "team": "XLG",
-    "alias": "Lysoar",
+  "Dambi_NS": {
+    "team": "NS",
+    "alias": "Dambi",
     "rating": "1.04",
-    "acs": "197",
-    "KD": "1.04",
-    "kast": "75%",
-    "adr": "126.7",
-    "kpr": "0.70",
-    "apr": "0.36",
-    "fkpr": "1.06"
+    "acs": "223",
+    "KD": "1.06",
+    "kast": "70%",
+    "adr": "139.5",
+    "kpr": "0.78",
+    "apr": "0.26",
+    "fkfd": "0.97"
+  },
+  "N4RRATE_KC": {
+    "team": "KC",
+    "alias": "N4RRATE",
+    "rating": "1.04",
+    "acs": "212",
+    "KD": "1.08",
+    "kast": "74%",
+    "adr": "139.6",
+    "kpr": "0.74",
+    "apr": "0.24",
+    "fkfd": "1.42"
   },
   "Ezeir_NOVA": {
     "team": "NOVA",
@@ -861,31 +813,31 @@
     "adr": "130.2",
     "kpr": "0.69",
     "apr": "0.35",
-    "fkpr": "1.20"
+    "fkfd": "1.20"
   },
-  "zhe_JDG": {
-    "team": "JDG",
-    "alias": "zhe",
-    "rating": "1.04",
-    "acs": "220",
+  "BuZz_T1": {
+    "team": "T1",
+    "alias": "BuZz",
+    "rating": "1.03",
+    "acs": "227",
     "KD": "1.11",
-    "kast": "73%",
-    "adr": "139.0",
-    "kpr": "0.78",
-    "apr": "0.23",
-    "fkpr": "1.01"
+    "kast": "71%",
+    "adr": "145.2",
+    "kpr": "0.80",
+    "apr": "0.24",
+    "fkfd": "1.13"
   },
   "BABYBAY_G2": {
     "team": "G2",
     "alias": "BABYBAY",
     "rating": "1.03",
-    "acs": "201",
-    "KD": "1.06",
+    "acs": "202",
+    "KD": "1.07",
     "kast": "72%",
-    "adr": "131.8",
-    "kpr": "0.71",
-    "apr": "0.22",
-    "fkpr": "1.21"
+    "adr": "132.4",
+    "kpr": "0.72",
+    "apr": "0.21",
+    "fkfd": "1.18"
   },
   "zekken_MIBR": {
     "team": "MIBR",
@@ -897,7 +849,7 @@
     "adr": "136.6",
     "kpr": "0.74",
     "apr": "0.29",
-    "fkpr": "1.05"
+    "fkfd": "1.04"
   },
   "MaKo_KRX": {
     "team": "KRX",
@@ -909,7 +861,19 @@
     "adr": "127.3",
     "kpr": "0.68",
     "apr": "0.37",
-    "fkpr": "1.09"
+    "fkfd": "1.09"
+  },
+  "Smoggy_EDG": {
+    "team": "EDG",
+    "alias": "Smoggy",
+    "rating": "1.03",
+    "acs": "199",
+    "KD": "0.98",
+    "kast": "73%",
+    "adr": "132.0",
+    "kpr": "0.69",
+    "apr": "0.36",
+    "fkfd": "1.06"
   },
   "cortezia_SEN": {
     "team": "SEN",
@@ -921,19 +885,31 @@
     "adr": "134.4",
     "kpr": "0.69",
     "apr": "0.21",
-    "fkpr": "1.01"
+    "fkfd": "1.00"
   },
   "leaf_G2": {
     "team": "G2",
     "alias": "leaf",
     "rating": "1.03",
-    "acs": "205",
+    "acs": "202",
+    "KD": "1.03",
+    "kast": "71%",
+    "adr": "133.6",
+    "kpr": "0.71",
+    "apr": "0.30",
+    "fkfd": "0.82"
+  },
+  "yetujey_FUT": {
+    "team": "FUT",
+    "alias": "yetujey",
+    "rating": "1.03",
+    "acs": "190",
     "KD": "1.04",
     "kast": "71%",
-    "adr": "135.0",
-    "kpr": "0.72",
-    "apr": "0.30",
-    "fkpr": "0.79"
+    "adr": "129.3",
+    "kpr": "0.68",
+    "apr": "0.22",
+    "fkfd": "1.04"
   },
   "kiNgg_LEV": {
     "team": "LEV",
@@ -945,19 +921,19 @@
     "adr": "115.5",
     "kpr": "0.64",
     "apr": "0.31",
-    "fkpr": "1.17"
+    "fkfd": "1.17"
   },
-  "skuba_NRG": {
-    "team": "NRG",
-    "alias": "skuba",
+  "d4v41_PRX": {
+    "team": "PRX",
+    "alias": "d4v41",
     "rating": "1.03",
-    "acs": "186",
-    "KD": "1.05",
-    "kast": "74%",
-    "adr": "122.8",
-    "kpr": "0.67",
-    "apr": "0.28",
-    "fkpr": "1.17"
+    "acs": "197",
+    "KD": "1.09",
+    "kast": "72%",
+    "adr": "133.1",
+    "kpr": "0.72",
+    "apr": "0.21",
+    "fkfd": "1.36"
   },
   "Akame_DFM": {
     "team": "DFM",
@@ -969,7 +945,7 @@
     "adr": "136.2",
     "kpr": "0.71",
     "apr": "0.26",
-    "fkpr": "0.87"
+    "fkfd": "0.87"
   },
   "Spring_WOL": {
     "team": "WOL",
@@ -981,7 +957,19 @@
     "adr": "137.3",
     "kpr": "0.70",
     "apr": "0.32",
-    "fkpr": "0.88"
+    "fkfd": "0.88"
+  },
+  "dos9_KC": {
+    "team": "KC",
+    "alias": "dos9",
+    "rating": "1.03",
+    "acs": "185",
+    "KD": "1.04",
+    "kast": "75%",
+    "adr": "117.6",
+    "kpr": "0.66",
+    "apr": "0.37",
+    "fkfd": "1.03"
   },
   "lucas_TEC": {
     "team": "TEC",
@@ -993,7 +981,7 @@
     "adr": "133.4",
     "kpr": "0.71",
     "apr": "0.29",
-    "fkpr": "0.86"
+    "fkfd": "0.86"
   },
   "Wo0t_TH": {
     "team": "TH",
@@ -1005,31 +993,19 @@
     "adr": "140.1",
     "kpr": "0.75",
     "apr": "0.21",
-    "fkpr": "1.18"
+    "fkfd": "1.18"
   },
-  "N4RRATE_KC": {
-    "team": "KC",
-    "alias": "N4RRATE",
+  "Lysoar_XLG": {
+    "team": "XLG",
+    "alias": "Lysoar",
     "rating": "1.03",
-    "acs": "210",
-    "KD": "1.06",
-    "kast": "74%",
-    "adr": "138.3",
-    "kpr": "0.73",
-    "apr": "0.24",
-    "fkpr": "1.38"
-  },
-  "s0pp_FUT": {
-    "team": "FUT",
-    "alias": "s0pp",
-    "rating": "1.03",
-    "acs": "226",
-    "KD": "1.05",
-    "kast": "71%",
-    "adr": "145.4",
-    "kpr": "0.79",
-    "apr": "0.21",
-    "fkpr": "1.33"
+    "acs": "196",
+    "KD": "1.03",
+    "kast": "75%",
+    "adr": "126.2",
+    "kpr": "0.70",
+    "apr": "0.35",
+    "fkfd": "1.00"
   },
   "Favian_EF": {
     "team": "EF",
@@ -1041,7 +1017,7 @@
     "adr": "143.2",
     "kpr": "0.78",
     "apr": "0.23",
-    "fkpr": "0.98"
+    "fkfd": "0.98"
   },
   "Raxcal_GEN": {
     "team": "GEN",
@@ -1053,7 +1029,31 @@
     "adr": "126.0",
     "kpr": "0.67",
     "apr": "0.28",
-    "fkpr": "0.97"
+    "fkfd": "0.97"
+  },
+  "zhe_JDG": {
+    "team": "JDG",
+    "alias": "zhe",
+    "rating": "1.03",
+    "acs": "218",
+    "KD": "1.10",
+    "kast": "72%",
+    "adr": "136.8",
+    "kpr": "0.77",
+    "apr": "0.23",
+    "fkfd": "0.98"
+  },
+  "GSR_TL": {
+    "team": "TL",
+    "alias": "GSR",
+    "rating": "1.03",
+    "acs": "210",
+    "KD": "1.05",
+    "kast": "74%",
+    "adr": "137.4",
+    "kpr": "0.75",
+    "apr": "0.20",
+    "fkfd": "1.05"
   },
   "crashies_FNC": {
     "team": "FNC",
@@ -1065,67 +1065,31 @@
     "adr": "122.3",
     "kpr": "0.65",
     "apr": "0.26",
-    "fkpr": "0.97"
-  },
-  "stax_T1": {
-    "team": "T1",
-    "alias": "stax",
-    "rating": "1.02",
-    "acs": "177",
-    "KD": "1.02",
-    "kast": "74%",
-    "adr": "116.9",
-    "kpr": "0.64",
-    "apr": "0.34",
-    "fkpr": "1.33"
+    "fkfd": "0.97"
   },
   "Rb_NS": {
     "team": "NS",
     "alias": "Rb",
     "rating": "1.02",
-    "acs": "180",
-    "KD": "1.01",
+    "acs": "181",
+    "KD": "1.02",
     "kast": "74%",
-    "adr": "113.6",
-    "kpr": "0.64",
-    "apr": "0.41",
-    "fkpr": "0.77"
+    "adr": "113.8",
+    "kpr": "0.65",
+    "apr": "0.40",
+    "fkfd": "0.75"
   },
-  "Autumn_GE": {
+  "xavi8k_GE": {
     "team": "GE",
-    "alias": "Autumn",
+    "alias": "xavi8k",
     "rating": "1.02",
-    "acs": "201",
-    "KD": "1.07",
-    "kast": "70%",
-    "adr": "130.4",
-    "kpr": "0.73",
-    "apr": "0.19",
-    "fkpr": "0.91"
-  },
-  "yetujey_FUT": {
-    "team": "FUT",
-    "alias": "yetujey",
-    "rating": "1.02",
-    "acs": "190",
-    "KD": "1.03",
+    "acs": "189",
+    "KD": "0.99",
     "kast": "71%",
-    "adr": "129.0",
-    "kpr": "0.67",
-    "apr": "0.22",
-    "fkpr": "0.99"
-  },
-  "d4v41_PRX": {
-    "team": "PRX",
-    "alias": "d4v41",
-    "rating": "1.02",
-    "acs": "196",
-    "KD": "1.08",
-    "kast": "72%",
-    "adr": "132.7",
-    "kpr": "0.71",
-    "apr": "0.21",
-    "fkpr": "1.32"
+    "adr": "123.8",
+    "kpr": "0.66",
+    "apr": "0.34",
+    "fkfd": "0.87"
   },
   "Nicc_DRG": {
     "team": "DRG",
@@ -1137,7 +1101,7 @@
     "adr": "118.9",
     "kpr": "0.65",
     "apr": "0.39",
-    "fkpr": "0.85"
+    "fkfd": "0.85"
   },
   "Killua_FS": {
     "team": "FS",
@@ -1149,19 +1113,31 @@
     "adr": "127.7",
     "kpr": "0.69",
     "apr": "0.33",
-    "fkpr": "1.04"
+    "fkfd": "1.04"
   },
-  "Scales_TYL": {
-    "team": "TYL",
-    "alias": "Scales",
+  "LewN_KC": {
+    "team": "KC",
+    "alias": "LewN",
     "rating": "1.02",
-    "acs": "195",
-    "KD": "1.02",
-    "kast": "72%",
-    "adr": "132.0",
-    "kpr": "0.69",
-    "apr": "0.23",
-    "fkpr": "1.40"
+    "acs": "223",
+    "KD": "1.11",
+    "kast": "71%",
+    "adr": "142.7",
+    "kpr": "0.80",
+    "apr": "0.17",
+    "fkfd": "1.15"
+  },
+  "s0pp_FUT": {
+    "team": "FUT",
+    "alias": "s0pp",
+    "rating": "1.02",
+    "acs": "226",
+    "KD": "1.05",
+    "kast": "71%",
+    "adr": "144.8",
+    "kpr": "0.79",
+    "apr": "0.21",
+    "fkfd": "1.31"
   },
   "K1ra_AG": {
     "team": "AG",
@@ -1173,55 +1149,19 @@
     "adr": "135.8",
     "kpr": "0.74",
     "apr": "0.28",
-    "fkpr": "0.92"
-  },
-  "UdoTan_GE": {
-    "team": "GE",
-    "alias": "UdoTan",
-    "rating": "1.01",
-    "acs": "216",
-    "KD": "1.05",
-    "kast": "72%",
-    "adr": "140.9",
-    "kpr": "0.76",
-    "apr": "0.19",
-    "fkpr": "1.07"
-  },
-  "xavi8k_GE": {
-    "team": "GE",
-    "alias": "xavi8k",
-    "rating": "1.01",
-    "acs": "188",
-    "KD": "0.98",
-    "kast": "72%",
-    "adr": "123.6",
-    "kpr": "0.66",
-    "apr": "0.35",
-    "fkpr": "0.87"
+    "fkfd": "0.92"
   },
   "coconut_FPX": {
     "team": "FPX",
     "alias": "coconut",
     "rating": "1.01",
-    "acs": "182",
-    "KD": "0.96",
+    "acs": "184",
+    "KD": "0.97",
     "kast": "69%",
     "adr": "120.7",
-    "kpr": "0.63",
-    "apr": "0.30",
-    "fkpr": "0.74"
-  },
-  "Meteor_T1": {
-    "team": "T1",
-    "alias": "Meteor",
-    "rating": "1.01",
-    "acs": "212",
-    "KD": "1.07",
-    "kast": "70%",
-    "adr": "139.5",
-    "kpr": "0.75",
-    "apr": "0.19",
-    "fkpr": "1.21"
+    "kpr": "0.64",
+    "apr": "0.29",
+    "fkfd": "0.74"
   },
   "Lar0k_BBL": {
     "team": "BBL",
@@ -1233,19 +1173,7 @@
     "adr": "135.2",
     "kpr": "0.73",
     "apr": "0.24",
-    "fkpr": "1.04"
-  },
-  "Francis_NS": {
-    "team": "NS",
-    "alias": "Francis",
-    "rating": "1.01",
-    "acs": "217",
-    "KD": "1.02",
-    "kast": "71%",
-    "adr": "140.0",
-    "kpr": "0.75",
-    "apr": "0.26",
-    "fkpr": "1.00"
+    "fkfd": "1.04"
   },
   "oonzmlp_VL": {
     "team": "VL",
@@ -1257,7 +1185,7 @@
     "adr": "128.2",
     "kpr": "0.67",
     "apr": "0.29",
-    "fkpr": "0.96"
+    "fkfd": "0.96"
   },
   "swagzor_NOVA": {
     "team": "NOVA",
@@ -1269,7 +1197,7 @@
     "adr": "154.0",
     "kpr": "0.88",
     "apr": "0.19",
-    "fkpr": "1.12"
+    "fkfd": "1.12"
   },
   "Zeus_TS": {
     "team": "TS",
@@ -1281,7 +1209,7 @@
     "adr": "147.6",
     "kpr": "0.79",
     "apr": "0.22",
-    "fkpr": "0.93"
+    "fkfd": "0.92"
   },
   "ra1ny_TEC": {
     "team": "TEC",
@@ -1293,7 +1221,43 @@
     "adr": "149.7",
     "kpr": "0.76",
     "apr": "0.20",
-    "fkpr": "0.78"
+    "fkfd": "0.78"
+  },
+  "stax_T1": {
+    "team": "T1",
+    "alias": "stax",
+    "rating": "1.00",
+    "acs": "174",
+    "KD": "0.99",
+    "kast": "73%",
+    "adr": "114.1",
+    "kpr": "0.62",
+    "apr": "0.34",
+    "fkfd": "1.15"
+  },
+  "Autumn_GE": {
+    "team": "GE",
+    "alias": "Autumn",
+    "rating": "1.00",
+    "acs": "199",
+    "KD": "1.05",
+    "kast": "70%",
+    "adr": "128.9",
+    "kpr": "0.72",
+    "apr": "0.19",
+    "fkfd": "0.90"
+  },
+  "UdoTan_GE": {
+    "team": "GE",
+    "alias": "UdoTan",
+    "rating": "1.00",
+    "acs": "216",
+    "KD": "1.03",
+    "kast": "71%",
+    "adr": "140.5",
+    "kpr": "0.76",
+    "apr": "0.19",
+    "fkfd": "1.09"
   },
   "FengF_TE": {
     "team": "TE",
@@ -1305,19 +1269,19 @@
     "adr": "137.9",
     "kpr": "0.70",
     "apr": "0.28",
-    "fkpr": "0.70"
+    "fkfd": "0.70"
   },
   "Kr1stal_GE": {
     "team": "GE",
     "alias": "Kr1stal",
     "rating": "1.00",
-    "acs": "180",
+    "acs": "181",
     "KD": "0.97",
     "kast": "72%",
-    "adr": "122.6",
-    "kpr": "0.62",
+    "adr": "123.0",
+    "kpr": "0.63",
     "apr": "0.25",
-    "fkpr": "0.98"
+    "fkfd": "0.95"
   },
   "Reduxx_SEN": {
     "team": "SEN",
@@ -1329,19 +1293,19 @@
     "adr": "133.1",
     "kpr": "0.72",
     "apr": "0.27",
-    "fkpr": "1.14"
+    "fkfd": "1.14"
   },
   "f0rsakeN_PRX": {
     "team": "PRX",
     "alias": "f0rsakeN",
     "rating": "1.00",
-    "acs": "210",
-    "KD": "1.02",
+    "acs": "208",
+    "KD": "1.01",
     "kast": "73%",
-    "adr": "136.8",
+    "adr": "135.7",
     "kpr": "0.73",
     "apr": "0.36",
-    "fkpr": "0.95"
+    "fkfd": "0.96"
   },
   "nephh_BLG": {
     "team": "BLG",
@@ -1353,31 +1317,31 @@
     "adr": "121.3",
     "kpr": "0.68",
     "apr": "0.42",
-    "fkpr": "0.85"
+    "fkfd": "0.85"
   },
-  "Yuicaw_JDG": {
-    "team": "JDG",
-    "alias": "Yuicaw",
+  "DaviH_LOUD": {
+    "team": "LOUD",
+    "alias": "DaviH",
     "rating": "1.00",
-    "acs": "199",
-    "KD": "0.99",
-    "kast": "71%",
-    "adr": "132.8",
-    "kpr": "0.69",
-    "apr": "0.24",
-    "fkpr": "1.07"
-  },
-  "stew_EDG": {
-    "team": "EDG",
-    "alias": "stew",
-    "rating": "1.00",
-    "acs": "212",
-    "KD": "1.05",
+    "acs": "165",
+    "KD": "0.93",
     "kast": "73%",
-    "adr": "133.4",
-    "kpr": "0.75",
-    "apr": "0.28",
-    "fkpr": "1.12"
+    "adr": "114.3",
+    "kpr": "0.57",
+    "apr": "0.34",
+    "fkfd": "1.11"
+  },
+  "Meteor_T1": {
+    "team": "T1",
+    "alias": "Meteor",
+    "rating": "1.00",
+    "acs": "210",
+    "KD": "1.06",
+    "kast": "70%",
+    "adr": "138.1",
+    "kpr": "0.74",
+    "apr": "0.18",
+    "fkfd": "1.17"
   },
   "Minny_M8": {
     "team": "M8",
@@ -1389,7 +1353,7 @@
     "adr": "130.0",
     "kpr": "0.71",
     "apr": "0.22",
-    "fkpr": "0.90"
+    "fkfd": "0.90"
   },
   "benjyfishy_TH": {
     "team": "TH",
@@ -1401,7 +1365,43 @@
     "adr": "125.5",
     "kpr": "0.69",
     "apr": "0.25",
-    "fkpr": "1.04"
+    "fkfd": "1.04"
+  },
+  "Timotino_100T": {
+    "team": "100T",
+    "alias": "Timotino",
+    "rating": "1.00",
+    "acs": "223",
+    "KD": "1.05",
+    "kast": "69%",
+    "adr": "145.1",
+    "kpr": "0.77",
+    "apr": "0.23",
+    "fkfd": "1.10"
+  },
+  "Francis_NS": {
+    "team": "NS",
+    "alias": "Francis",
+    "rating": "1.00",
+    "acs": "216",
+    "KD": "1.02",
+    "kast": "71%",
+    "adr": "139.2",
+    "kpr": "0.75",
+    "apr": "0.25",
+    "fkfd": "0.99"
+  },
+  "Scales_TYL": {
+    "team": "TYL",
+    "alias": "Scales",
+    "rating": "1.00",
+    "acs": "194",
+    "KD": "1.01",
+    "kast": "71%",
+    "adr": "130.8",
+    "kpr": "0.68",
+    "apr": "0.23",
+    "fkfd": "1.34"
   },
   "Jackk_C9": {
     "team": "C9",
@@ -1413,19 +1413,7 @@
     "adr": "115.7",
     "kpr": "0.60",
     "apr": "0.35",
-    "fkpr": "1.00"
-  },
-  "Munchkin_T1": {
-    "team": "T1",
-    "alias": "Munchkin",
-    "rating": "0.99",
-    "acs": "181",
-    "KD": "0.96",
-    "kast": "73%",
-    "adr": "118.6",
-    "kpr": "0.62",
-    "apr": "0.41",
-    "fkpr": "0.73"
+    "fkfd": "1.00"
   },
   "LuoK1ng_TE": {
     "team": "TE",
@@ -1437,19 +1425,7 @@
     "adr": "112.7",
     "kpr": "0.64",
     "apr": "0.38",
-    "fkpr": "0.74"
-  },
-  "Sylvan_TS": {
-    "team": "TS",
-    "alias": "Sylvan",
-    "rating": "0.99",
-    "acs": "191",
-    "KD": "0.96",
-    "kast": "72%",
-    "adr": "124.8",
-    "kpr": "0.69",
-    "apr": "0.34",
-    "fkpr": "0.73"
+    "fkfd": "0.74"
   },
   "BeYN_KRX": {
     "team": "KRX",
@@ -1461,7 +1437,7 @@
     "adr": "119.6",
     "kpr": "0.63",
     "apr": "0.29",
-    "fkpr": "1.01"
+    "fkfd": "1.01"
   },
   "mada_NRG": {
     "team": "NRG",
@@ -1470,22 +1446,34 @@
     "acs": "209",
     "KD": "1.04",
     "kast": "71%",
-    "adr": "132.1",
+    "adr": "131.9",
     "kpr": "0.74",
-    "apr": "0.22",
-    "fkpr": "1.06"
+    "apr": "0.23",
+    "fkfd": "1.07"
+  },
+  "PROFEK_VIT": {
+    "team": "VIT",
+    "alias": "PROFEK",
+    "rating": "0.99",
+    "acs": "180",
+    "KD": "1.00",
+    "kast": "74%",
+    "adr": "118.3",
+    "kpr": "0.64",
+    "apr": "0.36",
+    "fkfd": "1.29"
   },
   "Avez_KC": {
     "team": "KC",
     "alias": "Avez",
     "rating": "0.99",
-    "acs": "189",
-    "KD": "0.98",
+    "acs": "191",
+    "KD": "0.99",
     "kast": "71%",
-    "adr": "124.3",
+    "adr": "125.5",
     "kpr": "0.67",
     "apr": "0.31",
-    "fkpr": "0.76"
+    "fkfd": "0.77"
   },
   "kaajak_FNC": {
     "team": "FNC",
@@ -1497,19 +1485,31 @@
     "adr": "137.7",
     "kpr": "0.77",
     "apr": "0.16",
-    "fkpr": "0.98"
+    "fkfd": "0.98"
   },
-  "DaviH_LOUD": {
-    "team": "LOUD",
-    "alias": "DaviH",
+  "Jamppi_VIT": {
+    "team": "VIT",
+    "alias": "Jamppi",
     "rating": "0.99",
-    "acs": "163",
-    "KD": "0.91",
-    "kast": "73%",
-    "adr": "113.0",
-    "kpr": "0.56",
-    "apr": "0.32",
-    "fkpr": "1.13"
+    "acs": "200",
+    "KD": "1.01",
+    "kast": "72%",
+    "adr": "128.6",
+    "kpr": "0.70",
+    "apr": "0.31",
+    "fkfd": "0.91"
+  },
+  "Kicks_TL": {
+    "team": "TL",
+    "alias": "Kicks",
+    "rating": "0.99",
+    "acs": "172",
+    "KD": "0.95",
+    "kast": "72%",
+    "adr": "112.6",
+    "kpr": "0.62",
+    "apr": "0.37",
+    "fkfd": "1.25"
   },
   "v1c_C9": {
     "team": "C9",
@@ -1521,43 +1521,19 @@
     "adr": "121.6",
     "kpr": "0.64",
     "apr": "0.40",
-    "fkpr": "0.96"
+    "fkfd": "0.96"
   },
   "vora_100T": {
     "team": "100T",
     "alias": "vora",
     "rating": "0.99",
     "acs": "181",
-    "KD": "0.98",
+    "KD": "0.99",
     "kast": "74%",
     "adr": "121.5",
     "kpr": "0.63",
     "apr": "0.32",
-    "fkpr": "0.89"
-  },
-  "Timotino_100T": {
-    "team": "100T",
-    "alias": "Timotino",
-    "rating": "0.99",
-    "acs": "221",
-    "KD": "1.03",
-    "kast": "69%",
-    "adr": "144.0",
-    "kpr": "0.76",
-    "apr": "0.23",
-    "fkpr": "1.07"
-  },
-  "Ivy_NS": {
-    "team": "NS",
-    "alias": "Ivy",
-    "rating": "0.99",
-    "acs": "194",
-    "KD": "1.05",
-    "kast": "70%",
-    "adr": "128.5",
-    "kpr": "0.70",
-    "apr": "0.21",
-    "fkpr": "1.08"
+    "fkfd": "0.91"
   },
   "iamgrq_AG": {
     "team": "AG",
@@ -1569,31 +1545,19 @@
     "adr": "125.6",
     "kpr": "0.68",
     "apr": "0.40",
-    "fkpr": "0.83"
+    "fkfd": "0.83"
   },
-  "al0rante_PCF": {
-    "team": "PCF",
-    "alias": "al0rante",
+  "Munchkin_T1": {
+    "team": "T1",
+    "alias": "Munchkin",
     "rating": "0.98",
-    "acs": "201",
-    "KD": "1.00",
-    "kast": "67%",
-    "adr": "133.5",
-    "kpr": "0.73",
-    "apr": "0.17",
-    "fkpr": "0.93"
-  },
-  "PROFEK_VIT": {
-    "team": "VIT",
-    "alias": "PROFEK",
-    "rating": "0.98",
-    "acs": "178",
-    "KD": "0.99",
-    "kast": "74%",
-    "adr": "117.2",
-    "kpr": "0.63",
-    "apr": "0.36",
-    "fkpr": "1.29"
+    "acs": "182",
+    "KD": "0.95",
+    "kast": "73%",
+    "adr": "119.8",
+    "kpr": "0.62",
+    "apr": "0.41",
+    "fkfd": "0.75"
   },
   "artzin_FUR": {
     "team": "FUR",
@@ -1605,19 +1569,7 @@
     "adr": "128.8",
     "kpr": "0.67",
     "apr": "0.35",
-    "fkpr": "0.73"
-  },
-  "waddle_PCF": {
-    "team": "PCF",
-    "alias": "waddle",
-    "rating": "0.98",
-    "acs": "194",
-    "KD": "0.93",
-    "kast": "68%",
-    "adr": "133.0",
-    "kpr": "0.67",
-    "apr": "0.29",
-    "fkpr": "0.52"
+    "fkfd": "0.73"
   },
   "Deryeon_WOL": {
     "team": "WOL",
@@ -1629,19 +1581,19 @@
     "adr": "124.1",
     "kpr": "0.66",
     "apr": "0.37",
-    "fkpr": "0.77"
+    "fkfd": "0.77"
   },
-  "Jamppi_VIT": {
-    "team": "VIT",
-    "alias": "Jamppi",
+  "Yuicaw_JDG": {
+    "team": "JDG",
+    "alias": "Yuicaw",
     "rating": "0.98",
-    "acs": "197",
-    "KD": "0.99",
-    "kast": "72%",
-    "adr": "126.7",
-    "kpr": "0.69",
-    "apr": "0.32",
-    "fkpr": "0.88"
+    "acs": "196",
+    "KD": "0.97",
+    "kast": "70%",
+    "adr": "130.5",
+    "kpr": "0.68",
+    "apr": "0.24",
+    "fkfd": "1.01"
   },
   "spike_LEV": {
     "team": "LEV",
@@ -1653,19 +1605,19 @@
     "adr": "140.7",
     "kpr": "0.77",
     "apr": "0.27",
-    "fkpr": "1.15"
+    "fkfd": "1.16"
   },
-  "WsLeo_XLG": {
-    "team": "XLG",
-    "alias": "WsLeo",
+  "Ivy_NS": {
+    "team": "NS",
+    "alias": "Ivy",
     "rating": "0.98",
-    "acs": "188",
-    "KD": "0.97",
-    "kast": "74%",
-    "adr": "125.5",
-    "kpr": "0.65",
-    "apr": "0.36",
-    "fkpr": "1.15"
+    "acs": "192",
+    "KD": "1.04",
+    "kast": "69%",
+    "adr": "127.4",
+    "kpr": "0.69",
+    "apr": "0.21",
+    "fkfd": "1.08"
   },
   "GuanG_NOVA": {
     "team": "NOVA",
@@ -1677,19 +1629,7 @@
     "adr": "129.3",
     "kpr": "0.75",
     "apr": "0.18",
-    "fkpr": "1.10"
-  },
-  "nightz_ENVY": {
-    "team": "ENVY",
-    "alias": "nightz",
-    "rating": "0.98",
-    "acs": "206",
-    "KD": "0.92",
-    "kast": "70%",
-    "adr": "139.7",
-    "kpr": "0.70",
-    "apr": "0.38",
-    "fkpr": "1.18"
+    "fkfd": "1.10"
   },
   "echo_EF": {
     "team": "EF",
@@ -1701,7 +1641,7 @@
     "adr": "135.8",
     "kpr": "0.73",
     "apr": "0.20",
-    "fkpr": "1.06"
+    "fkfd": "1.06"
   },
   "yilai_BLG": {
     "team": "BLG",
@@ -1713,7 +1653,7 @@
     "adr": "137.3",
     "kpr": "0.81",
     "apr": "0.29",
-    "fkpr": "0.80"
+    "fkfd": "0.80"
   },
   "Cloud_FNC": {
     "team": "FNC",
@@ -1725,31 +1665,7 @@
     "adr": "128.0",
     "kpr": "0.65",
     "apr": "0.29",
-    "fkpr": "0.97"
-  },
-  "kellyS_TS": {
-    "team": "TS",
-    "alias": "kellyS",
-    "rating": "0.97",
-    "acs": "204",
-    "KD": "0.94",
-    "kast": "73%",
-    "adr": "136.0",
-    "kpr": "0.70",
-    "apr": "0.30",
-    "fkpr": "0.99"
-  },
-  "SiuFatBB_TYL": {
-    "team": "TYL",
-    "alias": "SiuFatBB",
-    "rating": "0.97",
-    "acs": "162",
-    "KD": "0.94",
-    "kast": "73%",
-    "adr": "108.6",
-    "kpr": "0.58",
-    "apr": "0.30",
-    "fkpr": "0.94"
+    "fkfd": "0.96"
   },
   "Monyet_RRQ": {
     "team": "RRQ",
@@ -1761,19 +1677,7 @@
     "adr": "131.2",
     "kpr": "0.70",
     "apr": "0.33",
-    "fkpr": "0.74"
-  },
-  "Kicks_TL": {
-    "team": "TL",
-    "alias": "Kicks",
-    "rating": "0.97",
-    "acs": "169",
-    "KD": "0.93",
-    "kast": "73%",
-    "adr": "110.6",
-    "kpr": "0.60",
-    "apr": "0.36",
-    "fkpr": "1.08"
+    "fkfd": "0.74"
   },
   "ara_GX": {
     "team": "GX",
@@ -1785,7 +1689,19 @@
     "adr": "131.7",
     "kpr": "0.74",
     "apr": "0.16",
-    "fkpr": "1.01"
+    "fkfd": "1.01"
+  },
+  "WsLeo_XLG": {
+    "team": "XLG",
+    "alias": "WsLeo",
+    "rating": "0.97",
+    "acs": "187",
+    "KD": "0.96",
+    "kast": "73%",
+    "adr": "124.6",
+    "kpr": "0.65",
+    "apr": "0.36",
+    "fkfd": "1.12"
   },
   "Kai_TE": {
     "team": "TE",
@@ -1797,7 +1713,7 @@
     "adr": "138.7",
     "kpr": "0.75",
     "apr": "0.17",
-    "fkpr": "1.12"
+    "fkfd": "1.12"
   },
   "cb_NOVA": {
     "team": "NOVA",
@@ -1809,7 +1725,7 @@
     "adr": "128.9",
     "kpr": "0.68",
     "apr": "0.26",
-    "fkpr": "0.84"
+    "fkfd": "0.84"
   },
   "Dynamite_TEC": {
     "team": "TEC",
@@ -1821,7 +1737,7 @@
     "adr": "135.4",
     "kpr": "0.72",
     "apr": "0.26",
-    "fkpr": "0.83"
+    "fkfd": "0.83"
   },
   "rushia_BLG": {
     "team": "BLG",
@@ -1833,19 +1749,19 @@
     "adr": "132.1",
     "kpr": "0.67",
     "apr": "0.25",
-    "fkpr": "0.98"
+    "fkfd": "0.98"
   },
   "Xlele_FPX": {
     "team": "FPX",
     "alias": "Xlele",
     "rating": "0.97",
-    "acs": "201",
-    "KD": "0.98",
+    "acs": "198",
+    "KD": "0.97",
     "kast": "71%",
     "adr": "131.5",
-    "kpr": "0.71",
-    "apr": "0.21",
-    "fkpr": "1.06"
+    "kpr": "0.70",
+    "apr": "0.23",
+    "fkfd": "1.06"
   },
   "supamen_EG": {
     "team": "EG",
@@ -1857,7 +1773,7 @@
     "adr": "120.8",
     "kpr": "0.64",
     "apr": "0.30",
-    "fkpr": "0.98"
+    "fkfd": "0.96"
   },
   "eKo_ZETA": {
     "team": "ZETA",
@@ -1869,7 +1785,7 @@
     "adr": "131.0",
     "kpr": "0.68",
     "apr": "0.28",
-    "fkpr": "0.91"
+    "fkfd": "0.91"
   },
   "FireBallOps_C9": {
     "team": "C9",
@@ -1881,7 +1797,19 @@
     "adr": "128.4",
     "kpr": "0.69",
     "apr": "0.19",
-    "fkpr": "0.98"
+    "fkfd": "0.98"
+  },
+  "Ethan_NRG": {
+    "team": "NRG",
+    "alias": "Ethan",
+    "rating": "0.96",
+    "acs": "178",
+    "KD": "0.90",
+    "kast": "74%",
+    "adr": "119.1",
+    "kpr": "0.61",
+    "apr": "0.38",
+    "fkfd": "0.90"
   },
   "zerona_EG": {
     "team": "EG",
@@ -1893,19 +1821,31 @@
     "adr": "141.3",
     "kpr": "0.71",
     "apr": "0.27",
-    "fkpr": "1.17"
+    "fkfd": "1.17"
+  },
+  "stew_EDG": {
+    "team": "EDG",
+    "alias": "stew",
+    "rating": "0.96",
+    "acs": "208",
+    "KD": "1.00",
+    "kast": "71%",
+    "adr": "129.7",
+    "kpr": "0.73",
+    "apr": "0.28",
+    "fkfd": "1.01"
   },
   "Rarga_XLG": {
     "team": "XLG",
     "alias": "Rarga",
     "rating": "0.96",
-    "acs": "215",
-    "KD": "1.04",
-    "kast": "71%",
-    "adr": "137.6",
+    "acs": "214",
+    "KD": "1.03",
+    "kast": "70%",
+    "adr": "136.2",
     "kpr": "0.76",
     "apr": "0.18",
-    "fkpr": "1.14"
+    "fkfd": "1.11"
   },
   "SpiritZ1_DRG": {
     "team": "DRG",
@@ -1917,7 +1857,7 @@
     "adr": "141.1",
     "kpr": "0.76",
     "apr": "0.20",
-    "fkpr": "1.09"
+    "fkfd": "1.09"
   },
   "westside_GX": {
     "team": "GX",
@@ -1929,7 +1869,7 @@
     "adr": "129.1",
     "kpr": "0.71",
     "apr": "0.19",
-    "fkpr": "1.03"
+    "fkfd": "1.02"
   },
   "audaz_EF": {
     "team": "EF",
@@ -1941,7 +1881,7 @@
     "adr": "111.6",
     "kpr": "0.61",
     "apr": "0.36",
-    "fkpr": "1.13"
+    "fkfd": "1.13"
   },
   "crazyguy_RRQ": {
     "team": "RRQ",
@@ -1953,7 +1893,19 @@
     "adr": "120.0",
     "kpr": "0.62",
     "apr": "0.38",
-    "fkpr": "0.62"
+    "fkfd": "0.62"
+  },
+  "SUYGETSU_KC": {
+    "team": "KC",
+    "alias": "SUYGETSU",
+    "rating": "0.95",
+    "acs": "177",
+    "KD": "0.98",
+    "kast": "71%",
+    "adr": "118.7",
+    "kpr": "0.63",
+    "apr": "0.22",
+    "fkfd": "1.07"
   },
   "Klaus_VL": {
     "team": "VL",
@@ -1965,19 +1917,19 @@
     "adr": "118.4",
     "kpr": "0.65",
     "apr": "0.26",
-    "fkpr": "0.90"
+    "fkfd": "0.90"
   },
   "sociablEE_FUT": {
     "team": "FUT",
     "alias": "sociablEE",
     "rating": "0.95",
     "acs": "182",
-    "KD": "0.90",
+    "KD": "0.91",
     "kast": "71%",
-    "adr": "118.9",
+    "adr": "118.8",
     "kpr": "0.63",
     "apr": "0.41",
-    "fkpr": "0.74"
+    "fkfd": "0.73"
   },
   "Flickless_GX": {
     "team": "GX",
@@ -1989,7 +1941,7 @@
     "adr": "121.2",
     "kpr": "0.64",
     "apr": "0.34",
-    "fkpr": "0.79"
+    "fkfd": "0.79"
   },
   "Mazino_MIBR": {
     "team": "MIBR",
@@ -2001,31 +1953,31 @@
     "adr": "124.4",
     "kpr": "0.65",
     "apr": "0.40",
-    "fkpr": "0.84"
+    "fkfd": "0.84"
   },
-  "Darker_LOUD": {
-    "team": "LOUD",
-    "alias": "Darker",
+  "SiuFatBB_TYL": {
+    "team": "TYL",
+    "alias": "SiuFatBB",
     "rating": "0.95",
-    "acs": "191",
-    "KD": "0.91",
+    "acs": "159",
+    "KD": "0.92",
+    "kast": "71%",
+    "adr": "106.5",
+    "kpr": "0.57",
+    "apr": "0.29",
+    "fkfd": "0.87"
+  },
+  "KROSTALY_FUT": {
+    "team": "FUT",
+    "alias": "KROSTALY",
+    "rating": "0.95",
+    "acs": "177",
+    "KD": "0.93",
     "kast": "72%",
-    "adr": "125.2",
-    "kpr": "0.66",
-    "apr": "0.36",
-    "fkpr": "1.04"
-  },
-  "Ethan_NRG": {
-    "team": "NRG",
-    "alias": "Ethan",
-    "rating": "0.95",
-    "acs": "178",
-    "KD": "0.89",
-    "kast": "73%",
-    "adr": "119.2",
-    "kpr": "0.61",
-    "apr": "0.38",
-    "fkpr": "0.90"
+    "adr": "117.0",
+    "kpr": "0.62",
+    "apr": "0.29",
+    "fkfd": "0.97"
   },
   "Ash_GEN": {
     "team": "GEN",
@@ -2037,19 +1989,7 @@
     "adr": "124.7",
     "kpr": "0.68",
     "apr": "0.27",
-    "fkpr": "0.89"
-  },
-  "NINJA_PCF": {
-    "team": "PCF",
-    "alias": "NINJA",
-    "rating": "0.95",
-    "acs": "184",
-    "KD": "0.94",
-    "kast": "67%",
-    "adr": "122.7",
-    "kpr": "0.66",
-    "apr": "0.20",
-    "fkpr": "0.77"
+    "fkfd": "0.89"
   },
   "Absol_ZETA": {
     "team": "ZETA",
@@ -2061,19 +2001,19 @@
     "adr": "136.4",
     "kpr": "0.74",
     "apr": "0.20",
-    "fkpr": "0.86"
+    "fkfd": "0.86"
   },
   "Setrod_FPX": {
     "team": "FPX",
     "alias": "Setrod",
     "rating": "0.95",
-    "acs": "212",
+    "acs": "213",
     "KD": "1.04",
     "kast": "71%",
     "adr": "131.3",
-    "kpr": "0.74",
-    "apr": "0.19",
-    "fkpr": "1.10"
+    "kpr": "0.75",
+    "apr": "0.18",
+    "fkfd": "1.10"
   },
   "free1ng_KRX": {
     "team": "KRX",
@@ -2085,19 +2025,7 @@
     "adr": "122.9",
     "kpr": "0.70",
     "apr": "0.17",
-    "fkpr": "0.82"
-  },
-  "SUYGETSU_KC": {
-    "team": "KC",
-    "alias": "SUYGETSU",
-    "rating": "0.94",
-    "acs": "176",
-    "KD": "0.97",
-    "kast": "71%",
-    "adr": "118.3",
-    "kpr": "0.63",
-    "apr": "0.22",
-    "fkpr": "1.04"
+    "fkfd": "0.82"
   },
   "jkuro_JDG": {
     "team": "JDG",
@@ -2105,83 +2033,59 @@
     "rating": "0.94",
     "acs": "190",
     "KD": "0.94",
-    "kast": "69%",
-    "adr": "120.6",
+    "kast": "68%",
+    "adr": "120.8",
     "kpr": "0.67",
     "apr": "0.33",
-    "fkpr": "0.72"
+    "fkfd": "0.76"
   },
-  "neT_GX": {
-    "team": "GX",
-    "alias": "neT",
+  "Darker_LOUD": {
+    "team": "LOUD",
+    "alias": "Darker",
     "rating": "0.94",
-    "acs": "191",
-    "KD": "0.90",
-    "kast": "70%",
-    "adr": "130.9",
-    "kpr": "0.64",
-    "apr": "0.29",
-    "fkpr": "1.12"
+    "acs": "189",
+    "KD": "0.89",
+    "kast": "72%",
+    "adr": "123.6",
+    "kpr": "0.65",
+    "apr": "0.37",
+    "fkfd": "1.05"
   },
   "xeus_FUT": {
     "team": "FUT",
     "alias": "xeus",
     "rating": "0.94",
-    "acs": "206",
+    "acs": "205",
     "KD": "0.98",
     "kast": "68%",
-    "adr": "135.1",
-    "kpr": "0.74",
+    "adr": "134.8",
+    "kpr": "0.73",
     "apr": "0.17",
-    "fkpr": "1.01"
+    "fkfd": "0.98"
   },
-  "Crewen_BBL": {
-    "team": "BBL",
-    "alias": "Crewen",
+  "crownfisher_JDG": {
+    "team": "JDG",
+    "alias": "crownfisher",
     "rating": "0.94",
     "acs": "186",
-    "KD": "0.95",
-    "kast": "66%",
-    "adr": "124.2",
-    "kpr": "0.67",
-    "apr": "0.20",
-    "fkpr": "0.87"
-  },
-  "KROSTALY_FUT": {
-    "team": "FUT",
-    "alias": "KROSTALY",
-    "rating": "0.94",
-    "acs": "175",
-    "KD": "0.91",
-    "kast": "72%",
-    "adr": "116.5",
-    "kpr": "0.61",
-    "apr": "0.30",
-    "fkpr": "1.01"
-  },
-  "starxo_M8": {
-    "team": "M8",
-    "alias": "starxo",
-    "rating": "0.93",
-    "acs": "179",
-    "KD": "0.89",
-    "kast": "69%",
-    "adr": "118.8",
-    "kpr": "0.62",
-    "apr": "0.29",
-    "fkpr": "0.90"
+    "KD": "0.93",
+    "kast": "70%",
+    "adr": "118.6",
+    "kpr": "0.66",
+    "apr": "0.33",
+    "fkfd": "0.75"
   },
   "jawgemo_G2": {
     "team": "G2",
     "alias": "jawgemo",
     "rating": "0.93",
-    "acs": "207",
-    "KD": "0.95",
+    "acs": "209",
+    "KD": "0.96",
     "kast": "70%",
-    "adr": "134.9",
+    "adr": "135.8",
     "kpr": "0.72",
     "apr": "0.24",
-    "fkpr": "0.89"
+    "fkfd": "0.88"
   },
   "Flex1n_DRG": {
     "team": "DRG",
@@ -2193,19 +2097,7 @@
     "adr": "112.8",
     "kpr": "0.61",
     "apr": "0.44",
-    "fkpr": "0.86"
-  },
-  "STYRON_TS": {
-    "team": "TS",
-    "alias": "STYRON",
-    "rating": "0.93",
-    "acs": "183",
-    "KD": "0.86",
-    "kast": "72%",
-    "adr": "123.0",
-    "kpr": "0.62",
-    "apr": "0.29",
-    "fkpr": "1.65"
+    "fkfd": "0.86"
   },
   "JitBoyS_FS": {
     "team": "FS",
@@ -2217,7 +2109,7 @@
     "adr": "130.1",
     "kpr": "0.69",
     "apr": "0.22",
-    "fkpr": "0.95"
+    "fkfd": "0.95"
   },
   "aluba_WOL": {
     "team": "WOL",
@@ -2229,7 +2121,7 @@
     "adr": "113.0",
     "kpr": "0.58",
     "apr": "0.29",
-    "fkpr": "0.75"
+    "fkfd": "0.75"
   },
   "bao_EG": {
     "team": "EG",
@@ -2241,7 +2133,7 @@
     "adr": "121.4",
     "kpr": "0.61",
     "apr": "0.26",
-    "fkpr": "0.83"
+    "fkfd": "0.84"
   },
   "qiutiaN_NOVA": {
     "team": "NOVA",
@@ -2253,7 +2145,7 @@
     "adr": "120.3",
     "kpr": "0.64",
     "apr": "0.29",
-    "fkpr": "0.93"
+    "fkfd": "0.93"
   },
   "Proxh_M8": {
     "team": "M8",
@@ -2265,7 +2157,7 @@
     "adr": "116.5",
     "kpr": "0.62",
     "apr": "0.37",
-    "fkpr": "0.71"
+    "fkfd": "0.68"
   },
   "Verse_DRG": {
     "team": "DRG",
@@ -2277,31 +2169,7 @@
     "adr": "115.5",
     "kpr": "0.61",
     "apr": "0.44",
-    "fkpr": "0.68"
-  },
-  "crownfisher_JDG": {
-    "team": "JDG",
-    "alias": "crownfisher",
-    "rating": "0.93",
-    "acs": "187",
-    "KD": "0.94",
-    "kast": "70%",
-    "adr": "119.8",
-    "kpr": "0.67",
-    "apr": "0.33",
-    "fkpr": "0.69"
-  },
-  "nobody_EDG": {
-    "team": "EDG",
-    "alias": "nobody",
-    "rating": "0.92",
-    "acs": "182",
-    "KD": "0.93",
-    "kast": "69%",
-    "adr": "116.6",
-    "kpr": "0.63",
-    "apr": "0.29",
-    "fkpr": "0.76"
+    "fkfd": "0.68"
   },
   "Haodong_TEC": {
     "team": "TEC",
@@ -2313,31 +2181,19 @@
     "adr": "113.6",
     "kpr": "0.65",
     "apr": "0.28",
-    "fkpr": "0.80"
+    "fkfd": "0.80"
   },
   "BerLIN_JDG": {
     "team": "JDG",
     "alias": "BerLIN",
     "rating": "0.92",
     "acs": "176",
-    "KD": "0.85",
-    "kast": "72%",
-    "adr": "122.8",
+    "KD": "0.84",
+    "kast": "71%",
+    "adr": "122.2",
     "kpr": "0.59",
-    "apr": "0.35",
-    "fkpr": "0.65"
-  },
-  "nekky_EF": {
-    "team": "EF",
-    "alias": "nekky",
-    "rating": "0.92",
-    "acs": "186",
-    "KD": "0.92",
-    "kast": "69%",
-    "adr": "125.5",
-    "kpr": "0.65",
-    "apr": "0.26",
-    "fkpr": "0.70"
+    "apr": "0.34",
+    "fkfd": "0.66"
   },
   "SyouTa_ZETA": {
     "team": "ZETA",
@@ -2349,19 +2205,7 @@
     "adr": "126.6",
     "kpr": "0.67",
     "apr": "0.19",
-    "fkpr": "1.02"
-  },
-  "chloric_NAVI": {
-    "team": "NAVI",
-    "alias": "chloric",
-    "rating": "0.92",
-    "acs": "173",
-    "KD": "0.88",
-    "kast": "70%",
-    "adr": "118.7",
-    "kpr": "0.60",
-    "apr": "0.29",
-    "fkpr": "0.73"
+    "fkfd": "1.02"
   },
   "SSeeS_DFM": {
     "team": "DFM",
@@ -2373,7 +2217,7 @@
     "adr": "106.0",
     "kpr": "0.56",
     "apr": "0.41",
-    "fkpr": "0.67"
+    "fkfd": "0.67"
   },
   "yatsuka_DFM": {
     "team": "DFM",
@@ -2385,7 +2229,7 @@
     "adr": "118.2",
     "kpr": "0.63",
     "apr": "0.26",
-    "fkpr": "0.88"
+    "fkfd": "0.88"
   },
   "Spear_EF": {
     "team": "EF",
@@ -2397,7 +2241,7 @@
     "adr": "135.1",
     "kpr": "0.67",
     "apr": "0.25",
-    "fkpr": "0.95"
+    "fkfd": "0.95"
   },
   "Jieni7_EDG": {
     "team": "EDG",
@@ -2409,7 +2253,7 @@
     "adr": "117.9",
     "kpr": "0.65",
     "apr": "0.38",
-    "fkpr": "0.80"
+    "fkfd": "0.80"
   },
   "Bai_AG": {
     "team": "AG",
@@ -2421,19 +2265,19 @@
     "adr": "122.8",
     "kpr": "0.65",
     "apr": "0.23",
-    "fkpr": "0.93"
+    "fkfd": "0.93"
   },
-  "koalanoob_FUR": {
-    "team": "FUR",
-    "alias": "koalanoob",
+  "nobody_EDG": {
+    "team": "EDG",
+    "alias": "nobody",
     "rating": "0.91",
-    "acs": "201",
-    "KD": "0.93",
-    "kast": "68%",
-    "adr": "128.4",
-    "kpr": "0.70",
-    "apr": "0.21",
-    "fkpr": "0.91"
+    "acs": "182",
+    "KD": "0.92",
+    "kast": "69%",
+    "adr": "116.7",
+    "kpr": "0.62",
+    "apr": "0.29",
+    "fkfd": "0.78"
   },
   "Kushy_RRQ": {
     "team": "RRQ",
@@ -2445,19 +2289,7 @@
     "adr": "117.8",
     "kpr": "0.60",
     "apr": "0.30",
-    "fkpr": "0.81"
-  },
-  "cauanzin_LOUD": {
-    "team": "LOUD",
-    "alias": "cauanzin",
-    "rating": "0.91",
-    "acs": "172",
-    "KD": "0.84",
-    "kast": "70%",
-    "adr": "114.7",
-    "kpr": "0.59",
-    "apr": "0.29",
-    "fkpr": "0.79"
+    "fkfd": "0.81"
   },
   "seven_PCF": {
     "team": "PCF",
@@ -2469,7 +2301,7 @@
     "adr": "133.4",
     "kpr": "0.66",
     "apr": "0.26",
-    "fkpr": "0.68"
+    "fkfd": "0.68"
   },
   "Caedye_DFM": {
     "team": "DFM",
@@ -2481,7 +2313,7 @@
     "adr": "126.3",
     "kpr": "0.67",
     "apr": "0.24",
-    "fkpr": "0.99"
+    "fkfd": "0.99"
   },
   "glacier_WOL": {
     "team": "WOL",
@@ -2493,7 +2325,7 @@
     "adr": "136.8",
     "kpr": "0.75",
     "apr": "0.19",
-    "fkpr": "0.87"
+    "fkfd": "0.87"
   },
   "JonahP_SEN": {
     "team": "SEN",
@@ -2505,7 +2337,7 @@
     "adr": "120.5",
     "kpr": "0.59",
     "apr": "0.27",
-    "fkpr": "0.58"
+    "fkfd": "0.58"
   },
   "SugarZ3ro_ZETA": {
     "team": "ZETA",
@@ -2517,19 +2349,7 @@
     "adr": "114.6",
     "kpr": "0.60",
     "apr": "0.39",
-    "fkpr": "0.71"
-  },
-  "NoMan_XLG": {
-    "team": "XLG",
-    "alias": "NoMan",
-    "rating": "0.89",
-    "acs": "181",
-    "KD": "0.91",
-    "kast": "68%",
-    "adr": "117.2",
-    "kpr": "0.64",
-    "apr": "0.20",
-    "fkpr": "0.86"
+    "fkfd": "0.71"
   },
   "Zexy_VL": {
     "team": "VL",
@@ -2541,7 +2361,7 @@
     "adr": "128.1",
     "kpr": "0.69",
     "apr": "0.16",
-    "fkpr": "0.97"
+    "fkfd": "0.97"
   },
   "bud_BLG": {
     "team": "BLG",
@@ -2553,19 +2373,7 @@
     "adr": "111.5",
     "kpr": "0.60",
     "apr": "0.25",
-    "fkpr": "0.36"
-  },
-  "Xdll_ZETA": {
-    "team": "ZETA",
-    "alias": "Xdll",
-    "rating": "0.88",
-    "acs": "169",
-    "KD": "0.85",
-    "kast": "66%",
-    "adr": "112.2",
-    "kpr": "0.60",
-    "apr": "0.23",
-    "fkpr": "0.79"
+    "fkfd": "0.36"
   },
   "DH_T1": {
     "team": "T1",
@@ -2577,7 +2385,7 @@
     "adr": "115.2",
     "kpr": "0.59",
     "apr": "0.36",
-    "fkpr": "1.12"
+    "fkfd": "1.12"
   },
   "Paincakes_EG": {
     "team": "EG",
@@ -2589,7 +2397,7 @@
     "adr": "111.5",
     "kpr": "0.55",
     "apr": "0.31",
-    "fkpr": "0.86"
+    "fkfd": "0.86"
   },
   "Life_DRG": {
     "team": "DRG",
@@ -2601,55 +2409,19 @@
     "adr": "131.5",
     "kpr": "0.71",
     "apr": "0.17",
-    "fkpr": "0.94"
+    "fkfd": "0.94"
   },
-  "ExiT_NAVI": {
-    "team": "NAVI",
-    "alias": "ExiT",
+  "NoMan_XLG": {
+    "team": "XLG",
+    "alias": "NoMan",
     "rating": "0.87",
-    "acs": "209",
-    "KD": "0.90",
-    "kast": "68%",
-    "adr": "134.9",
-    "kpr": "0.73",
-    "apr": "0.22",
-    "fkpr": "0.71"
-  },
-  "H1ber_Cat": {
-    "team": "Cat",
-    "alias": "H1ber",
-    "rating": "0.86",
-    "acs": "165",
-    "KD": "0.77",
-    "kast": "59%",
-    "adr": "111.5",
-    "kpr": "0.56",
-    "apr": "0.21",
-    "fkpr": "0.15"
-  },
-  "tex_MIBR": {
-    "team": "MIBR",
-    "alias": "tex",
-    "rating": "0.86",
-    "acs": "168",
-    "KD": "0.87",
+    "acs": "179",
+    "KD": "0.89",
     "kast": "67%",
-    "adr": "113.3",
-    "kpr": "0.60",
-    "apr": "0.21",
-    "fkpr": "0.85"
-  },
-  "Xan_RRQ": {
-    "team": "RRQ",
-    "alias": "Xan",
-    "rating": "0.86",
-    "acs": "201",
-    "KD": "0.90",
-    "kast": "68%",
-    "adr": "129.1",
-    "kpr": "0.71",
-    "apr": "0.17",
-    "fkpr": "0.94"
+    "adr": "116.4",
+    "kpr": "0.63",
+    "apr": "0.20",
+    "fkfd": "0.85"
   },
   "FT_BLG": {
     "team": "BLG",
@@ -2661,7 +2433,7 @@
     "adr": "113.9",
     "kpr": "0.63",
     "apr": "0.23",
-    "fkpr": "0.81"
+    "fkfd": "0.81"
   },
   "qpert_PCF": {
     "team": "PCF",
@@ -2673,7 +2445,7 @@
     "adr": "103.7",
     "kpr": "0.54",
     "apr": "0.36",
-    "fkpr": "0.64"
+    "fkfd": "0.64"
   },
   "seph1roth_FS": {
     "team": "FS",
@@ -2685,43 +2457,7 @@
     "adr": "110.8",
     "kpr": "0.62",
     "apr": "0.17",
-    "fkpr": "1.02"
-  },
-  "Jerrwin_SEN": {
-    "team": "SEN",
-    "alias": "Jerrwin",
-    "rating": "0.85",
-    "acs": "195",
-    "KD": "0.88",
-    "kast": "66%",
-    "adr": "127.0",
-    "kpr": "0.67",
-    "apr": "0.20",
-    "fkpr": "1.07"
-  },
-  "C0M_FUR": {
-    "team": "FUR",
-    "alias": "C0M",
-    "rating": "0.83",
-    "acs": "156",
-    "KD": "0.77",
-    "kast": "68%",
-    "adr": "108.8",
-    "kpr": "0.51",
-    "apr": "0.29",
-    "fkpr": "0.61"
-  },
-  "Rosé_BBL": {
-    "team": "BBL",
-    "alias": "Rosé",
-    "rating": "0.83",
-    "acs": "163",
-    "KD": "0.80",
-    "kast": "67%",
-    "adr": "113.2",
-    "kpr": "0.55",
-    "apr": "0.27",
-    "fkpr": "0.70"
+    "fkfd": "1.02"
   },
   "Zellsis_C9": {
     "team": "C9",
@@ -2733,7 +2469,7 @@
     "adr": "104.1",
     "kpr": "0.54",
     "apr": "0.36",
-    "fkpr": "0.91"
+    "fkfd": "0.91"
   },
   "natz_TS": {
     "team": "TS",
@@ -2745,7 +2481,7 @@
     "adr": "119.8",
     "kpr": "0.61",
     "apr": "0.20",
-    "fkpr": "1.07"
+    "fkfd": "1.07"
   },
   "Eggsterr_ENVY": {
     "team": "ENVY",
@@ -2757,19 +2493,7 @@
     "adr": "112.1",
     "kpr": "0.61",
     "apr": "0.25",
-    "fkpr": "0.91"
-  },
-  "Dantedeu5_KRÜ": {
-    "team": "KRÜ",
-    "alias": "Dantedeu5",
-    "rating": "0.79",
-    "acs": "181",
-    "KD": "0.81",
-    "kast": "68%",
-    "adr": "117.2",
-    "kpr": "0.63",
-    "apr": "0.23",
-    "fkpr": "0.75"
+    "fkfd": "0.91"
   },
   "FKEY_TE": {
     "team": "TE",
@@ -2781,7 +2505,7 @@
     "adr": "113.2",
     "kpr": "0.62",
     "apr": "0.30",
-    "fkpr": "1.04"
+    "fkfd": "1.04"
   },
   "Efina_GEN": {
     "team": "GEN",
@@ -2793,7 +2517,7 @@
     "adr": "101.6",
     "kpr": "0.51",
     "apr": "0.28",
-    "fkpr": "0.84"
+    "fkfd": "0.84"
   },
   "C1ndeR_VL": {
     "team": "VL",
@@ -2805,7 +2529,7 @@
     "adr": "95.1",
     "kpr": "0.50",
     "apr": "0.38",
-    "fkpr": "0.69"
+    "fkfd": "0.69"
   },
   "Flicker_KRX": {
     "team": "KRX",
@@ -2817,7 +2541,7 @@
     "adr": "104.1",
     "kpr": "0.50",
     "apr": "0.24",
-    "fkpr": "0.69"
+    "fkfd": "0.69"
   },
   "Sharks_XLG": {
     "team": "XLG",
@@ -2829,7 +2553,7 @@
     "adr": "132.0",
     "kpr": "0.78",
     "apr": "0.19",
-    "fkpr": "1.00"
+    "fkfd": "1.00"
   },
   "xihe_TYL": {
     "team": "TYL",
@@ -2841,6 +2565,6 @@
     "adr": "132.0",
     "kpr": "0.66",
     "apr": "0.41",
-    "fkpr": "0.1"
+    "fkfd": "0.1"
   }
 }

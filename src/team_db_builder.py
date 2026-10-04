@@ -14,7 +14,7 @@ with open('../data/team_stats.json', 'r', encoding='utf-8') as f:
 def calculate_baselines(player_stats):
     baselines = {}
     
-    stats_to_calc = ['rating', 'acs', 'KD', 'kast', 'adr', 'kpr', 'apr', 'fkpr']
+    stats_to_calc = ['rating', 'acs', 'KD', 'kast', 'adr', 'kpr', 'apr', 'fkfd']
     
     for stat in stats_to_calc:
         all_values = []
@@ -95,7 +95,7 @@ for team, data in team_stats.items():
     team_adr = safe_mean(player_stats.get(team, {}).get('adr', []))
     team_kpr = safe_mean(player_stats.get(team, {}).get('kpr', []))
     team_apr = safe_mean(player_stats.get(team, {}).get('apr', []))
-    team_fkpr = safe_mean(player_stats.get(team, {}).get('fkpr', []))
+    team_fkpr = safe_mean(player_stats.get(team, {}).get('fkfd', []))
 
     if data['matches'] > 0:
         # calc winrate
